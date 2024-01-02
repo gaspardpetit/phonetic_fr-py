@@ -9,6 +9,16 @@ import re
 #	MIT licence
 #
 
+ACCENTS = {'É': 'E', 'È': 'E', 'Ë': 'E', 'Ê': 'E', 'Á': 'A', 'À': 'A', 'Ä': 'A', 'Â': 'A',
+            'Å': 'A', 'Ã': 'A', 'Æ': 'E', 'Ï': 'I', 'Î': 'I', 'Ì': 'I', 'Í': 'I',
+            'Ô': 'O', 'Ö': 'O', 'Ò': 'O', 'Ó': 'O', 'Õ': 'O', 'Ø': 'O', 'Œ': 'OEU',
+            'Ú': 'U', 'Ù': 'U', 'Û': 'U', 'Ü': 'U', 'Ñ': 'N', 'Ç': 'S', '¿': 'E'}
+MIN_TO_MAJ = {'é': 'É', 'è': 'È', 'ë': 'Ë', 'ê': 'Ê', 'á': 'Á', 'â': 'Â', 'à': 'À', 'Ä': 'A',
+            'Â': 'A', 'å': 'Å', 'ã': 'Ã', 'æ': 'Æ', 'ï': 'Ï', 'î': 'Î', 'ì': 'Ì', 'í': 'Í',
+            'ô': 'Ô', 'ö': 'Ö', 'ò': 'Ò', 'ó': 'Ó', 'õ': 'Õ', 'ø': 'Ø', 'œ': 'Œ',
+            'ú': 'Ú', 'ù': 'Ù', 'û': 'Û', 'ü': 'Ü', 'ç': 'Ç', 'ñ': 'Ñ', 'ß': 'S'}
+
+# pylint: disable=too-many-return-statements,too-many-branches,too-many-statements
 def phonetic(french_word):
     """
     Converts a French word into its phonetic representation.
@@ -23,19 +33,11 @@ def phonetic(french_word):
     >>> phonetic("Python")
     'PITON'
     """
-    accents = {'É': 'E', 'È': 'E', 'Ë': 'E', 'Ê': 'E', 'Á': 'A', 'À': 'A', 'Ä': 'A', 'Â': 'A',
-               'Å': 'A', 'Ã': 'A', 'Æ': 'E', 'Ï': 'I', 'Î': 'I', 'Ì': 'I', 'Í': 'I',
-               'Ô': 'O', 'Ö': 'O', 'Ò': 'O', 'Ó': 'O', 'Õ': 'O', 'Ø': 'O', 'Œ': 'OEU',
-               'Ú': 'U', 'Ù': 'U', 'Û': 'U', 'Ü': 'U', 'Ñ': 'N', 'Ç': 'S', '¿': 'E'}
-    min2maj = {'é': 'É', 'è': 'È', 'ë': 'Ë', 'ê': 'Ê', 'á': 'Á', 'â': 'Â', 'à': 'À', 'Ä': 'A',
-               'Â': 'A', 'å': 'Å', 'ã': 'Ã', 'æ': 'Æ', 'ï': 'Ï', 'î': 'Î', 'ì': 'Ì', 'í': 'Í',
-               'ô': 'Ô', 'ö': 'Ö', 'ò': 'Ò', 'ó': 'Ó', 'õ': 'Õ', 'ø': 'Ø', 'œ': 'Œ',
-               'ú': 'Ú', 'ù': 'Ù', 'û': 'Û', 'ü': 'Ü', 'ç': 'Ç', 'ñ': 'Ñ', 'ß': 'S'}
 
     # minuscules accentuées ou composées en majuscules simples
-    french_word = french_word.translate(str.maketrans(min2maj))
+    french_word = french_word.translate(str.maketrans(MIN_TO_MAJ))
     # majuscules accentuées ou composées en majuscules simples
-    french_word = french_word.translate(str.maketrans(accents))
+    french_word = french_word.translate(str.maketrans(ACCENTS))
     # on passe tout le reste en majuscules
     french_word = french_word.upper()
     # on garde uniquement les lettres de A à Z
@@ -57,56 +59,28 @@ def phonetic(french_word):
     french_word = re.sub(r'(.)\1', r'\1', french_word)
 
     # quelques cas particuliers
-    if french_word == "CD":
-        return french_word
+    special_cases = {
+        "CD": "CD",
+        "BD": "BD",
+        "BV": "BV",
+        "TABAC": "TABA",
+        "FEU": "FE",
+        "FE": "FE",
+        "FER": "FER",
+        "FIEF": "FIEF",
+        "FJORD": "FJORD",
+        "GOAL": "GOL",
+        "FLEAU": "FLEO",
+        "HIER": "IER",
+        "HEU": "E",
+        "HE": "E",
+        "OS": "OS",
+        "RIZ": "RI",
+        "RAZ": "RA",
+    }
 
-    if french_word == "BD":
-        return french_word
-
-    if french_word == "BV":
-        return french_word
-
-    if french_word == "TABAC":
-        return "TABA"
-
-    if french_word == "FEU":
-        return "FE"
-
-    if french_word == "FE":
-        return french_word
-
-    if french_word == "FER":
-        return french_word
-
-    if french_word == "FIEF":
-        return french_word
-
-    if french_word == "FJORD":
-        return french_word
-
-    if french_word == "GOAL":
-        return "GOL"
-
-    if french_word == "FLEAU":
-        return "FLEO"
-
-    if french_word == "HIER":
-        return "IER"
-
-    if french_word == "HEU":
-        return "E"
-
-    if french_word == "HE":
-        return "E"
-
-    if french_word == "OS":
-        return french_word
-
-    if french_word == "RIZ":
-        return "RI"
-
-    if french_word == "RAZ":
-        return "RA"
+    if french_word in special_cases:
+        return special_cases[french_word]
 
     # pré-traitements
     # Terminations OING -> OIN
@@ -459,18 +433,17 @@ def phonetic(french_word):
             return saved_word
 
         if bool(re.match("[RFMLVSPJDF][AEIOU]", saved_word)):
-            if len(saved_word) == 3:
-                return saved_word[:2]  # mots de trois lettres supposés simples
-            if len(saved_word) == 4:
-                return saved_word[:3]  # mots de quatre lettres supposés simples
+            if 2 <= len(saved_word) <= 4:
+                # mots de trois ou quatre lettres supposés simples
+                return saved_word[:len(saved_word) - 1]
 
         if len(saved_word2) > 1:
             return saved_word2
 
-    if len(french_word) > 1:
+    elif len(french_word) > 1:
         return french_word[:16]  # Je limite à 16 caractères mais vous faites comme vous voulez!
-    else:
-        return ''
+
+    return ''
 
 def main():
     """Sample usage"""
