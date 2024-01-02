@@ -26,7 +26,7 @@ faille FAIL
 faillir FAILIR
 faim FIN
 faineant FAINEAN
-faire FER
+faire FAIR
 faisceau FAISO
 faiseur FAISER
 faite FAIT
@@ -62,7 +62,7 @@ faucille FOSIL
 faucon FOKON
 faufiler FOFIL
 faune FON
-faussaire FOSER
+faussaire FOSAIR
 faut FO
 faute FOT
 fauteuil FOTEIL
@@ -104,7 +104,7 @@ fermier FERMI
 fermoir FERMOIR
 feroce FEROS
 ferraille FERAIL
-ferroviaire FEROVIER
+ferroviaire FEROVIAIR
 ferrer FER
 ferry FERI
 fete FET
@@ -163,7 +163,7 @@ fjord FJORD
 flacon FLAKON
 flageoler FLAJOL
 flageolet FLAJOL
-flairer FLER
+flairer FLAIR
 flamant FLAMAN
 flamand FLAMAN
 flamber FLANB
@@ -364,7 +364,7 @@ futur FUTUR
 fuyant FUIAN
 ecervele ESERVEL
 eau O
-ebahir EBER
+ebahir EBAIR
 eblouir EBLOUIR
 ebullition EBULISION
 ecchymose EKIMOS
@@ -385,7 +385,7 @@ echine ECHIN
 echo EKO
 echouer ECHOU
 eclaircir EKLAIRSIR
-eclairer EKLER
+eclairer EKLAIR
 eclat EKLA
 eclater EKLAT
 eclectique EKLEKTIK
@@ -610,7 +610,7 @@ entreposer ANTREPOS
 entrelacer ANTRELAS
 entresol ANTRESOL
 entropie ANTROPI
-envahir ANVER
+envahir ANVAIR
 envergure ANVERGUR
 enumerer ENUMER
 envie ANVI
@@ -959,11 +959,11 @@ colimaçon KOLIMASON
 collision KOLISION
 colombin KOLONBIN
 combien KONBIN
-commissaire KOMISER
+commissaire KOMISAIR
 complexe KONPLEX
 complique KONPLIK
 comprehensible KONPREANSIBL
-concessionnaire KONSESIONER
+concessionnaire KONSESIONAIR
 conclure KONKLUR
 concours KONKOUR
 concorde KONKORD
@@ -1052,7 +1052,7 @@ calmant KALMAN
 calomnie KALOMNI
 camion KAMION
 cambouis KANBOUI
-calvaire KALVER
+calvaire KALVAIR
 camelia KAMELIA
 camomille KAMOMIL
 camoufler KAMOUFL
@@ -1067,7 +1067,7 @@ canevas KANEVA
 candidat KANDIDA
 caoutchouc KAOUTCHOU
 canular KANULAR
-capillaire KAPILER
+capillaire KAPILAIR
 capote KAPOT
 capricorne KAPRIKORN
 capsule KAPSUL
@@ -1101,7 +1101,7 @@ caution KOSION
 cave KAV
 cellule SELUL
 cellophane SELOFAN
-centenaire SANTENER
+centenaire SANTENAIR
 central SANTRAL
 centaure SANTOR
 centuple SANTUPL
@@ -1178,7 +1178,7 @@ admirer ADMIR
 admettre ADMETR
 aerien AERIN
 aerodynamique AERODINAMIK
-affaire AFER
+affaire AFAIR
 affoler AFOL
 agglomerer AGLOMER
 aimer AIM
@@ -1215,7 +1215,7 @@ auteur OTER
 aurore OROR
 automne OTOMN
 autruche OTRUCH
-auxiliaire OXILIER
+auxiliaire OXILIAIR
 avalanche AVALANCH
 avertissement AVERTISEMAN
 azote AZOT
@@ -1238,7 +1238,7 @@ bataille BATAI
 bezef BEZ
 bernard-l-ermite BERNARLERMIT
 betonniere BETONIER
-bestiaire BESTIER
+bestiaire BESTIAIR
 bete BET
 beton BETON
 bibelot BIBELO
@@ -1407,7 +1407,7 @@ gerondif JERONDIF
 geste JEST
 gesier JESI
 gestion JESTION
-gestionnaire JESTIONER
+gestionnaire JESTIONAIR
 gestuelle JESTUEL
 geyser JEIS
 ghetto GETO
@@ -1450,7 +1450,7 @@ glace GLAS
 glaciere GLASIER
 glaciologie GLASIOLOJI
 gladiateur GLADIATER
-glaire GLER
+glaire GLAIR
 glaieul GLAIEL
 glaieuls GLAIEL
 glaive GLAIV
@@ -1466,7 +1466,7 @@ glissoire GLISOIR
 globe GLOB
 gloire GLOIR
 globule GLOBUL
-globulaire GLOBULER
+globulaire GLOBULAIR
 gloriole GLORIOL
 gloria GLORIA
 glotte GLOT
@@ -1539,7 +1539,7 @@ gouttiere GOUTIER
 gouverner GOUVERN
 gouvernail GOUVERNAIL
 goyave GOIAV
-grabataire GRABATER
+grabataire GRABATAIR
 grabuge GRABUJ
 gracier GRASI
 grace GRAS
@@ -1551,7 +1551,7 @@ gradin GRADIN
 graine GRAIN
 graisse GRAIS
 grain GRIN
-grammaire GRAMER
+grammaire GRAMAIR
 gramme GRAM
 grand GRAN
 grandir GRANDIR
@@ -1583,7 +1583,7 @@ gredin GREDIN
 gredine GREDIN
 greffe GR
 greffon GREFON
-gregaire GREGER
+gregaire GREGAIR
 grele GREL
 gregorien GREGORIN
 grelot GRELO
@@ -1699,7 +1699,7 @@ haddock ADOK
 haie AI
 haillon AILON
 haine AIN
-haïr ER
+hair AIR
 halage ALAJ
 hale AL
 haleine ALAIN
@@ -1744,7 +1744,7 @@ heaume OM
 hebete EBET
 hebraique EBRAIK
 heberger EBERJ
-hebdomadaire EBDOMADER
+hebdomadaire EBDOMADAIR
 hebreu EBR
 hecatombe EKATONB
 hecto EKTO
@@ -1764,7 +1764,7 @@ herbicide ERBISID
 herbivore ERBIVOR
 hercule ERKUL
 here ER
-hereditaire EREDITER
+hereditaire EREDITAIR
 herisser ERIS
 heriter ERIT
 heritage ERITAJ
@@ -1823,7 +1823,7 @@ honnir ONIR
 honorer ONOR
 honte ONT
 honteux ONT
-horaire ORER
+horaire ORAIR
 hopital OPITAL
 horder ORD
 horizon ORIZON
@@ -1918,7 +1918,7 @@ illusion ILUSION
 illustre ILUSTR
 ilot ILO
 image IMAJ
-imaginaire IMAJINER
+imaginaire IMAJINAIR
 imbattable INBATABL
 imberbe INBERB
 imbecile INBESIL
@@ -1936,7 +1936,7 @@ immobile IMOBIL
 immoler IMOL
 immonde IMOND
 immortel IMORTEL
-impair INPER
+impair INPAIR
 imparable INPARABL
 imparfait INPARFAI
 impasse INPAS
@@ -1951,7 +1951,7 @@ impoli INPOLI
 importer INPORT
 importun INPORTIN
 imposer INPOS
-impopulaire INPOPULER
+impopulaire INPOPULAIR
 impossible INPOSIBL
 impot INPO
 impots INPO
@@ -2193,7 +2193,7 @@ intuition INTUISION
 inusable INUSABL
 invalide INVALID
 invasion INVASION
-inventaire INVANTER
+inventaire INVANTAIR
 inventer INVANT
 inverse INVERS
 inverti INVERTI
@@ -2285,9 +2285,9 @@ journaliste JOURNALIST
 jubile JUBIL
 judas JUDA
 judicieux JUDISI
-judiciaire JUDISIER
+judiciaire JUDISIAIR
 juger JUJ
-jugulaire JUGULER
+jugulaire JUGULAIR
 jules JUL
 juif JUIF
 juillet JUI
@@ -2421,7 +2421,7 @@ lecher LECH
 lecheur LECHER
 lecteur LEKTER
 legal LEGAL
-legataire LEGATER
+legataire LEGATAIR
 legation LEGASION
 legato LEGATO
 legende LEJAND
@@ -2495,14 +2495,14 @@ litiere LITIER
 litige LITIJ
 litre LITR
 litote LITOT
-litteraire LITERER
+litteraire LITERAIR
 liturgie LITURJI
 living LIVING
 livre LIVR
 lobe LOB
 local LOKAL
 locatif LOKATIF
-locataire LOKATER
+locataire LOKATAIR
 locution LOKUSION
 locomotive LOKOMOTIV
 loge LOJ
@@ -2546,7 +2546,7 @@ lueur LUER
 lucidite LUSIDIT
 lugubre LUGUBR
 lumbago LINBAGO
-luminaire LUMINER
+luminaire LUMINAIR
 lunch LINCH
 lundi LINDI
 lune LUN
@@ -2617,7 +2617,7 @@ maillot MAIO
 main MIN
 maint MIN
 mainte MINT
-maire MER
+maire MAIR
 mais MAI
 maison MAISON
 maitre MAITR
@@ -2799,7 +2799,7 @@ mentor MANTOR
 menuet MENU
 meplat MEPLA
 mer ME
-mercenaire MERSENER
+mercenaire MERSENAIR
 mercerie MERSERI
 merci MERSI
 mercredi MERKREDI
@@ -2915,7 +2915,7 @@ modiste MODIST
 moeurs MER
 moeurs MER
 moellon MOELON
-mohair MOER
+mohair MOAIR
 moignon MOINION
 moine MOIN
 moineau MOINO
@@ -2924,7 +2924,7 @@ mois MOI
 moise MOIS
 moisson MOISON
 moitie MOITI
-molaire MOLER
+molaire MOLAIR
 molester MOLEST
 molette MOLET
 mollir MOLIR
@@ -2973,7 +2973,7 @@ mort MOR
 mortadelle MORTADEL
 mortier MORTI
 mortifier MORTIFI
-mortuaire MORTUER
+mortuaire MORTUAIR
 morue MORU
 morve MORV
 mosquee MOSK
@@ -3019,7 +3019,7 @@ muid MUI
 mulet MUL
 multicolore MULTIKOLOR
 multiple MULTIPL
-multimillionnaire MULTIMILIONER
+multimillionnaire MULTIMILIONAIR
 multitude MULTITUD
 munificence MUNIFISANS
 muphti MUFTI
@@ -3173,7 +3173,7 @@ normatif NORMATIF
 norvegien NORVEJIN
 nostalgie NOSTALJI
 notable NOTABL
-notaire NOTER
+notaire NOTAIR
 notamment NOTAMAN
 note NOT
 notifier NOTIFI
@@ -3205,7 +3205,7 @@ nymphe NINF
 nymphea NINFEA
 oasis OASI
 obedience OBEDINS
-obeir OBER
+obeir OBAIR
 obelisque OBELISK
 objecter OBJEKT
 objectif OBJEKTIF
@@ -3341,7 +3341,7 @@ orgueil ORGEIL
 orifice ORIFIS
 oriflamme ORIFLAM
 origan ORIGAN
-originaire ORIJINER
+originaire ORIJINAIR
 original ORIJINAL
 origine ORIJIN
 oripeau ORIPO
@@ -3364,7 +3364,7 @@ oser OS
 osmose OSMOS
 ossature OSATUR
 osseux OS
-ossuaire OSUER
+ossuaire OSUAIR
 ostensoir OSTANSOIR
 ostracisme OSTRASISM
 ottoman OTOMAN
@@ -3393,7 +3393,7 @@ ouvert OUVER
 ouvrage OUVRAJ
 ouvrir OUVRIR
 ouvroir OUVROIR
-ovaire OVER
+ovaire OVAIR
 ovale OVAL
 overdose OVERDOS
 ovule OVUL
@@ -3424,7 +3424,7 @@ paillasse PAIAS
 paille PAI
 paillette PAIET
 pain PIN
-pair PER
+pair PAIR
 paitre PAITR
 paix PAI
 palabre PALABR
@@ -3545,7 +3545,7 @@ parricide PARISID
 parsemer PARSEM
 part PAR
 partance PARTANS
-partenaire PARTENER
+partenaire PARTENAIR
 parterre PARTER
 participer PARTISIP
 particulariser PARTIKULARIS
@@ -3587,7 +3587,7 @@ patelin PATELIN
 patent PATAN
 paternite PATERNIT
 pathogene PATOJAN
-patibulaire PATIBULER
+patibulaire PATIBULAIR
 patient PASIN
 patience PASINS
 patin PATIN
@@ -3631,7 +3631,7 @@ peche PECH
 pecnot PEKNO
 pecore PEKOR
 pectoraux PEKTORO
-pecuniaire PEKUNIER
+pecuniaire PEKUNIAIR
 pedagogie PEDAGOJI
 pedale PEDAL
 pedant PEDAN
@@ -3732,7 +3732,7 @@ peripateticienne PERIPATETISIAN
 periphrase PERIFRAS
 periple PERIPL
 perir PERIR
-periscolaire PERISKOLER
+periscolaire PERISKOLAIR
 periscope PERISKOP
 peritoine PERITOIN
 perle PERL
@@ -3747,7 +3747,7 @@ peronelle PERONEL
 perorer PEROR
 peroraison PERORAISON
 peroxyde PEROXID
-perpendiculaire PERPANDIKULER
+perpendiculaire PERPANDIKULAIR
 perpetuel PERPETUEL
 perpetuite PERPETUIT
 perplexe PERPLEX
@@ -3934,7 +3934,7 @@ plaider PLAID
 plaie PLAI
 plaindre PLINDR
 plaine PLAIN
-plaire PLER
+plaire PLAIR
 plaisant PLAISAN
 plaisir PLAISIR
 plan PLAN
@@ -4024,7 +4024,7 @@ poisson POISON
 poivre POIVR
 poix POI
 poker POK
-polaire POLER
+polaire POLAIR
 pole POL
 polariser POLARIS
 polder POLD
@@ -4098,7 +4098,7 @@ portier PORTI
 portillon PORTILON
 portion PORSION
 portrait PORTRAI
-portuaire PORTUER
+portuaire PORTUAIR
 portugais PORTUGAI
 poser POS
 positif POSITIF
@@ -4186,7 +4186,7 @@ prealable PREALABL
 preau PRO
 preavis PREAVI
 preambule PREANBUL
-precaire PREKER
+precaire PREKAIR
 precaution PREKOSION
 preceder PRESED
 precepte PRESEPT
@@ -4225,14 +4225,14 @@ premediter PREMEDIT
 premenstruel PREMANSTRUEL
 premices PREMIS
 premier PREMI
-premilitaire PREMILITER
-preliminaire PRELIMINER
+premilitaire PREMILITAIR
+preliminaire PRELIMINAIR
 premisse PREMIS
 premonition PREMONISION
 premunir PREMUNIR
 prenable PRENABL
 prenant PRENAN
-premolaire PREMOLER
+premolaire PREMOLAIR
 prenatal PRENATAL
 prendre PRANDR
 prenom PRENON
@@ -4249,7 +4249,7 @@ prerogative PREROGATIV
 pres PR
 presbytere PRESBITER
 prescience PRESIANS
-prescolaire PRESKOLER
+prescolaire PRESKOLAIR
 prescription PRESKRIPSION
 prescrire PRESKRIR
 presence PRESANS
@@ -4291,7 +4291,7 @@ prieur PRIER
 primat PRIMA
 primaute PRIMOT
 prime PRIM
-primaire PRIMER
+primaire PRIMAIR
 primitif PRIMITIF
 primo PRIMO
 prince PRINS
@@ -4346,7 +4346,7 @@ projecteur PROJEKTER
 projectile PROJEKTIL
 projection PROJEKSION
 projeter PROJET
-proletaire PROLETER
+proletaire PROLETAIR
 proliferer PROLIFER
 prolifique PROLIFIK
 prolixe PROLIX
@@ -4490,7 +4490,7 @@ pyrogravure PIROGRAVUR
 pylore PILOR
 pyromane PIROMAN
 python PITON
-quadragenaire KADRAJENER
+quadragenaire KADRAJENAIR
 quadrant KADRAN
 quadrature KADRATUR
 quadrichromie KADRIKROMI
@@ -4825,7 +4825,7 @@ reellement RELEMAN
 reembaucher RANBOCH
 reengager RANGAJ
 reexamen REXAMAN
-refaire REFER
+refaire REFAIR
 refection REFEKSION
 refectoire REFEKTOIR
 refermer REFERM
@@ -4838,7 +4838,7 @@ reflux REFLU
 refondre REFONDR
 reforme REFORM
 refouler REFOUL
-refractaire REFRAKTER
+refractaire REFRAKTAIR
 refrain REFRIN
 refrener REFRAN
 refroidir REFROIDIR
@@ -4961,7 +4961,7 @@ renvoyer RANVOI
 reoccuper REOKUP
 reorganiser REORGANIS
 reorienter REORIANT
-repaire REPER
+repaire REPAIR
 repandre REPANDR
 reparer REPAR
 reparler REPARL
@@ -5185,7 +5185,7 @@ ronger RONJ
 roquefort ROKEFOR
 ronron RONRON
 rosace ROSAS
-rosaire ROSER
+rosaire ROSAIR
 rose ROS
 rosbif ROSBIF
 rosette ROSET
@@ -5279,7 +5279,7 @@ sacrum SAKRUM
 safari SAFARI
 safran SAFRAN
 sage SAJ
-sagittaire SAJITER
+sagittaire SAJITAIR
 saigner SAIN
 saillie SAILI
 sain SIN
@@ -5290,7 +5290,7 @@ saisie SAISI
 saison SAISON
 salade SALAD
 salace SALAS
-salaire SALER
+salaire SALAIR
 salaison SALAISON
 salamalecs SALAMALEK
 salamandre SALAMANDR
@@ -5334,7 +5334,7 @@ sanguin SANGIN
 sanguine SANGIN
 sanguinolent SANGINOLAN
 sanie SANI
-sanitaire SANITER
+sanitaire SANITAIR
 sans SAN
 sansonnet SANSON
 santal SANTAL
@@ -5395,13 +5395,13 @@ saxophone SAXOFON
 saynete SAINET
 scabieux SKABI
 scabreux SKABR
-scalaire SKALER
+scalaire SKALAIR
 scalene SKALAN
 scampi SKANPI
 scandale SKANDAL
 scandinave SKANDINAV
 scanner SKAN
-scapulaire SKAPULER
+scapulaire SKAPULAIR
 scarole SKAROL
 scarifier SKARIFI
 sceau SO
@@ -5491,7 +5491,7 @@ sembler SANBL
 semer SEM
 semelle SEMEL
 semestre SEMESTR
-seminaire SEMINER
+seminaire SEMINAIR
 semis SEMI
 semoir SEMOIR
 semonce SEMONS
@@ -5539,7 +5539,7 @@ seul SEL
 seve SEV
 sevices SEVIS
 sexiste SEXIST
-sexagenaire SEXAJENER
+sexagenaire SEXAJENAIR
 sevrer SEVR
 sextant SEXTAN
 sexologue SEXOLOG
@@ -5577,7 +5577,7 @@ sieste SIEST
 sieur SIER
 siffler SIFL
 sigle SIGL
-signataire SINIATER
+signataire SINIATAIR
 signature SINIATUR
 signe SIN
 silence SILANS
@@ -5652,10 +5652,10 @@ solenoide SOLENOID
 solex SOL
 solfatare SOLFATAR
 solfege SOLFEJ
-solidaire SOLIDER
+solidaire SOLIDAIR
 soliloque SOLILOK
 soliste SOLIST
-solitaire SOLITER
+solitaire SOLITAIR
 solitude SOLITUD
 solive SOLIV
 solliciter SOLISIT
@@ -5666,13 +5666,13 @@ solvable SOLVABL
 somatique SOMATIK
 sombrer SONBR
 sombrero SONBRERO
-sommaire SOMER
+sommaire SOMAIR
 somme SOM
 sommation SOMASION
 sommelier SOMELI
 sommier SOMI
 sommite SOMIT
-somptuaire SONPTUER
+somptuaire SONPTUAIR
 son SON
 sonate SONAT
 songer SONJ
@@ -5724,7 +5724,7 @@ sournois SOURNOI
 sous SOU
 souscripteur SOUSKRIPTER
 souscription SOUSKRIPSION
-soustraire SOUSTRER
+soustraire SOUSTRAIR
 soustraction SOUSTRAKSION
 soute SOUT
 soutien SOUTIN
@@ -5824,7 +5824,7 @@ stupre STUPR
 style STIL
 stylo STILO
 styrene STIRAN
-suaire SUER
+suaire SUAIR
 suave SUAV
 subalterne SUBALTERN
 subconscient SUBKONSIAN
@@ -5842,7 +5842,7 @@ suborner SUBORN
 subreptice SUBREPTIS
 subroge SUBROJ
 subsequent SUBSEKAN
-subsidiaire SUBSIDIER
+subsidiaire SUBSIDIAIR
 subsister SUBSIST
 subsonique SUBSONIK
 substituer SUBSTITU
@@ -5973,7 +5973,7 @@ tahitien TAISIN
 taie TAI
 taiga TAIGA
 taille TAI
-taire TER
+taire TAIR
 talc TALK
 talent TALAN
 talion TALION
@@ -6241,9 +6241,9 @@ tract TRAKT
 traction TRAKSION
 trafic TRAFIK
 tragedie TRAJEDI
-trahir TRER
+trahir TRAIR
 train TRIN
-traire TRER
+traire TRAIR
 traitable TRAITABL
 traitant TRAITAN
 tramway TRAMOI
@@ -6301,7 +6301,7 @@ tribal TRIBAL
 tribu TRIBU
 tribord TRIBOR
 tribun TRIBIN
-tricentenaire TRISANTENER
+tricentenaire TRISANTENAIR
 tricher TRICH
 trichromie TRIKROMI
 tricolore TRIKOLOR
@@ -6430,14 +6430,14 @@ usufruit USUFRUI
 usuel USUEL
 usurper USURP
 uterus UTERU
-utilitaire UTILITER
+utilitaire UTILITAIR
 utopie UTOPI
 utopiste UTOPIST
 vacance VAKANS
 vacanciere VAKANSIER
 vacante VAKANT
 vacarme VAKARM
-vacataire VAKATER
+vacataire VAKATAIR
 vacation VAKASION
 vaccin VAKSIN
 vacciner VAKSIN
@@ -6501,7 +6501,7 @@ valsante VALSANT
 valser VALS
 valseuse VALSES
 valve VALV
-valvulaire VALVULER
+valvulaire VALVULAIR
 valvule VALVUL
 vampe VANP
 vampire VANPIR
@@ -6526,7 +6526,7 @@ varan VARAN
 variabilite VARIABILIT
 variable VARIABL
 Varsovie VARSOVI
-vasculaire VASKULER
+vasculaire VASKULAIR
 vase VAS
 vasectomiser VASEKTOMIS
 vaseline VASELIN
@@ -6564,7 +6564,7 @@ veineuse VAINES
 veinule VAINUL
 veinure VAINUR
 veliplanchiste VELIPLANCHIST
-velleitaire VELEITER
+velleitaire VELEITAIR
 velleite VELEIT
 velo VELO
 veloce VELOS
@@ -6698,13 +6698,13 @@ vespasienne VESPASIN
 vesperale VESPERAL
 vessie VESI
 veste VEST
-vestiaire VESTIER
+vestiaire VESTIAIR
 vestibule VESTIBUL
 vestige VESTIJ
-vestimentaire VESTIMANTER
+vestimentaire VESTIMANTAIR
 veston VESTON
 vetement VETEMAN
-veterinaire VETERINER
+veterinaire VETERINAIR
 vetir VETIR
 vetuste VETUST
 veuvage VEVAJ
@@ -6724,7 +6724,7 @@ vibratoire VIBRATOIR
 vibrer VIBR
 vibreur VIBRER
 vibromasseur VIBROMASER
-vicaire VIKER
+vicaire VIKAIR
 vice VIS
 vichy VICHI
 vicieuse VISIES
@@ -6925,7 +6925,7 @@ vivres VIVR
 vizir VIZIR
 vlan VLAN
 vocable VOKABL
-vocabulaire VOKABULER
+vocabulaire VOKABULAIR
 vocale VOKAL
 vocalement VOKALEMAN
 vocalique VOKALIK
@@ -6986,7 +6986,7 @@ voleuse VOLES
 Volga VOLGA
 volley VOLAI
 volleyeuse VOLEIES
-volontaire VOLONTER
+volontaire VOLONTAIR
 volontairement VOLONTAIREMAN
 volontariat VOLONTARIA
 volontarisme VOLONTARISM
@@ -6995,7 +6995,7 @@ volonte VOLONT
 volontiers VOLONTIER
 voltage VOLTAJ
 voltaique VOLTAIK
-Voltaire VOLTER
+Voltaire VOLTAIR
 voltige VOLTIJ
 voltiger VOLTIJ
 voltigeuse VOLTIJES
@@ -7057,13 +7057,13 @@ vulcanise VULKANIS
 vulcaniser VULKANIS
 vulcanologie VULKANOLOJI
 vulcanologue VULKANOLOG
-vulgaire VULGER
+vulgaire VULGAIR
 vulgairement VULGAIREMAN
 vulgariser VULGARIS
 vulgarite VULGARIT
 vulnerabilite VULNERABILIT
 vulnerable VULNERABL
-vulvaire VULVER
+vulvaire VULVAIR
 vulve VULV
 wagon OIGON
 wagonnet OIGON
@@ -7201,7 +7201,7 @@ achondroplasie AKONDROPLASI
 achoppant ACHOPAN
 achromaticite AKROMATISIT
 achylie AKILI
-aciculaire ASIKULER
+aciculaire ASIKULAIR
 acidalie ASIDALI
 acier ASI
 aclinique AKLINIK
@@ -7274,7 +7274,7 @@ albumen ALBUMAN
 alcool ALKOL
 alcoolisable ALKOLISABL
 aliment ALIMAN
-alimentaire ALIMANTER
+alimentaire ALIMANTAIR
 alinea ALINEA
 Allah ALA
 allegoriquement ALEGORIKEMAN
@@ -7469,7 +7469,7 @@ circonscris SIRKONSKRI
 circule SIRKUL
 circumduction SIRKONDUKSION
 circumnavigation SIRKONAVIGASION
-circumpolaire SIRKONPOLER
+circumpolaire SIRKONPOLAIR
 claustrophobie KLOSTROFOBI
 clenche KLANCH
 cliche KLICH
@@ -7695,7 +7695,7 @@ enzymologie ANZIMOLOJI
 enzymopathie ANZIMOPATI
 epeiche EPAICH
 epeichette EPAICHET
-epeire EPER
+epeire EPAIR
 epeirogenique EPAIROJENIK
 epigraphe EPIGRAF
 esbignerez ESBINIER
@@ -7885,7 +7885,7 @@ joujou JOUJOU
 kerogene KEROJAN
 kerosene KEROSAN
 la LA
-ligamentaire LIGAMANTER
+ligamentaire LIGAMANTAIR
 ligneul LINEL
 ligneuse LINES
 livraison LIVRAISON
@@ -7979,7 +7979,7 @@ paleomagnetisme PALEOMANIETISM
 papy PAPI
 partielle PARSIEL
 patiemment PASIAMAN
-pavillonnaire PAVILONER
+pavillonnaire PAVILONAIR
 pavillonnerie PAVILONERI
 peignoir PAIGNOIR
 peignoire PAIGNOIR
@@ -7995,7 +7995,7 @@ penserai PANSERAI
 penseuse PANSES
 pension PANSION
 pensionnai PANSIONAI
-pensionnaire PANSIONER
+pensionnaire PANSIONAIR
 pensionnais PANSIONAI
 pensionnat PANSIONA
 pensionne PANSION
@@ -8015,7 +8015,7 @@ pertinence PERTINANS
 pertinente PERTINANT
 Philippe FILIP
 picpoul PIKPOUL
-plenipotentiaire PLENIPOTANSIER
+plenipotentiaire PLENIPOTANSIAIR
 plomb PLON
 polype POLIP
 potentialisai POTANSIALISAI
@@ -8294,7 +8294,7 @@ abajoue ABAJOU
 abandon ABANDON
 abandonnai ABANDONAI
 abandonnais ABANDONAI
-abandonnataire ABANDONATER
+abandonnataire ABANDONATAIR
 abandonne ABANDON
 abandonnee ABANDON
 abandonner ABANDON
@@ -8334,7 +8334,7 @@ abbesse ABES
 abbevillienne ABEVILIN
 abces ABS
 abcisse ABSIS
-abdicataire ABDIKATER
+abdicataire ABDIKATAIR
 abdication ABDIKASION
 abdiquai ABDIKAI
 abdiquais ABDIKAI
@@ -8344,7 +8344,7 @@ abdiquer ABDIK
 abdiquerai ABDIKERAI
 abducteur ABDUKTER
 Abeba ABEBA
-abecedaire ABESEDER
+abecedaire ABESEDAIR
 abee AB
 Abel ABEL
 abelianisation ABELIANISASION
@@ -8608,7 +8608,7 @@ abstracteur ABSTRAKTER
 abstraction ABSTRAKSION
 abstractionnisme ABSTRAKSIONISM
 abstrairai ABSTRAIRAI
-abstraire ABSTRER
+abstraire ABSTRAIR
 abstrais ABSTRAI
 abstrait ABSTRAI
 abstraite ABSTRAIT
@@ -9222,7 +9222,7 @@ actinote AKTINOT
 actinotherapie AKTINOTERAPI
 actionnable AKSIONABL
 actionnai AKSIONAI
-actionnaire AKSIONER
+actionnaire AKSIONAIR
 actionnais AKSIONAI
 actionnariat AKSIONARIA
 actionne AKSION
@@ -9245,7 +9245,7 @@ activisme AKTIVISM
 activiste AKTIVIST
 activite AKTIVIT
 actrice AKTRIS
-actuaire AKTUER
+actuaire AKTUAIR
 actualisai AKTUALISAI
 actualisais AKTUALISAI
 actualisation AKTUALISASION
@@ -9354,7 +9354,7 @@ adjoins ADJOIN
 adjointe ADJOINT
 adjonction ADJONKSION
 adjudante ADJUDANT
-adjudicataire ADJUDIKATER
+adjudicataire ADJUDIKATAIR
 adjudication ADJUDIKASION
 adjudicative ADJUDIKATIV
 adjudicatrice ADJUDIKATRIS
@@ -9529,7 +9529,7 @@ adventice ADVANTIS
 adventiste ADVANTIST
 adventive ADVANTIV
 adverbiale ADVERBIAL
-adversaire ADVERSER
+adversaire ADVERSAIR
 adversative ADVERSATIV
 adverse ADVERS
 adversite ADVERSIT
@@ -9598,14 +9598,14 @@ affairames AFAIRAM
 affairassiez AFAIRASI
 affairassions AFAIRASION
 affairates AFAIRAT
-affairee AFER
+affairee AFAIR
 affairement AFAIREMAN
-affairer AFER
+affairer AFAIR
 affairerez AFAIRER
 affaireriez AFAIRERI
 affairerions AFAIRERION
 affairerons AFAIRERON
-affairez AFER
+affairez AFAIR
 affairiez AFAIRI
 affairions AFAIRION
 affairisme AFAIRISM
@@ -10031,7 +10031,7 @@ agrafee AGRAF
 agrafer AGRAF
 agraferai AGRAFERAI
 agrafeuse AGRAFES
-agraire AGRER
+agraire AGRAIR
 agrammatisme AGRAMATISM
 agrandie AGRANDI
 agrandir AGRANDIR
@@ -10263,15 +10263,15 @@ aine AIN
 ainee AIN
 ainesse AINES
 ainou AINOU
-air ER
+air AIR
 airai AIRAI
 airain AIRIN
 airais AIRAI
 airbus AIRBU
-aire ER
+aire AIR
 airedale AIREDAL
 airelle AIREL
-airer ER
+airer AIR
 airerai AIRERAI
 ais AI
 aisance AISANS
@@ -10330,7 +10330,7 @@ alabandine ALABANDIN
 alabastrite ALABASTRIT
 alacrite ALAKRIT
 Alain ALIN
-alaire ALER
+alaire ALAIR
 alaise ALAIS
 alambic ALANBIK
 alambiquai ALANBIKAI
@@ -10536,7 +10536,7 @@ alienable ALINABL
 alienai ALINAI
 alienais ALINAI
 alienante ALINANT
-alienataire ALINATER
+alienataire ALINATAIR
 alienation ALINASION
 alienatrice ALINATRIS
 aliene ALIN
@@ -10664,9 +10664,9 @@ allierai ALIERAI
 alligator ALIGATOR
 allions ALION
 alliteration ALITERASION
-allocataire ALOKATER
+allocataire ALOKATAIR
 allocation ALOKASION
-allocutaire ALOKUTER
+allocutaire ALOKUTAIR
 allocution ALOKUSION
 allodiale ALODIAL
 allogamie ALOGAMI
@@ -10707,7 +10707,7 @@ allusive ALUSIV
 alluviale ALUVIAL
 alluvion ALUVION
 alluvionnai ALUVIONAI
-alluvionnaire ALUVIONER
+alluvionnaire ALUVIONAIR
 alluvionnais ALUVIONAI
 alluvionne ALUVION
 alluvionnement ALUVIONEMAN
@@ -10831,7 +10831,7 @@ alunis ALUNI
 alunissage ALUNISAJ
 alunissais ALUNISAI
 alunite ALUNIT
-alveolaire ALVEOLER
+alveolaire ALVEOLAIR
 alveole ALVEOL
 alveolee ALVEOL
 alveolite ALVEOLIT
@@ -11384,7 +11384,7 @@ anche ANCH
 anchois ANCHOI
 Ancien ANSIAN
 ancienne ANSIAN
-ancillaire ANSILER
+ancillaire ANSILAIR
 ancolie ANKOLI
 ancrage ANKRAJ
 ancrai ANKRAI
@@ -11527,7 +11527,7 @@ anguiforme ANGIFORM
 anguille ANGI
 anguillere ANGIER
 anguillule ANGILUL
-angulaire ANGULER
+angulaire ANGULAIR
 anguleuse ANGULES
 angusticlave ANGUSTIKLAV
 angustura ANGUSTURA
@@ -11622,7 +11622,7 @@ annihile ANIL
 annihilee ANIL
 annihiler ANIL
 annihilerai ANILERAI
-anniversaire ANIVERSER
+anniversaire ANIVERSAIR
 annonçai ANONSAI
 annonçais ANONSAI
 annonce ANONS
@@ -11642,15 +11642,15 @@ annote ANOT
 annotee ANOT
 annoter ANOT
 annoterai ANOTERAI
-annuaire ANUER
+annuaire ANUAIR
 annualite ANUALIT
 annuelle ANUEL
 annuellement ANUELEMAN
-annuitaire ANUITER
+annuitaire ANUITAIR
 annuite ANUIT
 annulable ANULABL
 annulai ANULAI
-annulaire ANULER
+annulaire ANULAIR
 annulais ANULAI
 annulation ANULASION
 annule ANUL
@@ -11840,7 +11840,7 @@ antiheros ANTIERO
 antihistaminique ANTISTAMINIK
 antiholomorphe ANTIOLOMORF
 antihygienique ANTIJINIK
-antilineaire ANTILINER
+antilineaire ANTILINEAIR
 antilithique ANTILITIK
 antillaise ANTILAIS
 Antilles ANTIL
@@ -11861,14 +11861,14 @@ antinazie ANTINAZI
 antinevralgique ANTINEVRALJIK
 antinomie ANTINOMI
 antinomique ANTINOMIK
-antinucleaire ANTINUKLER
+antinucleaire ANTINUKLEAIR
 antipaludeenne ANTIPALUDAN
 antipaludique ANTIPALUDIK
 antipape ANTIPAP
 antiparallele ANTIPARALEL
 antiparasite ANTIPARASIT
 antiparasiter ANTIPARASIT
-antiparlementaire ANTIPARLEMANTER
+antiparlementaire ANTIPARLEMANTAIR
 antiparlementarisme ANTIPARLEMANTARI
 antiparticule ANTIPARTIKUL
 antipathie ANTIPATI
@@ -11878,7 +11878,7 @@ antipatriotisme ANTIPATRIOTISM
 antiperistaltique ANTIPERISTALTIK
 antipersonnel ANTIPERSONEL
 antiphlogistique ANTIFLOJISTIK
-antiphonaire ANTIFONER
+antiphonaire ANTIFONAIR
 antiphrase ANTIFRAS
 antipode ANTIPOD
 antipoison ANTIPOISON
@@ -11888,7 +11888,7 @@ antipollution ANTIPOLUSION
 antipyretique ANTIPIRETIK
 antiquai ANTIKAI
 antiquaille ANTIKAIL
-antiquaire ANTIKER
+antiquaire ANTIKAIR
 antiquais ANTIKAI
 antique ANTIK
 antiquee ANTIK
@@ -11901,7 +11901,7 @@ antiracisme ANTIRASISM
 antiraciste ANTIRASIST
 antiradar ANTIRADAR
 antiradiation ANTIRADIASION
-antireglementaire ANTIREGLEMANTER
+antireglementaire ANTIREGLEMANTAIR
 antireligieuse ANTIRELIJIES
 antirides ANTIRID
 antirouille ANTIROUIL
@@ -12069,7 +12069,7 @@ apogamie APOGAMI
 apogee APOJ
 apolitique APOLITIK
 apolitisme APOLITISM
-Apollinaire APOLINER
+Apollinaire APOLINAIR
 Apolline APOLIN
 apollinienne APOLININ
 Apollon APOLON
@@ -12083,7 +12083,7 @@ aponevrose APONEVROS
 aponevrotique APONEVROTIK
 apophonie APOFONI
 apophtegme APOFTEGM
-apophysaire APOFISER
+apophysaire APOFISAIR
 apophyse APOFIS
 apoplectique APOPLEKTIK
 apoplexie APOPLEXI
@@ -12119,13 +12119,13 @@ apostropher APOSTROF
 apostropherai APOSTROFERAI
 apotheme APOTEM
 apotheose APOTEOS
-apothicaire APOTIKER
+apothicaire APOTIKAIR
 apotre APOTR
 appairai APAIRAI
 appairais APAIRAI
-appaire APER
-appairee APER
-appairer APER
+appaire APAIR
+appairee APAIR
+appairer APAIR
 appairerai APAIRERAI
 appalachienne APALACHIN
 apparais APARAI
@@ -12209,7 +12209,7 @@ appellerai APELERAI
 appendice APANDIS
 appendicectomie APANDISEKTOMI
 appendicite APANDISIT
-appendiculaire APANDIKULER
+appendiculaire APANDIKULAIR
 appendre APANDR
 appentis APANTI
 Appenzell APANZEL
@@ -12450,7 +12450,7 @@ arachneenne ARACHNAN
 arachnoide ARACHNOID
 aragonite ARAGONIT
 araignee ARAIN
-araire ARER
+araire ARAIR
 arameenne ARAMAN
 aramon ARAMON
 aranais ARANAI
@@ -12471,7 +12471,7 @@ arbaletriere ARBALETRIER
 arbitrage ARBITRAJ
 arbitragiste ARBITRAJIST
 arbitrai ARBITRAI
-arbitraire ARBITRER
+arbitraire ARBITRAIR
 arbitrairement ARBITRAIREMAN
 arbitrais ARBITRAI
 arbitrale ARBITRAL
@@ -12595,7 +12595,7 @@ areligieuse ARELIJIES
 arenacee ARENAS
 arene ARAN
 arenicole ARENIKOL
-areolaire AREOLER
+areolaire AREOLAIR
 areole AREOL
 areometre AREOMETR
 areometrie AREOMETRI
@@ -12643,7 +12643,7 @@ arguer ARG
 arguerai ARGERAI
 argument ARGUMAN
 argumentai ARGUMANTAI
-argumentaire ARGUMANTER
+argumentaire ARGUMANTAIR
 argumentais ARGUMANTAI
 argumentant ARGUMANTAN
 argumentateur ARGUMANTATER
@@ -12712,7 +12712,7 @@ armer ARM
 armerai ARMERAI
 armet ARM
 armeuse ARMES
-armillaire ARMILER
+armillaire ARMILAIR
 armilles ARMIL
 arminienne ARMININ
 armistice ARMISTIS
@@ -12948,7 +12948,7 @@ arthropathie ARTROPATI
 artichautiere ARTICHOTIER
 article ARTIKL
 articulai ARTIKULAI
-articulaire ARTIKULER
+articulaire ARTIKULAIR
 articulais ARTIKULAI
 articulation ARTIKULASION
 articulatoire ARTIKULATOIR
@@ -13029,7 +13029,7 @@ ashram ACHRAM
 asialie ASIALI
 asiate ASIAT
 Asie ASI
-asilaire ASILER
+asilaire ASILAIR
 asile ASIL
 Asimov ASIMOV
 asinienne ASININ
@@ -13474,7 +13474,7 @@ atour ATOUR
 atours ATOUR
 atout ATOU
 atoxique ATOXIK
-atrabilaire ATRABILER
+atrabilaire ATRABILAIR
 atrabile ATRABIL
 atre ATR
 atrium ATRIUM
@@ -13655,7 +13655,7 @@ attribuee ATRIBU
 attribuer ATRIBU
 attribuerai ATRIBUERAI
 attribut ATRIBU
-attributaire ATRIBUTER
+attributaire ATRIBUTAIR
 attribution ATRIBUSION
 attributive ATRIBUTIV
 attriquai ATRIKAI
@@ -13765,7 +13765,7 @@ aureolee OREOL
 aureoler OREOL
 aureolerai OREOLERAI
 aureomycine OREOMISIN
-auriculaire ORIKULER
+auriculaire ORIKULAIR
 aurifere ORIFER
 aurifiai ORIFIAI
 aurifiais ORIFIAI
@@ -13887,7 +13887,7 @@ autogamie OTOGAMI
 autogene OTOJAN
 autogeree OTOJER
 autogestion OTOJESTION
-autogestionnaire OTOJESTIONER
+autogestionnaire OTOJESTIONAIR
 autogire OTOJIR
 autographe OTOGRAF
 autographiai OTOGRAFIAI
@@ -13979,7 +13979,7 @@ autorise OTORIS
 autorisee OTORIS
 autoriser OTORIS
 autoriserai OTORISERAI
-autoritaire OTORITER
+autoritaire OTORITAIR
 autoritarisme OTORITARISM
 autorite OTORIT
 autoroute OTOROUT
@@ -14130,7 +14130,7 @@ aveulissais AVELISAI
 aveulissement AVELISEMAN
 Aveyron AVAIRON
 avez AV
-aviaire AVIER
+aviaire AVIAIR
 aviation AVIASION
 aviatrice AVIATRIS
 avicole AVIKOL
@@ -14220,7 +14220,7 @@ avouer AVOU
 avouerai AVOUERAI
 avril AVRIL
 avulsion AVULSION
-avunculaire AVINKULER
+avunculaire AVINKULAIR
 axai AXAI
 axais AXAI
 axe AX
@@ -14229,7 +14229,7 @@ axer AX
 axerai AXERAI
 axiale AXIAL
 axile AXIL
-axillaire AXILER
+axillaire AXILAIR
 axiologie AXIOLOJI
 axiologique AXIOLOJIK
 axiomatique AXIOMATIK
@@ -14332,7 +14332,7 @@ bachotais BACHOTAI
 bachote BACHOT
 bachoter BACHOT
 bachoterai BACHOTERAI
-bacillaire BASILER
+bacillaire BASILAIR
 bacille BASIL
 bacilliforme BASILIFORM
 bacillose BASILOS
@@ -14460,7 +14460,7 @@ baillonnerai BAILONERAI
 bain BIN
 baionnette BAIONET
 bairam BAIRAM
-Baire BER
+Baire BAIR
 baisai BAISAI
 baisais BAISAI
 baise BAIS
@@ -14602,7 +14602,7 @@ ballotter BALOT
 ballotterai BALOTERAI
 ballottine BALOTIN
 balluchon BALUCHON
-balneaire BALNER
+balneaire BALNEAIR
 balneation BALNEASION
 balneotherapie BALNEOTERAPI
 balourde BALOURD
@@ -14646,7 +14646,7 @@ bananeraie BANANERAI
 bananier BANANI
 banc BAN
 bancable BANKABL
-bancaire BANKER
+bancaire BANKAIR
 bancale BANKAL
 banche BANCH
 bancher BANCH
@@ -14713,7 +14713,7 @@ baptisais BATISAI
 baptise BATIS
 baptismale BATISMAL
 baptisme BATISM
-baptistaire BATISTER
+baptistaire BATISTAIR
 baquet BAK
 baquetai BAKETAI
 baquetais BAKETAI
@@ -14939,7 +14939,7 @@ baserai BASERAI
 basic BASIK
 basicite BASISIT
 baside BASID
-basilaire BASILER
+basilaire BASILAIR
 Basile BASIL
 basilicale BASILIKAL
 basin BASIN
@@ -15072,7 +15072,7 @@ battre BATR
 batture BATUR
 bau BO
 baud BO
-Baudelaire BODELER
+Baudelaire BODELAIR
 baudet BOD
 Baudoin BODOIN
 Baudouin BODOUIN
@@ -15287,7 +15287,7 @@ belliciste BELISIST
 belligerance BELIJERANS
 belligerante BELIJERANT
 belliqueuse BELIKES
-belluaire BELUER
+belluaire BELUAIR
 belon BELON
 belote BELOT
 belouga BELOUGA
@@ -15312,7 +15312,7 @@ benediction BENEDIKSION
 benef BENEF
 benefice BENEFIS
 beneficiai BENEFISIAI
-beneficiaire BENEFISIER
+beneficiaire BENEFISIAIR
 beneficiais BENEFISIAI
 beneficie BENEFISI
 beneficier BENEFISI
@@ -15537,7 +15537,7 @@ bibliographique BIBLIOGRAFIK
 bibliomanie BIBLIOMANI
 bibliophile BIBLIOFIL
 bibliophilie BIBLIOFILI
-bibliothecaire BIBLIOTEKER
+bibliothecaire BIBLIOTEKAIR
 bibliotheconomie BIBLIOTEKONOMI
 bibliotheque BIBLIOTEK
 biblique BIBLIK
@@ -15546,7 +15546,7 @@ bicameralisme BIKAMERALISM
 bicamerisme BIKAMERISM
 bicarbonate BIKARBONAT
 bicarree BIKAR
-bicentenaire BISANTENER
+bicentenaire BISANTENAIR
 bicephale BISEFAL
 biceps BISEP
 bichai BICHAI
@@ -15636,7 +15636,7 @@ biffin BIFIN
 biffure BIFUR
 bifida BIFIDA
 bifide BIFID
-bifilaire BIFILER
+bifilaire BIFILAIR
 bifocale BIFOKAL
 bifteck BIFTEK
 bifurcation BIFURKASION
@@ -15681,7 +15681,7 @@ bigre BIGR
 bigrement BIGREMAN
 bigue BIG
 biguine BIGIN
-bihebdomadaire BIEBDOMADER
+bihebdomadaire BIEBDOMADAIR
 bihoreau BIORO
 bijection BIJEKSION
 bijective BIJEKTIV
@@ -15703,7 +15703,7 @@ bilerai BILERAI
 bileuse BILES
 bilharzie BILARZI
 bilharziose BILARZIOS
-biliaire BILIER
+biliaire BILIAIR
 bilieuse BILIES
 bilingue BILING
 bilinguisme BILINGISM
@@ -15732,7 +15732,7 @@ billonner BILON
 billonnerai BILONERAI
 billot BILO
 bilobee BILOB
-biloculaire BILOKULER
+biloculaire BILOKULAIR
 biloquai BILOKAI
 biloquais BILOKAI
 biloque BILOK
@@ -15745,11 +15745,11 @@ bimestrielle BIMESTRIEL
 bimetallique BIMETALIK
 bimetallisme BIMETALISM
 bimetalliste BIMETALIST
-bimillenaire BIMILENER
+bimillenaire BIMILENAIR
 bimoteur BIMOTER
 binage BINAJ
 binai BINAI
-binaire BINER
+binaire BINAIR
 binais BINAI
 binard BINAR
 binationale BINASIONAL
@@ -15763,7 +15763,7 @@ bingo BINGO
 biniou BINIOU
 binoclarde BINOKLARD
 binocle BINOKL
-binoculaire BINOKULER
+binoculaire BINOKULAIR
 binome BINOM
 binomiale BINOMIAL
 bioacoustique BIOAKOUSTIK
@@ -15818,7 +15818,7 @@ biphasee BIFAS
 bipied BIPI
 biplace BIPLAS
 biplan BIPLAN
-bipolaire BIPOLER
+bipolaire BIPOLAIR
 bipolarisation BIPOLARISASION
 bipolarite BIPOLARIT
 bipoutre BIPOUTR
@@ -15996,11 +15996,11 @@ blaguais BLAGAI
 blaguer BLAG
 blaguerai BLAGERAI
 blagueuse BLAGES
-blair BLER
+blair BLAIR
 blairai BLAIRAI
 blairais BLAIRAI
-blaire BLER
-blairer BLER
+blaire BLAIR
+blairer BLAIR
 blairerai BLAIRERAI
 Blaise BLAIS
 blamable BLAMABL
@@ -16930,7 +16930,7 @@ brainstorming BRINSTORMING
 braira BRAIRA
 brairaient BRAIRIN
 brairait BRAIRAI
-braire BRER
+braire BRAIR
 brairont BRAIRON
 braisai BRAISAI
 braisais BRAISAI
@@ -17095,7 +17095,7 @@ brevetais BREVETAI
 breveter BREVET
 brevette BREVET
 brevetterai BREVETERAI
-breviaire BREVIER
+breviaire BREVIAIR
 breviligne BREVILIN
 brevite BREVIT
 briard BRIAR
@@ -17418,7 +17418,7 @@ bruloir BRULOIR
 brulot BRULO
 brulure BRULUR
 bruma BRUMA
-brumaire BRUMER
+brumaire BRUMAIR
 brumait BRUMAI
 brumassa BRUMASA
 brumassait BRUMASAI
@@ -17493,7 +17493,7 @@ bucheuse BUCHES
 bucolique BUKOLIK
 bucrane BUKRAN
 Budapest BUDAPES
-budgetaire BUDJETER
+budgetaire BUDJETAIR
 budgeter BUDJET
 budgetisai BUDJETISAI
 budgetisais BUDJETISAI
@@ -17521,14 +17521,14 @@ buissonneuse BUISONES
 buissonniere BUISONIER
 Bujumbura BUJUMBURA
 bulb BULB
-bulbaire BULBER
+bulbaire BULBAIR
 bulbe BULB
 bulbeuse BULBES
 bulbille BULBIL
 bulgare BULGAR
 Bulgarie BULGARI
 bull BUL
-bullaire BULER
+bullaire BULAIR
 bulle BUL
 bulles BUL
 bulletin BULETIN
@@ -17925,7 +17925,7 @@ cailloutis KAILOUTI
 caiman KAIMAN
 Cain KIN
 caique KAIK
-Caire KER
+Caire KAIR
 cairn KAIRN
 cairote KAIROT
 caisse KAIS
@@ -17981,11 +17981,11 @@ calandrer KALANDR
 calandrerai KALANDRERAI
 calandreuse KALANDRES
 calao KALAO
-calcaire KALKER
+calcaire KALKAIR
 calcaneum KALKANEM
 calcedoine KALSEDOIN
 calcemie KALSEMI
-calceolaire KALSEOLER
+calceolaire KALSEOLAIR
 calcicole KALSIKOL
 calcification KALSIFIKASION
 calcifiee KALSIFI
@@ -18312,7 +18312,7 @@ caneton KANETON
 canette KANET
 cangue KANG
 caniche KANICH
-caniculaire KANIKULER
+caniculaire KANIKULAIR
 canicule KANIKUL
 canide KANID
 canif KANIF
@@ -18482,7 +18482,7 @@ capitonner KAPITON
 capitonnerai KAPITONERAI
 capitoul KAPITOUL
 capitulai KAPITULAI
-capitulaire KAPITULER
+capitulaire KAPITULAIR
 capitulais KAPITULAI
 capitularde KAPITULARD
 capitulation KAPITULASION
@@ -18524,7 +18524,7 @@ capselle KAPSEL
 capside KAPSID
 capsulage KAPSULAJ
 capsulai KAPSULAI
-capsulaire KAPSULER
+capsulaire KAPSULAIR
 capsulais KAPSULAI
 capsuler KAPSUL
 capsulerai KAPSULERAI
@@ -19006,7 +19006,7 @@ catacombes KATAKONB
 catadioptre KATADIOPTR
 catadioptrique KATADIOPTRIK
 catafalque KATAFALK
-cataire KATER
+cataire KATAIR
 catalane KATALAN
 catalectique KATALEKTIK
 catalepsie KATALEPSI
@@ -19069,7 +19069,7 @@ categorisation KATEGORISASION
 categorise KATEGORIS
 categoriser KATEGORIS
 categoriserai KATEGORISERAI
-catenaire KATENER
+catenaire KATENAIR
 cathare KATAR
 catharsique KATARSIK
 cathedra KATEDRA
@@ -19085,7 +19085,7 @@ catholicisme KATOLISISM
 catholicite KATOLISIT
 catholique KATOLIK
 cati KATI
-catilinaire KATILINER
+catilinaire KATILINAIR
 catimini KATIMINI
 catin KATIN
 cation KASION
@@ -19106,7 +19106,7 @@ cauchemardesque KOCHEMARDESK
 cauchemardeuse KOCHEMARDES
 Cauchy KOCHI
 caudale KODAL
-caudataire KODATER
+caudataire KODATAIR
 caudillo KODILO
 caudrette KODRET
 caulescente KOLESANT
@@ -19201,7 +19201,7 @@ cedraie SEDRAI
 cedrat SEDRA
 cedratier SEDRATI
 cedre SEDR
-cedulaire SEDULER
+cedulaire SEDULAIR
 cedule SEDUL
 cegesimale SEJESIMAL
 cegetiste SEJETIST
@@ -19238,14 +19238,14 @@ celesta SELESTA
 celeste SELEST
 celestin SELESTIN
 celibat SELIBA
-celibataire SELIBATER
+celibataire SELIBATAIR
 Celien SELIN
 Celine SELIN
 cella SELA
 celle SEL
 celleriere SELERIER
 cellier SELI
-cellulaire SELULER
+cellulaire SELULAIR
 cellular SELULAR
 cellulite SELULIT
 celluloid SELULOI
@@ -19277,7 +19277,7 @@ censee SANS
 censement SANSEMAN
 censeur SANSER
 censiere SANSIER
-censitaire SANSITER
+censitaire SANSITAIR
 censorat SANSORA
 censoriale SANSORIAL
 censurai SANSURAI
@@ -19428,7 +19428,7 @@ cesserai SESERAI
 cessibilite SESIBILIT
 cessible SESIBL
 cession SESION
-cessionnaire SESIONER
+cessionnaire SESIONAIR
 ceste SEST
 cesure SESUR
 cetace SETAS
@@ -19485,7 +19485,7 @@ chaineuse CHAINES
 chainier CHAINI
 chainiste CHAINIST
 chainon CHAINON
-chaire CHER
+chaire CHAIR
 chaisiere CHAISIER
 chaland CHALAN
 chalaze CHALAZ
@@ -20206,7 +20206,7 @@ chiquenaude CHIKENOD
 chiquer CHIK
 chiquerai CHIKERAI
 chiqueuse CHIKES
-chirographaire KIROGRAFER
+chirographaire KIROGRAFAIR
 chirographiai KIROGRAFIAI
 chirographiais KIROGRAFIAI
 chirographie KIROGRAFI
@@ -20493,7 +20493,7 @@ cigarillo SIGARILO
 cigogne SIGON
 cigue SIG
 cil SIL
-ciliaire SILIER
+ciliaire SILIAIR
 cilice SILIS
 ciliee SILI
 cillai SILAI
@@ -20535,7 +20535,7 @@ cinematographique SINEMATOGRAFIK
 cinematographiquement SINEMATOGRAFIKEM
 cinemometre SINEMOMETR
 cinephile SINEFIL
-cineraire SINERER
+cineraire SINERAIR
 cinerama SINERAMA
 cinerite SINERIT
 cinetheodolite SINETEODOLIT
@@ -20550,7 +20550,7 @@ cinglerai SINGLERAI
 cinnamome SINAMOM
 cinoche SINOCH
 cinoque SINOK
-cinquantenaire SINKANTENER
+cinquantenaire SINKANTENAIR
 cinquantieme SINKANTIEM
 cinquieme SINKIEM
 cinquiemement SINKIEMEMAN
@@ -20606,7 +20606,7 @@ circuite SIRKUIT
 circuiter SIRKUIT
 circuiterai SIRKUITERAI
 circulai SIRKULAI
-circulaire SIRKULER
+circulaire SIRKULAIR
 circulairement SIRKULAIREMAN
 circulais SIRKULAI
 circulariser SIRKULARIS
@@ -20714,7 +20714,7 @@ clade KLAD
 clafoutis KLAFOUTI
 claie KLAI
 clairance KLAIRANS
-Claire KLER
+Claire KLAIR
 clairement KLAIREMAN
 clairette KLAIRET
 clairiere KLAIRIER
@@ -20863,7 +20863,7 @@ claustrophobe KLOSTROFOB
 clausule KLOSUL
 clausus KLOSU
 clavai KLAVAI
-clavaire KLAVER
+clavaire KLAVAIR
 clavais KLAVAI
 clave KLAV
 claveau KLAVO
@@ -20882,7 +20882,7 @@ clavette KLAVET
 clavetter KLAVET
 clavetterai KLAVETERAI
 clavicorde KLAVIKORD
-claviculaire KLAVIKULER
+claviculaire KLAVIKULAIR
 clavicule KLAVIKUL
 clavier KLAVI
 claviere KLAVIER
@@ -21161,7 +21161,7 @@ cochenille KOCHENIL
 cocher KOCH
 cocherai KOCHERAI
 cochere KOCHER
-cochleaire KOCHLER
+cochleaire KOCHLEAIR
 cochlearia KOCHLEARIA
 cochoncete KOCHONSET
 cochonnai KOCHONAI
@@ -21331,7 +21331,7 @@ colature KOLATUR
 colback KOLBAK
 colchicine KOLCHISIN
 colcotar KOLKOTAR
-colegataire KOLEGATER
+colegataire KOLEGATAIR
 coleoptere KOLEOPTER
 colere KOLER
 colereuse KOLERES
@@ -21447,7 +21447,7 @@ colmate KOLMAT
 colmater KOLMAT
 colmaterai KOLMATERAI
 colocase KOLOKAS
-colocataire KOLOKATER
+colocataire KOLOKATAIR
 cologarithme KOLOGARITM
 Cologne KOLON
 colombage KOLONBAJ
@@ -21558,7 +21558,7 @@ comedienne KOMEDIN
 comedon KOMEDON
 comestibilite KOMESTIBILIT
 comestible KOMESTIBL
-cometaire KOMETER
+cometaire KOMETAIR
 comete KOMET
 comice KOMIS
 comics KOMIK
@@ -21575,7 +21575,7 @@ commanderai KOMANDERAI
 commanderie KOMANDERI
 commandeuse KOMANDES
 commanditai KOMANDITAI
-commanditaire KOMANDITER
+commanditaire KOMANDITAIR
 commanditais KOMANDITAI
 commandite KOMANDIT
 commanditer KOMANDIT
@@ -21597,13 +21597,13 @@ commence KOMANS
 commencement KOMANSEMAN
 commencer KOMANS
 commencerai KOMANSERAI
-commendataire KOMANDATER
+commendataire KOMANDATAIR
 commende KOMAND
 commensale KOMANSAL
 commensalisme KOMANSALISM
 comment KOMAN
 commentai KOMANTAI
-commentaire KOMANTER
+commentaire KOMANTAIR
 commentais KOMANTAI
 commentatrice KOMANTATRIS
 commente KOMANT
@@ -21635,7 +21635,7 @@ commiseration KOMISERASION
 commissariat KOMISARIA
 commission KOMISION
 commissionnai KOMISIONAI
-commissionnaire KOMISIONER
+commissionnaire KOMISIONAIR
 commissionnais KOMISIONAI
 commissionne KOMISION
 commissionnement KOMISIONEMAN
@@ -21666,7 +21666,7 @@ communalise KOMUNALIS
 communaliser KOMUNALIS
 communaliserai KOMUNALISERAI
 communarde KOMUNARD
-communautaire KOMUNOTER
+communautaire KOMUNOTAIR
 communaute KOMUNOT
 communement KOMUNEMAN
 communiai KOMUNIAI
@@ -21791,7 +21791,7 @@ complaisamment KONPLAISAMAN
 complaisance KONPLAISANS
 complanter KONPLANT
 complement KONPLEMAN
-complementaire KONPLEMANTER
+complementaire KONPLEMANTAIR
 complementarite KONPLEMANTARIT
 complet KONPL
 completai KONPLETAI
@@ -21887,8 +21887,8 @@ comprimer KONPRIM
 comprimerai KONPRIMERAI
 compromettante KONPROMETANT
 compromission KONPROMISION
-compromissionnaire KONPROMISIONER
-compromissionnaires KONPROMISIONER
+compromissionnaire KONPROMISIONAIR
+compromissionnaires KONPROMISIONAIR
 compromissoire KONPROMISOIR
 comptabilisai KONTABILISAI
 comptabilisais KONTABILISAI
@@ -21959,7 +21959,7 @@ concelebrerai KONSELEBRERAI
 concentrai KONSANTRAI
 concentrais KONSANTRAI
 concentration KONSANTRASION
-concentrationnaire KONSANTRASIONER
+concentrationnaire KONSANTRASIONAIR
 concentre KONSANTR
 concentrer KONSANTR
 concentrerai KONSANTRERAI
@@ -22010,7 +22010,7 @@ concile KONSIL
 conciliable KONSILIABL
 conciliabule KONSILIABUL
 conciliai KONSILIAI
-conciliaire KONSILIER
+conciliaire KONSILIAIR
 conciliais KONSILIAI
 conciliation KONSILIASION
 conciliatoire KONSILIATOIR
@@ -22041,7 +22041,7 @@ concordai KONKORDAI
 concordais KONKORDAI
 concordance KONKORDANS
 concordat KONKORDA
-concordataire KONKORDATER
+concordataire KONKORDATAIR
 concorder KONKORD
 concorderai KONKORDERAI
 concourais KONKOURAI
@@ -22072,7 +22072,7 @@ concurrente KONKURANT
 concurrentielle KONKURANSIEL
 conçus KONSU
 concussion KONKUSION
-concussionnaire KONKUSIONER
+concussionnaire KONKUSIONAIR
 condamnable KONDAMNABL
 condamnai KONDAMNAI
 condamnais KONDAMNAI
@@ -22461,7 +22461,7 @@ considerer KONSIDER
 considererai KONSIDERERAI
 consignai KONSINIAI
 consignais KONSINIAI
-consignataire KONSINIATER
+consignataire KONSINIATAIR
 consignation KONSINIASION
 consigne KONSIN
 consigner KONSIN
@@ -22582,7 +22582,7 @@ consubstantialite KONSUBSTANSIALIT
 consubstantiation KONSUBSTANTIASIO
 consubstantielle KONSUBSTANSIEL
 consul KONSUL
-consulaire KONSULER
+consulaire KONSULAIR
 consulat KONSULA
 consultable KONSULTABL
 consultai KONSULTAI
@@ -22662,7 +22662,7 @@ conterai KONTERAI
 contestable KONTESTABL
 contestai KONTESTAI
 contestais KONTESTAI
-contestataire KONTESTATER
+contestataire KONTESTATAIR
 contestation KONTESTASION
 conteste KONTEST
 contester KONTEST
@@ -22745,7 +22745,7 @@ contraindrai KONTRINDRAI
 contraindre KONTRINDR
 contrains KONTRIN
 contrainte KONTRINT
-contraire KONTRER
+contraire KONTRAIR
 contrairement KONTRAIREMAN
 contrais KONTRAI
 contralto KONTRALTO
@@ -23009,7 +23009,7 @@ copiner KOPIN
 copinerai KOPINERAI
 copinerie KOPINERI
 copiste KOPIST
-coplanaire KOPLANER
+coplanaire KOPLANAIR
 copossede KOPOSED
 coposseder KOPOSED
 copossesseur KOPOSESER
@@ -23023,7 +23023,7 @@ copresidente KOPRESIDANT
 coprocesseur KOPROSESER
 coproduction KOPRODUKSION
 coprolithe KOPROLIT
-coproprietaire KOPROPRIETER
+coproprietaire KOPROPRIETAIR
 copropriete KOPROPRIET
 copte KOPT
 copulai KOPULAI
@@ -23107,7 +23107,7 @@ cordonnet KORDON
 cordonnier KORDONI
 Coree KOR
 coreenne KORAN
-coreligionnaire KORELIJIONER
+coreligionnaire KORELIJIONAIR
 coriandre KORIANDR
 coricide KORISID
 corindon KORINDON
@@ -23140,10 +23140,10 @@ corniste KORNIST
 cornouiller KORNOUIL
 cornue KORNU
 Cornwell KORNWEL
-corollaire KOROLER
+corollaire KOROLAIR
 corolle KOROL
 coron KORON
-coronaire KORONER
+coronaire KORONAIR
 coronarienne KORONARIN
 coronarite KORONARIT
 coroner KORON
@@ -23159,7 +23159,7 @@ corps KORP
 corpulence KORPULANS
 corpulente KORPULANT
 corpus KORPU
-corpusculaire KORPUSKULER
+corpusculaire KORPUSKULAIR
 corpuscule KORPUSKUL
 corral KORAL
 correcte KOREKT
@@ -23223,7 +23223,7 @@ corruption KORUPSION
 corruptrice KORUPTRIS
 corsage KORSAJ
 corsai KORSAI
-corsaire KORSER
+corsaire KORSAIR
 corsais KORSAI
 Corse KORS
 corselet KORSEL
@@ -23248,7 +23248,7 @@ corvide KORVID
 coryphee KORIF
 coryza KORIZA
 cosaque KOSAK
-cosignataire KOSINIATER
+cosignataire KOSINIATAIR
 cosinus KOSINU
 cosmetiquai KOSMETIKAI
 cosmetiquais KOSMETIKAI
@@ -23868,7 +23868,7 @@ crepiter KREPIT
 crepiterai KREPITERAI
 crepon KREPON
 crepue KREPU
-crepusculaire KREPUSKULER
+crepusculaire KREPUSKULAIR
 crescendo KRESANDO
 cresson KRESON
 cressonniere KRESONIER
@@ -24186,7 +24186,7 @@ culerai KULERAI
 culeron KULERON
 culex KUL
 culiere KULIER
-culinaire KULINER
+culinaire KULINAIR
 culminai KULMINAI
 culminais KULMINAI
 culmination KULMINASION
@@ -24367,7 +24367,7 @@ cylindrerai SILINDRERAI
 cylindreuse SILINDRES
 cylindrique SILINDRIK
 cymaise SIMAIS
-cymbalaire SINBALER
+cymbalaire SINBALAIR
 cymbale SINBAL
 cymbaliere SINBALIER
 cymbaliste SINBALIST
@@ -24434,7 +24434,7 @@ daguer DAG
 daguerai DAGERAI
 daguerreotype DAGEREOTIP
 daguet DAG
-dahir DER
+dahir DAIR
 Dahl DAL
 dahomeenne DAOMAN
 Dahomey DAOMAI
@@ -24563,7 +24563,7 @@ dasyure DASIUR
 datable DATABL
 datage DATAJ
 datai DATAI
-dataire DATER
+dataire DATAIR
 datais DATAI
 datation DATASION
 datcha DATCHA
@@ -24810,7 +24810,7 @@ debondais DEBONDAI
 debonde DEBOND
 debonder DEBOND
 debonderai DEBONDERAI
-debonnaire DEBONER
+debonnaire DEBONAIR
 debonnairement DEBONAIREMAN
 debonnairete DEBONAIRET
 debord DEBOR
@@ -24997,7 +24997,7 @@ decachetais DEKACHETAI
 decacheter DEKACHET
 decachette DEKACHET
 decachetterai DEKACHETERAI
-decadaire DEKADER
+decadaire DEKADAIR
 decade DEKAD
 decadenassai DEKADENASAI
 decadenassais DEKADENASAI
@@ -25359,7 +25359,7 @@ decintrement DESINTREMAN
 decintrer DESINTR
 decintrerai DESINTRERAI
 decision DESISION
-decisionnaire DESISIONER
+decisionnaire DESISIONAIR
 decisionnelle DESISIONEL
 decisive DESISIV
 decisivement DESISIVEMAN
@@ -25845,7 +25845,7 @@ dédicaçais DEDIKASAI
 dedicace DEDIKAS
 dedicacer DEDIKAS
 dedicacerai DEDIKASERAI
-dedicataire DEDIKATER
+dedicataire DEDIKATAIR
 dedicatoire DEDIKATOIR
 dedie DEDI
 dedier DEDI
@@ -26008,7 +26008,7 @@ defibrillation DEFIBRILASION
 deficience DEFISIANS
 deficiente DEFISIANT
 deficit DEFISI
-deficitaire DEFISITER
+deficitaire DEFISITAIR
 defie DEFI
 defier DEFI
 defierai DEFIERAI
@@ -26609,7 +26609,7 @@ delecte DELEKT
 delecter DELEKT
 delecterai DELEKTERAI
 delegant DELEGAN
-delegataire DELEGATER
+delegataire DELEGATAIR
 delegation DELEGASION
 delegatrice DELEGATRIS
 deleguai DELEGAI
@@ -26942,7 +26942,7 @@ demineraliser DEMINERALIS
 demineraliserai DEMINERALISERAI
 demineur DEMINER
 demissionnai DEMISIONAI
-demissionnaire DEMISIONER
+demissionnaire DEMISIONAIR
 demissionnais DEMISIONAI
 demissionne DEMISION
 demissionner DEMISION
@@ -27248,11 +27248,11 @@ denoyauter DENOIOT
 denoyauterai DENOIOTERAI
 denoyer DENOI
 dent DAN
-dentaire DANTER
+dentaire DANTAIR
 dentale DANTAL
 dentee DANT
 dentelai DANTELAI
-dentelaire DANTELER
+dentelaire DANTELAIR
 dentelais DANTELAI
 denteler DANTEL
 dentellerai DANTELERAI
@@ -27612,7 +27612,7 @@ deposais DEPOSAI
 depose DEPOS
 deposer DEPOS
 deposerai DEPOSERAI
-depositaire DEPOSITER
+depositaire DEPOSITAIR
 deposition DEPOSISION
 depossedai DEPOSEDAI
 depossedais DEPOSEDAI
@@ -27664,7 +27664,7 @@ deprecierai DEPRESIERAI
 depredation DEPREDASION
 depredatrice DEPREDATRIS
 depression DEPRESION
-depressionnaire DEPRESIONER
+depressionnaire DEPRESIONAIR
 depressive DEPRESIV
 depressurisai DEPRESURISAI
 depressurisais DEPRESURISAI
@@ -28555,7 +28555,7 @@ desistement DESISTEMAN
 desister DESIST
 desisterai DESISTERAI
 desman DESMAN
-desobeir DESOBER
+desobeir DESOBAIR
 desobeirai DESOBAIRAI
 desobeis DESOBAI
 desobeissais DESOBEISAI
@@ -28760,7 +28760,7 @@ destaliniser DESTALINIS
 destin DESTIN
 destinai DESTINAI
 destinais DESTINAI
-destinataire DESTINATER
+destinataire DESTINATAIR
 destination DESTINASION
 destine DESTIN
 destiner DESTIN
@@ -29330,7 +29330,7 @@ dialyseur DIALISER
 diamagnetisme DIAMANIETISM
 diamant DIAMAN
 diamantai DIAMANTAI
-diamantaire DIAMANTER
+diamantaire DIAMANTAIR
 diamantais DIAMANTAI
 diamante DIAMANT
 diamanter DIAMANT
@@ -29409,7 +29409,7 @@ dicte DIKT
 dicter DIKT
 dicterai DIKTERAI
 diction DIKSION
-dictionnaire DIKSIONER
+dictionnaire DIKSIONAIR
 dicton DIKTON
 didacticiel DIDAKTISIEL
 didactique DIDAKTIK
@@ -29515,7 +29515,7 @@ digitiforme DIJITIFORM
 digitigrade DIJITIGRAD
 digne DIN
 dignement DINEMAN
-dignitaire DINITER
+dignitaire DINITAIR
 dignite DINIT
 digon DIGON
 digramme DIGRAM
@@ -29662,7 +29662,7 @@ diplomerai DIPLOMERAI
 diplopie DIPLOPI
 dipneumonee DIPNEMON
 dipode DIPOD
-dipolaire DIPOLER
+dipolaire DIPOLAIR
 dipole DIPOL
 dipsomane DIPSOMAN
 dipsomanie DIPSOMANI
@@ -29709,7 +29709,7 @@ discernerai DISERNERAI
 disciple DISIPL
 disciplinable DISIPLINABL
 disciplinai DISIPLINAI
-disciplinaire DISIPLINER
+disciplinaire DISIPLINAIR
 disciplinairement DISIPLINAIREMAN
 disciplinais DISIPLINAI
 discipline DISIPLIN
@@ -29736,7 +29736,7 @@ discordance DISKORDANS
 discorde DISKORD
 discorder DISKORD
 discorderai DISKORDERAI
-discothecaire DISKOTEKER
+discothecaire DISKOTEKAIR
 discotheque DISKOTEK
 discount DISKOUN
 discountee DISKOUNT
@@ -29753,7 +29753,7 @@ discrediterai DISKREDITERAI
 discrete DISKRET
 discretement DISKRETEMAN
 discretion DISKRESION
-discretionnaire DISKRESIONER
+discretionnaire DISKRESIONAIR
 discretoire DISKRETOIR
 discriminai DISKRIMINAI
 discriminais DISKRIMINAI
@@ -29814,7 +29814,7 @@ dispatching DISPATCHING
 dispendieusement DISPANDIESEMAN
 dispensable DISPANSABL
 dispensai DISPANSAI
-dispensaire DISPANSER
+dispensaire DISPANSAIR
 dispensais DISPANSAI
 dispensatrice DISPANSATRIS
 dispense DISPANS
@@ -29852,7 +29852,7 @@ disputaillerai DISPUTAIERAI
 disputais DISPUTAI
 dispute DISPUT
 disputerai DISPUTERAI
-disquaire DISKER
+disquaire DISKAIR
 disqualifiai DISKALIFIAI
 disqualifiais DISKALIFIAI
 disqualifie DISKALIFI
@@ -30033,7 +30033,7 @@ diviseur DIVISER
 divisibilite DIVISIBILIT
 divisible DIVISIBL
 division DIVISION
-divisionnaire DIVISIONER
+divisionnaire DIVISIONAIR
 divisionnisme DIVISIONISM
 divisionniste DIVISIONIST
 divorçai DIVORSAI
@@ -30083,10 +30083,10 @@ doctoralement DOKTORALEMAN
 doctorante DOKTORANT
 doctorat DOKTORA
 doctoresse DOKTORES
-doctrinaire DOKTRINER
+doctrinaire DOKTRINAIR
 doctrinale DOKTRINAL
 documentai DOKUMANTAI
-documentaire DOKUMANTER
+documentaire DOKUMANTAIR
 documentais DOKUMANTAI
 documentaliste DOKUMANTALIST
 documentariste DOKUMANTARIST
@@ -30171,9 +30171,9 @@ domestiquer DOMESTIK
 domestiquerai DOMESTIKERAI
 domicile DOMISIL
 domiciliai DOMISILIAI
-domiciliaire DOMISILIER
+domiciliaire DOMISILIAIR
 domiciliais DOMISILIAI
-domiciliataire DOMISILIATER
+domiciliataire DOMISILIATAIR
 domiciliation DOMISILIASION
 domicilie DOMISILI
 domicilier DOMISILI
@@ -30204,7 +30204,7 @@ dompterai DONPTERAI
 dompteuse DONPTES
 don DON
 donacie DONASI
-donataire DONATER
+donataire DONATAIR
 Donatien DONASIN
 donation DONASION
 donatisme DONATISM
@@ -30294,7 +30294,7 @@ dote DOT
 doter DOT
 doterai DOTERAI
 Douai DOI
-douaire DOUER
+douaire DOIR
 douairiere DOIRIER
 douais DOI
 Douala DOILA
@@ -30502,7 +30502,7 @@ drole DROL
 drolement DROLEMAN
 drolerie DROLERI
 drolesse DROLES
-dromadaire DROMADER
+dromadaire DROMADAIR
 Drome DROM
 dronte DRONT
 drop DROP
@@ -31188,7 +31188,7 @@ eclaboussement EKLABOUSEMAN
 eclabousser EKLABOUS
 eclabousserai EKLABOUSERAI
 eclaboussure EKLABOUSUR
-eclair EKLER
+eclair EKLAIR
 eclairage EKLAIRAJ
 eclairagiste EKLAIRAJIST
 eclairai EKLAIRAI
@@ -31200,8 +31200,8 @@ eclaircis EKLAIRSI
 eclaircissage EKLAIRSISAJ
 eclaircissais EKLAIRSISAI
 eclaircissement EKLAIRSISEMAN
-eclaire EKLER
-eclairee EKLER
+eclaire EKLAIR
+eclairee EKLAIR
 eclairement EKLAIREMAN
 eclairerai EKLAIRERAI
 eclaireuse EKLAIRES
@@ -31541,7 +31541,7 @@ edifiee EDIFI
 edifier EDIFI
 edifierai EDIFIERAI
 edile EDIL
-edilitaire EDILITER
+edilitaire EDILITAIR
 edilite EDILIT
 edit EDI
 editable EDITABL
@@ -31784,7 +31784,7 @@ egalisee EGALIS
 egaliser EGALIS
 egaliserai EGALISERAI
 egaliseur EGALISER
-egalitaire EGALITER
+egalitaire EGALITAIR
 egalitarisme EGALITARISM
 egalitariste EGALITARIST
 egalite EGALIT
@@ -32056,7 +32056,7 @@ electrotherapie ELEKTROTERAPI
 electrothermie ELEKTROTERMI
 electrovalence ELEKTROVALANS
 electrum ELEKTRUM
-electuaire ELEKTUER
+electuaire ELEKTUAIR
 elegamment ELEGAMAN
 elegance ELEGANS
 elegante ELEGANT
@@ -32066,7 +32066,7 @@ elegir ELEJIR
 elegirai ELEJIRAI
 elegissais ELEJISAI
 eleis ELAI
-elementaire ELEMANTER
+elementaire ELEMANTAIR
 elephanteau ELEFANTO
 elephantesque ELEFANTESK
 elephantiasique ELEFANTIASIK
@@ -32120,7 +32120,7 @@ elisabeth ELISAB
 elisabethaine ELISABETAIN
 elisais ELISAI
 elisee ELIS
-elitaire ELITER
+elitaire ELITAIR
 elitisme ELITISM
 elitiste ELITIST
 Ella ELA
@@ -32561,7 +32561,7 @@ embryogenique ANBRIOJENIK
 embryologie ANBRIOLOJI
 embryologique ANBRIOLOJIK
 embryologiste ANBRIOLOJIST
-embryonnaire ANBRIONER
+embryonnaire ANBRIONAIR
 embryopathie ANBRIOPATI
 embuai ANBUAI
 embuais ANBUAI
@@ -32653,7 +32653,7 @@ emir EMIR
 emirat EMIRA
 emis EMI
 emise EMIS
-emissaire EMISER
+emissaire EMISAIR
 emission EMISION
 emissive EMISIV
 emissole EMISOL
@@ -33700,7 +33700,7 @@ endosmose ANDOSMOS
 endossable ANDOSABL
 endossai ANDOSAI
 endossais ANDOSAI
-endossataire ANDOSATER
+endossataire ANDOSATAIR
 endosse ANDOS
 endossee ANDOS
 endossement ANDOSEMAN
@@ -34917,7 +34917,7 @@ entrepose ANTREPOS
 entreposee ANTREPOS
 entreposerai ANTREPOSERAI
 entreposeur ANTREPOSER
-entrepositaire ANTREPOSITER
+entrepositaire ANTREPOSITAIR
 entrepot ANTREPO
 entreprenais ANTREPRENAI
 entreprenante ANTREPRENANT
@@ -35137,7 +35137,7 @@ eosinophile EOSINOFIL
 eosinophilie EOSINOFILI
 epacte EPAKT
 epagneul EPANEL
-epair EPER
+epair EPAIR
 epaisse EPAIS
 epaisseur EPAISER
 epaissie EPAISI
@@ -35297,7 +35297,7 @@ ephod EFO
 ephore EFOR
 epiage EPIAJ
 epiai EPIAI
-epiaire EPIER
+epiaire EPIAIR
 epiais EPIAI
 epiaison EPIAISON
 epic EPIK
@@ -35431,7 +35431,7 @@ epistaxis EPISTAXI
 epistemologie EPISTEMOLOJI
 epistemologique EPISTEMOLOJIK
 epistemologiste EPISTEMOLOJIST
-epistolaire EPISTOLER
+epistolaire EPISTOLAIR
 epistolier EPISTOLI
 epistyle EPISTIL
 epite EPIT
@@ -35636,7 +35636,7 @@ equilibrer EKILIBR
 equilibrerai EKILIBRERAI
 equilibriste EKILIBRIST
 equille EKIL
-equimoleculaire EKIMOLEKULER
+equimoleculaire EKIMOLEKULAIR
 equimultiple EKIMULTIPL
 equine EKIN
 equinisme EKINISM
@@ -36236,7 +36236,7 @@ estropiai ESTROPIAI
 estropiais ESTROPIAI
 estropie ESTROPI
 estropiee ESTROPI
-estuaire ESTUER
+estuaire ESTUAIR
 estuarienne ESTUARIN
 estudiantine ESTUDIANTIN
 etablai ETABLAI
@@ -36750,7 +36750,7 @@ evaluer EVALU
 evaluerai EVALUERAI
 evanescence EVANESANS
 evanescente EVANESANT
-evangeliaire EVANJELIER
+evangeliaire EVANJELIAIR
 evangelique EVANJELIK
 evangeliquement EVANJELIKEMAN
 evangelisai EVANJELISAI
@@ -36813,7 +36813,7 @@ evenement EVENEMAN
 evenementielle EVENEMANSIEL
 event EVAN
 eventai EVANTAI
-eventaire EVANTER
+eventaire EVANTAIR
 eventais EVANTAI
 evente EVANT
 eventee EVANT
@@ -36972,7 +36972,7 @@ excedante EXSEDANT
 excede EXSED
 excedee EXSED
 excedent EXSEDAN
-excedentaire EXSEDANTER
+excedentaire EXSEDANTAIR
 exceder EXSED
 excederai EXSEDERAI
 excellai EXSELAI
@@ -37120,7 +37120,7 @@ executrice EXEKUTRIS
 exedre EXEDR
 exegete EXEJET
 exegetique EXEJETIK
-exemplaire EXANPLER
+exemplaire EXANPLAIR
 exemplairement EXANPLAIREMAN
 exemplarite EXANPLARIT
 exemple EXANPL
@@ -37316,7 +37316,7 @@ expediee EXPEDI
 expedients EXPEDIAN
 expedier EXPEDI
 expedierai EXPEDIERAI
-expeditionnaire EXPEDISIONER
+expeditionnaire EXPEDISIONAIR
 expeditive EXPEDITIV
 expeditivement EXPEDITIVEMAN
 expeditrice EXPEDITRIS
@@ -37567,14 +37567,14 @@ extradition EXTRADISION
 extrados EXTRADO
 extragalactique EXTRAGALAKTIK
 extrairai EXTRAIRAI
-extraire EXTRER
+extraire EXTRAIR
 extrais EXTRAI
 extrait EXTRAI
 extraite EXTRAIT
-extrajudiciaire EXTRAJUDISIER
+extrajudiciaire EXTRAJUDISIAIR
 extralucide EXTRALUSID
 extraneite EXTRANEIT
-extraordinaire EXTRAORDINER
+extraordinaire EXTRAORDINAIR
 extraordinairement EXTRAORDINAIREMA
 extrapolai EXTRAPOLAI
 extrapolais EXTRAPOLAI
@@ -37694,7 +37694,7 @@ factage FAKTAJ
 facticement FAKTISEMAN
 facticite FAKTISIT
 factieuse FAKTIES
-factionnaire FAKSIONER
+factionnaire FAKSIONAIR
 factitive FAKTITIV
 facto FAKTO
 factor FAKTOR
@@ -37777,8 +37777,8 @@ faineante FAINEANT
 faineanter FAINEANT
 faineanterai FAINEANTERAI
 faineantise FAINEANTIS
-fair FER
-faires FER
+fair FAIR
+faires FAIR
 fais FAI
 faisabilite FAISABILIT
 faisable FAISABL
@@ -38350,7 +38350,7 @@ fetidite FETIDIT
 fetu FETU
 fetuque FETUK
 feu FE
-feudataire FEDATER
+feudataire FEDATAIR
 feudiste FEDIST
 feue FE
 feuil FEIL
@@ -38418,7 +38418,7 @@ fibration FIBRASION
 fibre FIBR
 fibree FIBR
 fibreuse FIBRES
-fibrillaire FIBRILER
+fibrillaire FIBRILAIR
 fibrillation FIBRILASION
 fibrine FIBRIN
 fibrineuse FIBRINES
@@ -38432,7 +38432,7 @@ fibromyome FIBROMIOM
 fibrose FIBROS
 fibule FIBUL
 fic FIK
-ficaire FIKER
+ficaire FIKAIR
 ficelage FISELAJ
 ficelai FISELAI
 ficelais FISELAI
@@ -38457,7 +38457,7 @@ fictive FIKTIV
 fictivement FIKTIVEMAN
 ficus FIKU
 fideicommis FIDEIKOMI
-fideicommissaire FIDEIKOMISER
+fideicommissaire FIDEIKOMISAIR
 fideisme FIDEISM
 fideiste FIDEIST
 fidejusseur FIDEJUSER
@@ -38470,7 +38470,7 @@ fidelise FIDELIS
 fideliser FIDELIS
 fideliserai FIDELISERAI
 fidelite FIDELIT
-fiduciaire FIDUSIER
+fiduciaire FIDUSIAIR
 fiduciairement FIDUSIAIREMAN
 fie FI
 fieffai FIEFAI
@@ -38521,7 +38521,7 @@ figuriste FIGURIST
 filable FILABL
 filage FIAJ
 filai FILAI
-filaire FILER
+filaire FILAIR
 filais FILAI
 filament FILAMAN
 filamenteuse FILAMANTES
@@ -38590,7 +38590,7 @@ finalement FINALEMAN
 finalisation FINALISASION
 finalisme FINALISM
 finaliste FINALIST
-finalitaire FINALITER
+finalitaire FINALITAIR
 finalite FINALIT
 finançai FINANSAI
 finançais FINANSAI
@@ -38668,7 +38668,7 @@ fissurer FISUR
 fissurerai FISURERAI
 fiston FISTON
 fistot FISTO
-fistulaire FISTULER
+fistulaire FISTULAIR
 fistule FISTUL
 fistuleuse FISTULES
 fistuline FISTULIN
@@ -38696,7 +38696,7 @@ flaconnage FLAKONAJ
 flaconnier FLAKONI
 flagada FLAGADA
 flagellai FLAJELAI
-flagellaire FLAJELER
+flagellaire FLAJELAIR
 flagellais FLAJELAI
 flagellation FLAJELASION
 flagellatrice FLAJELATRIS
@@ -38719,10 +38719,10 @@ flagornerie FLAGORNERI
 flagorneuse FLAGORNES
 flagrance FLAGRANS
 flagrante FLAGRANT
-flair FLER
+flair FLAIR
 flairai FLAIRAI
 flairais FLAIRAI
-flaire FLER
+flaire FLAIR
 flairerai FLAIRERAI
 flaireuse FLAIRES
 flakes FLAK
@@ -39045,7 +39045,7 @@ folatrer FOLATR
 folatrerai FOLATRERAI
 folatrerie FOLATRERI
 foliacee FOLIAS
-foliaire FOLIER
+foliaire FOLIAIR
 foliation FOLIASION
 folichonnai FOLICHONAI
 folichonnais FOLICHONAI
@@ -39070,7 +39070,7 @@ folksong FOLKSON
 follement FOLEMAN
 follet FOL
 follette FOLET
-folliculaire FOLIKULER
+folliculaire FOLIKULAIR
 follicule FOLIKUL
 folliculine FOLIKULIN
 folliculite FOLIKULIT
@@ -39089,7 +39089,7 @@ fonceuse FONSES
 fonciere FONSIER
 foncierement FONSIEREMAN
 fonctionnai FONKSIONAI
-fonctionnaire FONKSIONER
+fonctionnaire FONKSIONAIR
 fonctionnais FONKSIONAI
 fonctionnaliser FONKSIONALIS
 fonctionnalisme FONKSIONALISM
@@ -39175,10 +39175,10 @@ foresterie FORESTERI
 forestiere FORESTIER
 foreuse FORES
 Forez FOR
-forfaire FORFER
+forfaire FORFAIR
 forfais FORFAI
 forfaisais FORFAISAI
-forfaitaire FORFAITER
+forfaitaire FORFAITAIR
 forfaitairement FORFAITAIREMAN
 forfaits FORFAI
 forfaiture FORFAITUR
@@ -39253,7 +39253,7 @@ formolerai FORMOLERAI
 Formose FORMOS
 formulable FORMULABL
 formulai FORMULAI
-formulaire FORMULER
+formulaire FORMULAIR
 formulais FORMULAI
 formulation FORMULASION
 formuler FORMUL
@@ -39470,7 +39470,7 @@ fracasserai FRAKASERAI
 fractale FRAKTAL
 fraction FRAKSION
 fractionnai FRAKSIONAI
-fractionnaire FRAKSIONER
+fractionnaire FRAKSIONAIR
 fractionnais FRAKSIONAI
 fractionne FRAKSION
 fractionnelle FRAKSIONEL
@@ -39489,7 +39489,7 @@ fragiliser FRAJILIS
 fragiliserai FRAJILISERAI
 fragilite FRAJILIT
 fragmentai FRAGMANTAI
-fragmentaire FRAGMANTER
+fragmentaire FRAGMANTAIR
 fragmentairement FRAGMANTAIREMAN
 fragmentais FRAGMANTAI
 fragmentation FRAGMANTASION
@@ -39712,7 +39712,7 @@ frictionner FRIKSION
 frictionnerai FRIKSIONERAI
 fridolin FRIDOLIN
 Friedrich FRIEDRICH
-frigidaire FRIJIDER
+frigidaire FRIJIDAIR
 frigidarium FRIJIDARIUM
 frigide FRIJID
 frigidite FRIJIDIT
@@ -39732,7 +39732,7 @@ frigorifugerai FRIGORIFUJERAI
 frileuse FRILES
 frileusement FRILESEMAN
 frimai FRIMAI
-frimaire FRIMER
+frimaire FRIMAIR
 frimais FRIMAI
 frimas FRIMA
 frimer FRIM
@@ -39789,7 +39789,7 @@ frisure FRISUR
 frit FRI
 friterie FRITERI
 friteuse FRITES
-fritillaire FRITILER
+fritillaire FRITILAIR
 frittage FRITAJ
 frittai FRITAI
 frittais FRITAI
@@ -39893,7 +39893,7 @@ fruiterie FRUITERI
 fruiticultrice FRUITIKULTRIS
 fruitiere FRUITIER
 frumentacee FRUMANTAS
-frumentaire FRUMANTER
+frumentaire FRUMANTAIR
 frusquai FRUSKAI
 frusquais FRUSKAI
 frusque FRUSK
@@ -39979,11 +39979,11 @@ fumoir FUMOIR
 fumure FUMUR
 funambulesque FUNANBULESK
 funerailles FUNERAIL
-funeraire FUNERER
+funeraire FUNERAIR
 funerarium FUNERARIUM
 funeste FUNEST
 funestement FUNESTEMAN
-funiculaire FUNIKULER
+funiculaire FUNIKULAIR
 funicule FUNIKUL
 funin FUNIN
 funky FINKI
@@ -40283,7 +40283,7 @@ gandoura GANDOURA
 ganga GANGA
 Gange GANJ
 gangetique GANJETIK
-ganglionnaire GANGLIONER
+ganglionnaire GANGLIONAIR
 gangrenai GANGRENAI
 gangrenais GANGRENAI
 gangrene GANGRAN
@@ -40575,7 +40575,7 @@ gelivure JELIVUR
 gelose JELOS
 gelure JELUR
 gemeau JEMO
-gemellaire JEMELER
+gemellaire JEMELAIR
 gemelle JEMEL
 gemellipare JEMELIPAR
 gemellite JEMELIT
@@ -40658,7 +40658,7 @@ genialite JENIALIT
 genitale JENITAL
 genito JENITO
 genitrice JENITRIS
-genocidaire JENOSIDER
+genocidaire JENOSIDAIR
 genoise JENOIS
 genome JENOM
 genomique JENOMIK
@@ -40891,7 +40891,7 @@ glacerai GLASERAI
 glacerie GLASERI
 glaceur GLASER
 glaceuse GLASES
-glaciaire GLASIER
+glaciaire GLASIAIR
 glaciale GLASIAL
 glacials GLASIAL
 glaciation GLASIASION
@@ -40904,7 +40904,7 @@ glaçure GLASUR
 glagolitique GLAGOLITIK
 glairai GLAIRAI
 glairais GLAIRAI
-glairer GLER
+glairer GLAIR
 glairerai GLAIRERAI
 glaireuse GLAIRES
 glairure GLAIRUR
@@ -40929,7 +40929,7 @@ glandouillais GLANDOUIAI
 glandouille GLANDOUIL
 glandouiller GLANDOUIL
 glandouillerai GLANDOUIERAI
-glandulaire GLANDULER
+glandulaire GLANDULAIR
 glanduleuse GLANDULES
 glane GLAN
 glanerai GLANERAI
@@ -41009,7 +41009,7 @@ glosais GLOSAI
 glose GLOS
 gloser GLOS
 gloserai GLOSERAI
-glossaire GLOSER
+glossaire GLOSAIR
 glossateur GLOSATER
 glossine GLOSIN
 glossite GLOSIT
@@ -41424,7 +41424,7 @@ granitique GRANITIK
 granitoide GRANITOID
 granivore GRANIVOR
 granulai GRANULAI
-granulaire GRANULER
+granulaire GRANULAIR
 granulais GRANULAI
 granularite GRANULARIT
 granulat GRANULA
@@ -42112,7 +42112,7 @@ Hainaut AINO
 haineuse AINES
 haineusement AINESEMAN
 hairai AIRAI
-haire ER
+haire AIR
 hais AI
 haissable AISABL
 haissais AISAI
@@ -42338,7 +42338,7 @@ hash ACH
 Hasselt ASELT
 hassidisme ASIDISM
 hast AS
-hastaire ASTER
+hastaire ASTAIR
 haste AST
 hastee AST
 hatai ATAI
@@ -42518,7 +42518,7 @@ hematome EMATOM
 hematopoiese EMATOPOIES
 hematopoietique EMATOPOIETIK
 hematose EMATOS
-hematozoaire EMATOZOER
+hematozoaire EMATOZOAIR
 hematurie EMATURI
 hemeralope EMERALOP
 hemeralopie EMERALOPI
@@ -42556,7 +42556,7 @@ hemoptysie EMOPTISI
 hemoptysique EMOPTISIK
 hemorragie EMORAJI
 hemorragique EMORAJIK
-hemorroidaire EMOROIDER
+hemorroidaire EMOROIDAIR
 hemorroidale EMOROIDAL
 hemorroide EMOROID
 hemostase EMOSTAS
@@ -42652,7 +42652,7 @@ hermetiquement ERMETIKEMAN
 hermetisme ERMETISM
 herminette ERMINET
 Hermite ERMIT
-herniaire ERNIER
+herniaire ERNIAIR
 herniee ERNI
 hernieuse ERNIES
 heroi EROI
@@ -42688,7 +42688,7 @@ hesite ESIT
 hesiterai ESITERAI
 Hesse ES
 Hessenberg ESANBER
-hetaire ETER
+hetaire ETAIR
 hetairie ETAIRI
 heterocerque ETEROSERK
 heterochromosome ETEROKROMOSOM
@@ -42764,7 +42764,7 @@ hieroglyphique IEROGLIFIK
 hierogrammate IEROGRAMAT
 hierogrammatiste IEROGRAMATIST
 Higgins IJIN
-hilaire ILER
+hilaire ILAIR
 hilarante ILARANT
 hilarite ILARIT
 Hilbert ILBER
@@ -42970,7 +42970,7 @@ honorabilite ONORABILIT
 honorable ONORABL
 honorablement ONORABLEMAN
 honorai ONORAI
-honoraire ONORER
+honoraire ONORAIR
 honorais ONORAI
 honorariat ONORARIA
 honore ONOR
@@ -43175,7 +43175,7 @@ humanisee UMANIS
 humaniser UMANIS
 humaniserai UMANISERAI
 humanistique UMANISTIK
-humanitaire UMANITER
+humanitaire UMANITAIR
 humanitarisme UMANITARISM
 humanitariste UMANITARIST
 humanoide UMANOID
@@ -43451,7 +43451,7 @@ hypoglosse IPOGLOS
 hypoglycemie IPOGLISEMI
 hypogyne IPOJIN
 hypolipemie IPOLIPEMI
-hypophysaire IPOFISER
+hypophysaire IPOFISAIR
 hypophyse IPOFIS
 hyposecretion IPOSEKRESION
 hypospadias IPOSPADIA
@@ -43470,7 +43470,7 @@ hypotendue IPOTANDU
 hypotension IPOTANSION
 hypotenuse IPOTENUS
 hypothecable IPOTEKABL
-hypothecaire IPOTEKER
+hypothecaire IPOTEKAIR
 hypothenar IPOTENAR
 hypothequai IPOTEKAI
 hypothequais IPOTEKAI
@@ -43554,7 +43554,7 @@ identifie IDANTIFI
 identifiee IDANTIFI
 identifierai IDANTIFIERAI
 identiquement IDANTIKEMAN
-identitaire IDANTITER
+identitaire IDANTITAIR
 identite IDANTIT
 ideographie IDEOGRAFI
 ideographique IDEOGRAFIK
@@ -43841,7 +43841,7 @@ immunise IMUNIS
 immunisee IMUNIS
 immuniser IMUNIS
 immuniserai IMUNISERAI
-immunitaire IMUNITER
+immunitaire IMUNITAIR
 immunite IMUNIT
 immunochimie IMINOCHIMI
 immunocompetente IMINOKONPETANT
@@ -43861,7 +43861,7 @@ impacte INPAKT
 impactee INPAKT
 impacter INPAKT
 impacterai INPAKTERAI
-impaire INPER
+impaire INPAIR
 impala INPALA
 impalpable INPALPABL
 impaludation INPALUDASION
@@ -44251,7 +44251,7 @@ incartade INKARTAD
 incasique INKASIK
 incassable INKASABL
 incendiai INSANDIAI
-incendiaire INSANDIER
+incendiaire INSANDIAIR
 incendiais INSANDIAI
 incendiee INSANDI
 incendier INSANDI
@@ -44534,7 +44534,7 @@ indemnise INDEMNIS
 indemnisee INDEMNIS
 indemniser INDEMNIS
 indemniserai INDEMNISERAI
-indemnitaire INDEMNITER
+indemnitaire INDEMNITAIR
 indemnite INDEMNIT
 indemodable INDEMODABL
 indemontable INDEMONTABL
@@ -44579,7 +44579,7 @@ indicatrice INDIKATRIS
 indicee INDIS
 indicer INDIS
 indicerai INDISERAI
-indiciaire INDISIER
+indiciaire INDISIAIR
 indicible INDISIBL
 indiciblement INDISIBLEMAN
 indicielle INDISIEL
@@ -44655,7 +44655,7 @@ individualite INDIVIDUALIT
 individuation INDIVIDUASION
 individuelle INDIVIDUEL
 individuellement INDIVIDUELEMAN
-indivisaire INDIVISER
+indivisaire INDIVISAIR
 indivise INDIVIS
 indivisement INDIVISEMAN
 indivisibilite INDIVISIBILIT
@@ -44729,7 +44729,7 @@ inegalable INEGALABL
 inegale INEGAL
 inegalee INEGAL
 inegalement INEGALEMAN
-inegalitaire INEGALITER
+inegalitaire INEGALITAIR
 inegalite INEGALIT
 inelasticite INELASTISIT
 inelastique INELASTIK
@@ -45374,7 +45374,7 @@ instruisais INSTRUISAI
 instruisis INSTRUISI
 instruite INSTRUIT
 instrumentai INSTRUMANTAI
-instrumentaire INSTRUMANTER
+instrumentaire INSTRUMANTAIR
 instrumentais INSTRUMANTAI
 instrumentale INSTRUMANTAL
 instrumentalisation INSTRUMANTALISAS
@@ -45402,7 +45402,7 @@ insuffle INSUFL
 insufflee INSUFL
 insuffler INSUFL
 insufflerai INSUFLERAI
-insulaire INSULER
+insulaire INSULAIR
 insularite INSULARIT
 insulinase INSULINAS
 insulinotherapie INSULINOTERAPI
@@ -45517,10 +45517,10 @@ interalliee INTERALI
 interarmees INTERARM
 interarmes INTERARM
 interastrale INTERASTRAL
-interbancaire INTERBANKER
+interbancaire INTERBANKAIR
 Interbrew INTERBREW
 intercalai INTERKALAI
-intercalaire INTERKALER
+intercalaire INTERKALAIR
 intercalais INTERKALAI
 intercalation INTERKALASION
 intercale INTERKAL
@@ -45531,7 +45531,7 @@ intercedais INTERSEDAI
 intercede INTERSED
 interceder INTERSED
 intercederai INTERSEDERAI
-intercellulaire INTERSELULER
+intercellulaire INTERSELULAIR
 interceptai INTERSEPTAI
 interceptais INTERSEPTAI
 intercepte INTERSEPT
@@ -45565,7 +45565,7 @@ interdigitale INTERDIJITAL
 interdirai INTERDIRAI
 interdis INTERDI
 interdisais INTERDISAI
-interdisciplinaire INTERDISIPLINER
+interdisciplinaire INTERDISIPLINAIR
 interdisciplinarite INTERDISIPLINARI
 interdisez INTERDIS
 interdite INTERDIT
@@ -45595,13 +45595,13 @@ interfolie INTERFOLI
 interfoliee INTERFOLI
 interfolier INTERFOLI
 interfolierai INTERFOLIERAI
-interglaciaire INTERGLASIER
+interglaciaire INTERGLASIAIR
 intergouvernementale INTERGOUVERNEMAN
 intergroupe INTERGROUP
 interieure INTERIER
 interieurement INTERIEREMAN
 interim INTERIM
-interimaire INTERIMER
+interimaire INTERIMAIR
 interindividuelle INTERINDIVIDUEL
 interiorisai INTERIORISAI
 interiorisais INTERIORISAI
@@ -45625,7 +45625,7 @@ interlignais INTERLINIAI
 interlignee INTERLIN
 interligner INTERLIN
 interlignerai INTERLINIERAI
-interlineaire INTERLINER
+interlineaire INTERLINEAIR
 interlock INTERLOK
 interlocutoire INTERLOKUTOIR
 interlocutrice INTERLOKUTRIS
@@ -45636,13 +45636,13 @@ interloque INTERLOK
 interloquee INTERLOK
 interloquer INTERLOK
 interloquerai INTERLOKERAI
-intermediaire INTERMEDIER
+intermediaire INTERMEDIAIR
 interminablement INTERMINABLEMAN
 interministerielle INTERMINISTERIEL
 intermittence INTERMITANS
 intermittente INTERMITANT
-intermoleculaire INTERMOLEKULER
-intermusculaire INTERMUSKULER
+intermoleculaire INTERMOLEKULAIR
+intermusculaire INTERMUSKULAIR
 internai INTERNAI
 internais INTERNAI
 internalisation INTERNALISASION
@@ -45668,10 +45668,10 @@ internet INTERN
 internonce INTERNONS
 interoceanique INTEROSEANIK
 interoceptive INTEROSEPTIV
-interoculaire INTEROKULER
+interoculaire INTEROKULAIR
 interosseuse INTEROSES
 interparietale INTERPARIETAL
-interparlementaire INTERPARLEMANTER
+interparlementaire INTERPARLEMANTAI
 interpellai INTERPELAI
 interpellais INTERPELAI
 interpellation INTERPELASION
@@ -45696,7 +45696,7 @@ interpenetriez INTERPENETRI
 interpenetrions INTERPENETRION
 interpenetrons INTERPENETRON
 interpersonnelle INTERPERSONEL
-interplanetaire INTERPLANETER
+interplanetaire INTERPLANETAIR
 interpolai INTERPOLAI
 interpolais INTERPOLAI
 interpolation INTERPOLASION
@@ -45754,12 +45754,12 @@ intersexuee INTERSEXU
 intersexuelle INTERSEXUEL
 intersiderale INTERSIDERAL
 intersigne INTERSIN
-interstellaire INTERSTELER
+interstellaire INTERSTELAIR
 intersyndicale INTERSINDIKAL
 intertitre INTERTITR
 intertropicale INTERTROPIKAL
 interurbaine INTERURBAIN
-intervallaire INTERVALER
+intervallaire INTERVALAIR
 intervalle INTERVAL
 intervenais INTERVENAI
 intervenant INTERVENAN
@@ -45830,15 +45830,15 @@ intoxiquee INTOXIK
 intoxiquerai INTOXIKERAI
 intra INTRA
 intracardiaque INTRAKARDIAK
-intracellulaire INTRASELULER
+intracellulaire INTRASELULAIR
 intracranienne INTRAKRANIN
 intradermique INTRADERMIK
 intradermo INTRADERMO
 intrados INTRADO
 intraduisible INTRADUISIBL
 intraitable INTRAITABL
-intramoleculaire INTRAMOLEKULER
-intramusculaire INTRAMUSKULER
+intramoleculaire INTRAMOLEKULAIR
+intramusculaire INTRAMUSKULAIR
 intransigeance INTRANSIJANS
 intransigeante INTRANSIJANT
 intransitive INTRANSITIV
@@ -45846,7 +45846,7 @@ intransitivement INTRANSITIVEMAN
 intransitivite INTRANSITIVIT
 intransmissible INTRANSMISIBL
 intransportable INTRANSPORTABL
-intranucleaire INTRANUKLER
+intranucleaire INTRANUKLEAIR
 intraveineuse INTRAVAINES
 intrepide INTREPID
 intrepidement INTREPIDEMAN
@@ -46023,7 +46023,7 @@ inviter INVIT
 inviterai INVITERAI
 invocation INVOKASION
 invocatoire INVOKATOIR
-involontaire INVOLONTER
+involontaire INVOLONTAIR
 involontairement INVOLONTAIREMAN
 involucree INVOLUKR
 involutee INVOLUT
@@ -46312,7 +46312,7 @@ iteree ITER
 iterer ITER
 itererai ITERERAI
 ithyphallique ITIFALIK
-itineraire ITINERER
+itineraire ITINERAIR
 itinerante ITINERANT
 Ito ITO
 itou ITOU
@@ -46431,7 +46431,7 @@ James JAM
 jan JAN
 Jang JAN
 jangada JANGADA
-janissaire JANISER
+janissaire JANISAIR
 janotisme JANOTISM
 jansenisme JANSENISM
 janseniste JANSENIST
@@ -46725,7 +46725,7 @@ joyeusete JOIESET
 jubarte JUBART
 jube JUB
 jubilai JUBILAI
-jubilaire JUBILER
+jubilaire JUBILAIR
 jubilais JUBILAI
 jubilation JUBILASION
 jubilatoire JUBILATOIR
@@ -46860,7 +46860,7 @@ juteuse JUTES
 juvenat JUVENA
 juvenile JUVENIL
 juvenilite JUVENILIT
-juxtalineaire JUXTALINER
+juxtalineaire JUXTALINEAIR
 juxtaposable JUXTAPOSABL
 juxtaposai JUXTAPOSAI
 juxtaposais JUXTAPOSAI
@@ -47173,7 +47173,7 @@ laconisme LAKONISM
 lacryma LAKRIMA
 lacrymale LAKRIMAL
 lacrymogene LAKRIMOJAN
-lactaire LAKTER
+lactaire LAKTAIR
 lactalbumine LAKTALBUMIN
 lactase LAKTAS
 lactate LAKTAT
@@ -47189,7 +47189,7 @@ lactometre LAKTOMETR
 lactose LAKTOS
 lactoserum LAKTOSERUM
 lactucarium LAKTUKARIUM
-lacunaire LAKUNER
+lacunaire LAKUNAIR
 lacune LAKUN
 lacuneuse LAKUNES
 lad LA
@@ -47208,7 +47208,7 @@ lagotriche LAGOTRICH
 Lagrange LAGRANJ
 Laguerre LAGER
 laguis LAGI
-lagunaire LAGUNER
+lagunaire LAGUNAIR
 lagune LAGUN
 Lahore LAOR
 lai LAI
@@ -47233,7 +47233,7 @@ lainerai LAINERAI
 lainerie LAINERI
 laineuse LAINES
 lainiere LAINIER
-laird LER
+laird LAIR
 lais LAI
 laissai LAISAI
 laissais LAISAI
@@ -47288,7 +47288,7 @@ lambruche LANBRUCH
 lambrusque LANBRUSK
 lambswool LANBSOUL
 lame LAM
-lamellaire LAMELER
+lamellaire LAMELAIR
 lamelle LAMEL
 lamellee LAMEL
 lamelleuse LAMELES
@@ -47307,7 +47307,7 @@ lamier LAMI
 lamifiee LAMIFI
 laminage LAMINAJ
 laminai LAMINAI
-laminaire LAMINER
+laminaire LAMINAIR
 laminais LAMINAI
 lamine LAMIN
 laminectomie LAMINEKTOMI
@@ -47315,7 +47315,7 @@ laminer LAMIN
 laminerai LAMINERAI
 lamineuse LAMINES
 laminoir LAMINOIR
-lampadaire LANPADER
+lampadaire LANPADAIR
 lampadophore LANPADOFOR
 lampai LANPAI
 lampais LANPAI
@@ -47388,7 +47388,7 @@ laniere LANIER
 lanifere LANIFER
 lanigere LANIJER
 Lanka LANKA
-lanlaire LANLER
+lanlaire LANLAIR
 lanoline LANOLIN
 lansquenet LANSKAN
 lantanier LANTANI
@@ -47415,7 +47415,7 @@ lapereau LAPERO
 lapiaz LAPIAZ
 lapicide LAPISID
 lapidai LAPIDAI
-lapidaire LAPIDER
+lapidaire LAPIDAIR
 lapidais LAPIDAI
 lapidation LAPIDASION
 lapide LAPID
@@ -47443,7 +47443,7 @@ laquelle LAKEL
 laquer LAK
 laquerai LAKERAI
 laqueuse LAKES
-laraire LARER
+laraire LARAIR
 larcin LARSIN
 lardai LARDAI
 lardais LARDAI
@@ -47481,7 +47481,7 @@ larmoyais LARMOIAI
 larmoyer LARMOI
 Laroche LAROCH
 Larousse LAROUS
-larvaire LARVER
+larvaire LARVAIR
 larvee LARV
 larvicide LARVISID
 laryngectomie LARINJEKTOMI
@@ -47523,7 +47523,7 @@ lateritique LATERITIK
 laticifere LATISIFER
 laticlave LATIKLAV
 latifoliee LATIFOLI
-latifundiaire LATIFINDIER
+latifundiaire LATIFINDIAIR
 latifundium LATIFINDIUM
 latine LATIN
 latinisai LATINISAI
@@ -47536,7 +47536,7 @@ latinisme LATINISM
 latiniste LATINIST
 latinite LATINIT
 latino LATINO
-latitudinaire LATITUDINER
+latitudinaire LATITUDINAIR
 latomies LATOMI
 latrie LATRI
 latrines LATRIN
@@ -47625,7 +47625,7 @@ legaliste LEGALIST
 legalite LEGALIT
 legat LEGA
 lege LEJ
-legendaire LEJANDER
+legendaire LEJANDAIR
 legender LEJAND
 Legendre LEJANDR
 legere LEJER
@@ -47639,7 +47639,7 @@ legiferais LEJIFERAI
 legifere LEJIFER
 legiferer LEJIFER
 legifererai LEJIFERERAI
-legionnaire LEJIONER
+legionnaire LEJIONAIR
 legislation LEJISLASION
 legislative LEJISLATIV
 legislatrice LEJISLATRIS
@@ -47690,7 +47690,7 @@ lente LANT
 lentement LANTEMAN
 lenteur LANTER
 lenticelle LANTISEL
-lenticulaire LANTIKULER
+lenticulaire LANTIKULAIR
 lentiforme LANTIFORM
 lentigine LANTIJIN
 lentigo LANTIGO
@@ -47738,7 +47738,7 @@ lesinerai LESINERAI
 lesinerie LESINERI
 lesineuse LESINES
 lesion LESION
-lesionnaire LESIONER
+lesionnaire LESIONAIR
 lesionnelle LESIONEL
 Lesotho LESOTO
 Lesse LES
@@ -47771,7 +47771,7 @@ leucanie LEKANI
 leucemique LESEMIK
 leucine LESIN
 leucite LESIT
-leucocytaire LEKOSITER
+leucocytaire LEKOSITAIR
 leucocyte LEKOSIT
 leucocytose LEKOSITOS
 leucome LEKOM
@@ -47889,7 +47889,7 @@ liberer LIBER
 libererai LIBERERAI
 Liberia LIBERIA
 liberienne LIBERIN
-libertaire LIBERTER
+libertaire LIBERTAIR
 liberticide LIBERTISID
 libertinage LIBERTINAJ
 libertine LIBERTIN
@@ -47897,7 +47897,7 @@ liberty LIBERTI
 libidinale LIBIDINAL
 libidineuse LIBIDINES
 libido LIBIDO
-libraire LIBRER
+libraire LIBRAIR
 librairie LIBRAIRI
 libration LIBRASION
 librement LIBREMAN
@@ -48021,7 +48021,7 @@ limandais LIMANDAI
 limande LIMAND
 limander LIMAND
 limanderai LIMANDERAI
-limbaire LINBER
+limbaire LINBAIR
 limbe LINB
 Limbourg LINBOUR
 limbourgeoise LINBOURJOIS
@@ -48033,7 +48033,7 @@ limettier LIMETI
 limeuse LIMES
 limicole LIMIKOL
 limier LIMI
-liminaire LIMINER
+liminaire LIMINAIR
 liminale LIMINAL
 limitable LIMITABL
 limitai LIMITAI
@@ -48057,7 +48057,7 @@ Limoges LIMOJ
 limonadiere LIMONADIER
 limonage LIMONAJ
 limonai LIMONAI
-limonaire LIMONER
+limonaire LIMONAIR
 limonais LIMONAI
 limone LIMON
 limonene LIMONAN
@@ -48079,10 +48079,10 @@ limpidite LINPIDIT
 limule LIMUL
 lin LIN
 linaigrette LINAIGRET
-linaire LINER
+linaire LINAIR
 linceul LINSEL
 line LIN
-lineaire LINER
+lineaire LINEAIR
 lineairement LINEAIREMAN
 lineale LINEAL
 lineament LINEAMAN
@@ -48279,7 +48279,7 @@ loader LOAD
 lob LOB
 Lobachevsky LOBACHEVSKI
 lobai LOBAI
-lobaire LOBER
+lobaire LOBAIR
 lobais LOBAI
 lobbies LOBI
 lobby LOBI
@@ -48288,7 +48288,7 @@ lobelie LOBELI
 lober LOB
 loberai LOBERAI
 lobotomie LOBOTOMI
-lobulaire LOBULER
+lobulaire LOBULAIR
 lobulee LOBUL
 lobuleuse LOBULES
 locale LOKAL
@@ -48316,7 +48316,7 @@ locomobile LOKOMOBIL
 locomotion LOKOMOSION
 locomotrice LOKOMOTRIS
 locotracteur LOKOTRAKTER
-loculaire LOKULER
+loculaire LOKULAIR
 loculee LOKUL
 loculeuse LOKULES
 locuste LOKUST
@@ -48367,7 +48367,7 @@ LOL LOL
 lolo LOLO
 Lolongwe LOLONGW
 lombago LONBAGO
-lombaire LONBER
+lombaire LONBAIR
 lombalgie LONBALJI
 lombarde LONBARD
 lombarthrose LONBARTROS
@@ -48423,7 +48423,7 @@ lorgnerai LORNIERAI
 lorgnette LORNIET
 lorgnon LORNION
 lori LORI
-loricaire LORIKER
+loricaire LORIKAIR
 Lorient LORIAN
 loriot LORIO
 loris LORI
@@ -48552,7 +48552,7 @@ lubriquement LUBRIKEMAN
 Luc LUK
 lucane LUKAN
 lucarne LUKARN
-lucernaire LUSERNER
+lucernaire LUSERNAIR
 Lucerne LUSERN
 lucide LUSID
 lucidement LUSIDEMAN
@@ -48605,7 +48605,7 @@ luminophore LUMINOFOR
 luminosite LUMINOSIT
 lumitype LUMITIP
 lump LUMP
-lunaire LUNER
+lunaire LUNAIR
 lunaison LUNAISON
 lunatique LUNATIK
 lunchai LINCHAI
@@ -48702,7 +48702,7 @@ lydienne LIDIN
 lymphangite LINFANJIT
 lymphatisme LINFATISM
 lymphe LINF
-lymphocytaire LINFOSITER
+lymphocytaire LINFOSITAIR
 lymphocyte LINFOSIT
 lymphocytose LINFOSITOS
 lymphogranulomatose LINFOGRANULOMATO
@@ -48839,7 +48839,7 @@ macrocosmique MAKROKOSMIK
 macrocyte MAKROSIT
 macrodecision MAKRODESISION
 macrographie MAKROGRAFI
-macromoleculaire MAKROMOLEKULER
+macromoleculaire MAKROMOLEKULAIR
 macromolecule MAKROMOLEKUL
 macron MAKRON
 macrophotographie MAKROFOTOGRAFI
@@ -49054,7 +49054,7 @@ majore MAJOR
 majorer MAJOR
 majorerai MAJORERAI
 majorette MAJORET
-majoritaire MAJORITER
+majoritaire MAJORITAIR
 majoritairement MAJORITAIREMAN
 majorite MAJORIT
 maki MAKI
@@ -49070,7 +49070,7 @@ maladresse MALADRES
 maladroite MALADROIT
 maladroitement MALADROITEMAN
 malaga MALAGA
-malaire MALER
+malaire MALAIR
 malaise MALAIS
 malaisee MALAIS
 malaisement MALAISEMAN
@@ -49102,7 +49102,7 @@ malefique MALEFIK
 malencontreuse MALANKONTRES
 malencontreusement MALANKONTRESEMAN
 malentendante MALANTANDANT
-malfaire MALFER
+malfaire MALFAIR
 malfais MALFAI
 malfaisais MALFAISAI
 malfaisance MALFAISANS
@@ -49142,7 +49142,7 @@ malleabiliser MALEABILIS
 malleabiliserai MALEABILISERAI
 malleabilite MALEABILIT
 malleable MALEABL
-malleolaire MALEOLER
+malleolaire MALEOLAIR
 malleole MALEOL
 mallette MALET
 malmenai MALMENAI
@@ -49200,8 +49200,8 @@ mamelonnerai MAMELONERAI
 mamelouke MAMELOUK
 mamelue MAMELU
 mameluke MAMELUK
-mamillaire MAMILER
-mammaire MAMER
+mamillaire MAMILAIR
+mammaire MAMAIR
 mammalienne MAMALIN
 mammalogie MAMALOJI
 mammifere MAMIFER
@@ -49248,7 +49248,7 @@ mandarinale MANDARINAL
 mandarinat MANDARINA
 mandarinier MANDARINI
 mandatai MANDATAI
-mandataire MANDATER
+mandataire MANDATAIR
 mandatais MANDATAI
 mandate MANDAT
 mandatement MANDATEMAN
@@ -49259,7 +49259,7 @@ mande MAND
 mandement MANDEMAN
 mander MAND
 manderai MANDERAI
-mandibulaire MANDIBULER
+mandibulaire MANDIBULAIR
 mandoline MANDOLIN
 mandoliniste MANDOLINIST
 mandore MANDOR
@@ -49376,7 +49376,7 @@ mantille MANTIL
 mantique MANTIK
 mantisse MANTIS
 mantra MANTRA
-manuaire MANUER
+manuaire MANUAIR
 manubrium MANUBRIUM
 manucurai MANUKURAI
 manucurais MANUKURAI
@@ -49395,7 +49395,7 @@ manufacturiere MANUFAKTURIER
 manumission MANUMISION
 manuscrite MANUSKRIT
 manutentionnai MANUTANSIONAI
-manutentionnaire MANUTANSIONER
+manutentionnaire MANUTANSIONAIR
 manutentionnais MANUTANSIONAI
 manutentionne MANUTANSION
 manutentionner MANUTANSION
@@ -49911,7 +49911,7 @@ matras MATRA
 matriarcale MATRIARKAL
 matriarcat MATRIARKA
 matriçai MATRISAI
-matricaire MATRIKER
+matricaire MATRIKAIR
 matriçais MATRISAI
 matricer MATRIS
 matricerai MATRISERAI
@@ -49921,7 +49921,7 @@ matriculai MATRIKULAI
 matriculais MATRIKULAI
 matriculer MATRIKUL
 matriculerai MATRIKULERAI
-matrilineaire MATRILINER
+matrilineaire MATRILINEAIR
 matrilocale MATRILOKAL
 matrimoniale MATRIMONIAL
 matrimonialement MATRIMONIALEMAN
@@ -49962,7 +49962,7 @@ mauveine MOVAIN
 mauviette MOVIET
 mauvis MOVI
 max MA
-maxillaire MAXILER
+maxillaire MAXILAIR
 maxille MAXIL
 maxima MAXIMA
 maximale MAXIMAL
@@ -50126,13 +50126,13 @@ mediterraneenne MEDITERANAN
 mediumnique MEDIUMNIK
 mediumnite MEDIUMNIT
 medius MEDIU
-medullaire MEDULER
+medullaire MEDULAIR
 medulleuse MEDULES
 medusai MEDUSAI
 medusais MEDUSAI
 meduser MEDUS
 meduserai MEDUSERAI
-mefaire MEFER
+mefaire MEFAIR
 mefais MEFAI
 mefaisais MEFAISAI
 meferai MEFERAI
@@ -50563,7 +50563,7 @@ metatarse METATARS
 metatarsienne METATARSIN
 metayage METAIAJ
 metayere METAIER
-metazoaire METAZOER
+metazoaire METAZOAIR
 metempsychose METANPSIKOS
 metempsycose METANPSIKOS
 metencephale METANSEFAL
@@ -50687,7 +50687,7 @@ miaulerai MIOLERAI
 miauleuse MIOLES
 micacee MIKAS
 micaschiste MIKACHIST
-micellaire MISELER
+micellaire MISELAIR
 Michael MICHEL
 Michel MICHEL
 Michele MICHEL
@@ -50720,7 +50720,7 @@ microfilmais MIKROFILMAI
 microfilme MIKROFILM
 microfilmer MIKROFILM
 microfilmerai MIKROFILMERAI
-microglossaire MIKROGLOSER
+microglossaire MIKROGLOSAIR
 micrographie MIKROGRAFI
 micrographique MIKROGRAFIK
 microgrenue MIKROGRENU
@@ -50785,11 +50785,11 @@ Milan MILAN
 milanaise MILANAIS
 mildiousee MILDIOUS
 mile MIL
-miliaire MILIER
+miliaire MILIAIR
 milice MILIS
 milicienne MILISIAN
 militai MILITAI
-militaire MILITER
+militaire MILITAIR
 militairement MILITAIREMAN
 militais MILITAI
 militantisme MILITANTISM
@@ -50810,7 +50810,7 @@ millas MILA
 millasse MILAS
 Millau MILO
 millefeuille MILEFEIL
-millenaire MILENER
+millenaire MILENAIR
 millenarisme MILENARISM
 millenium MILENIUM
 millepertuis MILEPERTUI
@@ -50823,9 +50823,9 @@ millesime MILESIM
 millesimee MILESIM
 millesimer MILESIM
 millesimerai MILESIMERAI
-milliaire MILIER
+milliaire MILIAIR
 milliampere MILIANPER
-milliardaire MILIARDER
+milliardaire MILIARDAIR
 milliardieme MILIARDIEM
 milliasse MILIAS
 millibar MILIBAR
@@ -50835,7 +50835,7 @@ millimetre MILIMETR
 millimetree MILIMETR
 millimetrique MILIMETRIK
 millionieme MILIONIEM
-millionnaire MILIONER
+millionnaire MILIONAIR
 millithermie MILITERMI
 millivolt MILIVOLT
 Milne MILN
@@ -50936,7 +50936,7 @@ minorative MINORATIV
 minore MINOR
 minorer MINOR
 minorerai MINORERAI
-minoritaire MINORITER
+minoritaire MINORITAIR
 minorite MINORIT
 minot MINO
 minoterie MINOTERI
@@ -50945,7 +50945,7 @@ Minsk MINSK
 minus MINU
 minutage MINUTAJ
 minutai MINUTAI
-minutaire MINUTER
+minutaire MINUTAIR
 minutais MINUTAI
 minute MINUT
 minuter MINUT
@@ -51015,7 +51015,7 @@ mispickel MISPIKEL
 miss MI
 misses MIS
 missilier MISILI
-missionnaire MISIONER
+missionnaire MISIONAIR
 Mississipi MISISIPI
 missive MISIV
 Missouri MISOURI
@@ -51157,7 +51157,7 @@ modique MODIK
 modiquement MODIKEMAN
 modo MODO
 modulai MODULAI
-modulaire MODULER
+modulaire MODULAIR
 modulais MODULAI
 modularite MODULARIT
 modulation MODULASION
@@ -51219,7 +51219,7 @@ molasse MOLAS
 moldave MOLDAV
 Moldavie MOLDAVI
 mole MOL
-moleculaire MOLEKULER
+moleculaire MOLEKULAIR
 molecule MOLEKUL
 molene MOLAN
 moleskine MOLESKIN
@@ -51312,7 +51312,7 @@ mondiste MONDIST
 mondovision MONDOVISION
 monel MONEL
 moneme MONEM
-monetaire MONETER
+monetaire MONETAIR
 monetarisme MONETARISM
 monetariste MONETARIST
 monetique MONETIK
@@ -51353,7 +51353,7 @@ monoacide MONOASID
 monoatomique MONOATOMIK
 monobloc MONOBLOK
 monocameralisme MONOKAMERALISM
-monocellulaire MONOSELULER
+monocellulaire MONOSELULAIR
 monochromatique MONOKROMATIK
 monochromie MONOKROMI
 monoclinale MONOKLINAL
@@ -51362,7 +51362,7 @@ monocomposante MONOKONPOSANT
 monocoque MONOKOK
 monocorde MONOKORD
 monocotyledone MONOKOTILEDON
-monoculaire MONOKULER
+monoculaire MONOKULAIR
 monoculture MONOKULTUR
 monocyte MONOSIT
 monodie MONODI
@@ -51389,7 +51389,7 @@ monomere MONOMER
 monometallisme MONOMETALISM
 monometalliste MONOMETALIST
 monomotrice MONOMOTRIS
-mononucleaire MONONUKLER
+mononucleaire MONONUKLEAIR
 mononucleose MONONUKLEOS
 monophasee MONOFAS
 monophonique MONOFONIK
@@ -51624,7 +51624,7 @@ mosaisme MOSAISM
 mosaiste MOSAIST
 mosane MOSAN
 Moscou MOSKOU
-moscoutaire MOSKOUTER
+moscoutaire MOSKOUTAIR
 mosellane MOSELAN
 Moselle MOSEL
 Moser MOS
@@ -51774,7 +51774,7 @@ mourre MOUR
 mourus MOURU
 mousme MOUSM
 mousquetade MOUSKETAD
-mousquetaire MOUSKETER
+mousquetaire MOUSKETAIR
 mousqueterie MOUSKETERI
 mousqueton MOUSKETON
 moussai MOUSAI
@@ -51790,7 +51790,7 @@ mousson MOUSON
 moussue MOUSU
 moustachue MOUSTACHU
 mousterienne MOUSTERIN
-moustiquaire MOUSTIKER
+moustiquaire MOUSTIKAIR
 mout MOU
 moutardiere MOUTARDIER
 moutier MOUTI
@@ -51886,15 +51886,15 @@ mulote MULOT
 muloter MULOT
 muloterai MULOTERAI
 mulsion MULSION
-multicellulaire MULTISELULER
+multicellulaire MULTISELULAIR
 multidimensionnelle MULTIDIMANSIONEL
-multidisciplinaire MULTIDISIPLINER
-multifilaire MULTIFILER
+multidisciplinaire MULTIDISIPLINAIR
+multifilaire MULTIFILAIR
 multiflore MULTIFLOR
 multiforme MULTIFORM
 multilaterale MULTILATERAL
 multimedia MULTIMEDIA
-multimilliardaire MULTIMILIARDER
+multimilliardaire MULTIMILIARDAIR
 multimodale MULTIMODAL
 multinationale MULTINASIONAL
 multipare MULTIPAR
@@ -51924,7 +51924,7 @@ multisalles MULTISAL
 multistandard MULTISTANDAR
 multitraitement MULTITRAITEMAN
 multitube MULTITUB
-multitubulaire MULTITUBULER
+multitubulaire MULTITUBULAIR
 Munich MUNICH
 municipale MUNISIPAL
 municipalisai MUNISIPALISAI
@@ -51942,7 +51942,7 @@ munis MUNI
 munissais MUNISAI
 munition MUNISION
 munitionnai MUNISIONAI
-munitionnaire MUNISIONER
+munitionnaire MUNISIONAIR
 munitionnais MUNISIONAI
 munitionne MUNISION
 munitionner MUNISION
@@ -51998,7 +51998,7 @@ musclai MUSKLAI
 musclais MUSKLAI
 muscler MUSKL
 musclerai MUSKLERAI
-musculaire MUSKULER
+musculaire MUSKULAIR
 musculation MUSKULASION
 musculature MUSKULATUR
 musculeuse MUSKULES
@@ -52335,7 +52335,7 @@ navalisation NAVALISASION
 navarque NAVARK
 navetteuse NAVETES
 navicert NAVISER
-naviculaire NAVIKULER
+naviculaire NAVIKULAIR
 navicule NAVIKUL
 Navier NAVI
 navigabilite NAVIGABILIT
@@ -52357,7 +52357,7 @@ navre NAVR
 navrement NAVREMAN
 navrer NAVR
 navrerai NAVRERAI
-Nazaire NAZER
+Nazaire NAZAIR
 nazareenne NAZARAN
 Nazareth NAZAR
 nazie NAZI
@@ -52379,7 +52379,7 @@ nebulisation NEBULISASION
 nebuliser NEBULIS
 nebuliseur NEBULISER
 nec NEK
-necessaire NESESER
+necessaire NESESAIR
 necessairement NESESAIREMAN
 necessitai NESESITAI
 necessitais NESESITAI
@@ -52406,7 +52406,7 @@ necrosais NEKROSAI
 necrose NEKROS
 necroser NEKROS
 necroserai NEKROSERAI
-nectaire NEKTER
+nectaire NEKTAIR
 nectarine NEKTARIN
 nee NE
 neerlandaise NERLANDAIS
@@ -52756,7 +52756,7 @@ nixe NIX
 nizere NIZER
 no NO
 Nobel NOBEL
-nobiliaire NOBILIER
+nobiliaire NOBILIAIR
 noblaillon NOBLAILON
 noblement NOBLEMAN
 noblesse NOBLES
@@ -52774,7 +52774,7 @@ nocturne NOKTURN
 nocuite NOKUIT
 nodale NODAL
 nodosite NODOSIT
-nodulaire NODULER
+nodulaire NODULAIR
 nodule NODUL
 noduleuse NODULES
 Noe NO
@@ -52835,7 +52835,7 @@ nommer NOM
 nommerai NOMERAI
 nomogramme NOMOGRAM
 nomographie NOMOGRAFI
-nonagenaire NONAJENER
+nonagenaire NONAJENAIR
 nonantieme NONANTIEM
 nonce NONS
 nonchalamment NONCHALAMAN
@@ -52980,7 +52980,7 @@ nubienne NUBIN
 nubilite NUBILIT
 nucelle NUSEL
 nucleai NUKLEAI
-nucleaire NUKLER
+nucleaire NUKLEAIR
 nucleais NUKLEAI
 nucleariser NUKLEARIS
 nuclee NUKL
@@ -53016,7 +53016,7 @@ nullement NULEMAN
 nullipare NULIPAR
 nullite NULIT
 nument NUMAN
-numeraire NUMERER
+numeraire NUMERAIR
 numerale NUMERAL
 numerateur NUMERATER
 numeration NUMERASION
@@ -53099,7 +53099,7 @@ obesite OBESIT
 obi OBI
 obier OBI
 obit OBI
-obituaire OBITUER
+obituaire OBITUAIR
 objectai OBJEKTAI
 objectais OBJEKTAI
 objectale OBJEKTAL
@@ -53129,7 +53129,7 @@ oblate OBLAT
 oblation OBLASION
 oblative OBLATIV
 oblicite OBLISIT
-obligataire OBLIGATER
+obligataire OBLIGATAIR
 obligation OBLIGASION
 obligatoirement OBLIGATOIREMAN
 oblige OBLIJ
@@ -53349,7 +53349,7 @@ octavin OKTAVIN
 octavo OKTAVO
 octet OKT
 octidi OKTIDI
-octogenaire OKTOJENER
+octogenaire OKTOJENAIR
 octogonale OKTOGONAL
 octogone OKTOGON
 octopode OKTOPOD
@@ -53368,7 +53368,7 @@ octuple OKTUPL
 octuplee OKTUPL
 octupler OKTUPL
 octuplerai OKTUPLERAI
-oculaire OKULER
+oculaire OKULAIR
 oculariste OKULARIST
 oculiste OKULIST
 oculus OKULU
@@ -53521,7 +53521,7 @@ olivetain OLIVETIN
 olivette OLIVET
 olivier OLIVI
 olivine OLIVIN
-ollaire OLER
+ollaire OLAIR
 olle OL
 olographe OLOGRAF
 olympe OLINP
@@ -53680,7 +53680,7 @@ operation OPERASION
 operationnelle OPERASIONEL
 operatoire OPERATOIR
 operatrice OPERATRIS
-operculaire OPERKULER
+operculaire OPERKULAIR
 operculee OPERKUL
 opere OPER
 operee OPER
@@ -53827,9 +53827,9 @@ oratorio ORATORIO
 oratrice ORATRIS
 orbe ORB
 orbicole ORBIKOL
-orbiculaire ORBIKULER
+orbiculaire ORBIKULAIR
 orbitai ORBITAI
-orbitaire ORBITER
+orbitaire ORBITAIR
 orbitais ORBITAI
 orbitale ORBITAL
 orbite ORBIT
@@ -53840,7 +53840,7 @@ orchis ORCHI
 orchite ORCHIT
 ordalie ORDALI
 ordi ORDI
-ordinaire ORDINER
+ordinaire ORDINAIR
 ordinairement ORDINAIREMAN
 ordinale ORDINAL
 ordinand ORDINAN
@@ -54295,7 +54295,7 @@ ovoidale OVOIDAL
 ovovivipare OVOVIVIPAR
 ovoviviparite OVOVIVIPARIT
 ovulai OVULAI
-ovulaire OVULER
+ovulaire OVULAIR
 ovulais OVULAI
 ovulation OVULASION
 ovuler OVUL
@@ -54473,7 +54473,7 @@ paillonner PAION
 paillonnerai PAIONERAI
 paillot PAIO
 paillote PAIOT
-paire PER
+paire PAIR
 pairesse PAIRES
 pairie PAIRI
 pairle PAIRL
@@ -54611,7 +54611,7 @@ pallie PALI
 pallierai PALIERAI
 pallium PALIUM
 palmai PALMAI
-palmaire PALMER
+palmaire PALMAIR
 palmais PALMAI
 palmature PALMATUR
 palme PALM
@@ -54671,7 +54671,7 @@ pamerai PAMERAI
 pamoison PAMOISON
 pampero PANPERO
 pamphlet PANFL
-pamphletaire PANFLETER
+pamphletaire PANFLETAIR
 pampille PANPIL
 pamplemoussier PANPLEMOUSI
 panachage PANACHAJ
@@ -54830,7 +54830,7 @@ papeterie PAPETERI
 papetiere PAPETIER
 papi PAPI
 papilionacee PAPILIONAS
-papillaire PAPILER
+papillaire PAPILAIR
 papilleuse PAPILES
 papillifere PAPILIFER
 papillome PAPILOM
@@ -54926,7 +54926,7 @@ paraissais PARAISAI
 paraitrai PARAITRAI
 paraitre PARAITR
 paralangage PARALANGAJ
-paralitteraire PARALITERER
+paralitteraire PARALITERAIR
 paralitterature PARALITERATUR
 parallactique PARALAKTIK
 parallaxe PARALAX
@@ -54961,7 +54961,7 @@ parametre PARAMETR
 parametrer PARAMETR
 parametrerai PARAMETRERAI
 parametrique PARAMETRIK
-paramilitaire PARAMILITER
+paramilitaire PARAMILITAIR
 parangonnai PARANGONAI
 parangonnais PARANGONAI
 parangonne PARANGON
@@ -54993,10 +54993,10 @@ parapsychologie PARAPSIKOLOJI
 parapublic PARAPUBLIK
 parapublique PARAPUBLIK
 parasceve PARASEV
-parascolaire PARASKOLER
+parascolaire PARASKOLAIR
 parasexualite PARASEXUALIT
 parasitai PARASITAI
-parasitaire PARASITER
+parasitaire PARASITAIR
 parasitais PARASITAI
 parasiter PARASIT
 parasiterai PARASITERAI
@@ -55014,7 +55014,7 @@ paravent PARAVAN
 parcage PARKAJ
 parce PARS
 parcellai PARSELAI
-parcellaire PARSELER
+parcellaire PARSELAIR
 parcellais PARSELAI
 parcellarisai PARSELARISAI
 parcellarisais PARSELARISAI
@@ -55081,7 +55081,7 @@ paresseuse PARESES
 paresseusement PARESESEMAN
 paresthesie PARESTESI
 pareuse PARES
-parfaire PARFER
+parfaire PARFAIR
 parfais PARFAI
 parfaisais PARFAISAI
 parfaitement PARFAITEMAN
@@ -55115,7 +55115,7 @@ paridigitidee PARIDIJITID
 parie PARI
 parier PARI
 parierai PARIERAI
-parietaire PARIETER
+parietaire PARIETAIR
 parietale PARIETAL
 parieuse PARIES
 parigote PARIGOT
@@ -55125,7 +55125,7 @@ parisianisme PARISIANISM
 parisienne PARISIN
 parisis PARISI
 parisyllabique PARISILABIK
-paritaire PARITER
+paritaire PARITAIR
 parite PARIT
 parjurai PARJURAI
 parjurais PARJURAI
@@ -55146,7 +55146,7 @@ parlais PARLAI
 parle PARL
 parlement PARLEMAN
 parlementai PARLEMANTAI
-parlementaire PARLEMANTER
+parlementaire PARLEMANTAIR
 parlementairement PARLEMANTAIREMAN
 parlementais PARLEMANTAI
 parlementarisme PARLEMANTARISM
@@ -55236,7 +55236,7 @@ parte PART
 partenariat PARTENARIA
 partent PARTAN
 parthenogenetique PARTENOJENETIK
-partiaire PARTIER
+partiaire PARTIAIR
 partiale PARTIAL
 partialement PARTIALEMAN
 partialite PARTIALIT
@@ -55477,7 +55477,7 @@ patriciat PATRISIA
 patricienne PATRISIAN
 Patrick PATRIK
 patriclan PATRIKLAN
-patrilineaire PATRILINER
+patrilineaire PATRILINEAIR
 patrilocale PATRILOKAL
 patrimoniale PATRIMONIAL
 patriotarde PATRIOTARD
@@ -55605,7 +55605,7 @@ peaussier POSI
 pebrine PEBRIN
 pebroc PEBROK
 pebroque PEBROK
-pecaire PEKER
+pecaire PEKAIR
 pecari PEKARI
 peccable PEKABL
 peccadille PEKADIL
@@ -55652,9 +55652,9 @@ pederastique PEDERASTIK
 pedestre PEDESTR
 pedestrement PEDESTREMAN
 pediatrie PEDIATRI
-pedicellaire PEDISELER
+pedicellaire PEDISELAIR
 pedicelle PEDISEL
-pediculaire PEDIKULER
+pediculaire PEDIKULAIR
 pediculee PEDIKUL
 pediculose PEDIKULOS
 pedicurie PEDIKURI
@@ -55665,7 +55665,7 @@ pediplaine PEDIPLAIN
 pedogenese PEDOJENES
 pedologie PEDOLOJI
 pedologue PEDOLOG
-pedonculaire PEDONKULER
+pedonculaire PEDONKULAIR
 pedonculee PEDONKUL
 pedophile PEDOFIL
 pedum PEDUM
@@ -55743,7 +55743,7 @@ pelletierine PELETIERIN
 pellette PELET
 pelletterai PELETERAI
 pelliculage PELIKULAJ
-pelliculaire PELIKULER
+pelliculaire PELIKULAIR
 pelliculee PELIKUL
 pelliculeuse PELIKULES
 pellucide PELUSID
@@ -55810,7 +55810,7 @@ pendouillerai PANDOUIERAI
 pendrai PANDRAI
 pends PAN
 pendulai PANDULAI
-pendulaire PANDULER
+pendulaire PANDULAIR
 pendulais PANDULAI
 pendule PANDUL
 penduler PANDUL
@@ -55832,13 +55832,13 @@ penicillee PENISIL
 penicillium PENISILIUM
 penienne PENIN
 penil PENIL
-peninsulaire PENINSULER
+peninsulaire PENINSULAIR
 penis PENI
 penitence PENITANS
 penitencerie PENITANSERI
 penitencier PENITANSI
 penitente PENITANT
-penitentiaire PENITANSIER
+penitentiaire PENITANSIAIR
 penitentiale PENITANSIAL
 penitentielle PENITANSIEL
 pennage PENAJ
@@ -56008,7 +56008,7 @@ pericycle PERISIKL
 peridot PERIDO
 peridurale PERIDURAL
 perigee PERIJ
-periglaciaire PERIGLASIER
+periglaciaire PERIGLASIAIR
 Perigord PERIGOR
 perigueux PERIG
 perihelie PERIELI
@@ -56082,7 +56082,7 @@ permettrai PERMETRAI
 permienne PERMIN
 permis PERMI
 permission PERMISION
-permissionnaire PERMISIONER
+permissionnaire PERMISIONAIR
 permissive PERMISIV
 permissivite PERMISIVIT
 permittivite PERMITIVIT
@@ -56153,7 +56153,7 @@ perseveration PERSEVERASION
 persevere PERSEVER
 perseverer PERSEVER
 persevererai PERSEVERERAI
-persicaire PERSIKER
+persicaire PERSIKAIR
 persicot PERSIKO
 persiflage PERSIFLAJ
 persiflai PERSIFLAI
@@ -56244,7 +56244,7 @@ pesette PESET
 peseuse PESES
 peso PESO
 peson PESON
-pessaire PESER
+pessaire PESAIR
 pesse PES
 pessimiste PESIMIST
 pestai PESTAI
@@ -56294,7 +56294,7 @@ petite PETIT
 petitement PETITEMAN
 petitesse PETITES
 petitionnai PETISIONAI
-petitionnaire PETISIONER
+petitionnaire PETISIONAIR
 petitionnais PETISIONAI
 petitionne PETISION
 petitionner PETISION
@@ -56371,7 +56371,7 @@ phage FAJ
 phagedenique FAJEDENIK
 phagedenisme FAJEDENISM
 phagocytai FAGOSITAI
-phagocytaire FAGOSITER
+phagocytaire FAGOSITAIR
 phagocytais FAGOSITAI
 phagocyte FAGOSIT
 phagocyter FAGOSIT
@@ -56637,10 +56637,10 @@ physiquement FISIKEMAN
 physisorption FISISORPSION
 physostigma FISOSTIGMA
 phytelephas FITELEFA
-phytosanitaire FITOSANITER
+phytosanitaire FITOSANITAIR
 phytotron FITOTRON
-phytozoaire FITOZOER
-piaculaire PIAKULER
+phytozoaire FITOZOAIR
+piaculaire PIAKULAIR
 piaffai PIAFAI
 piaffais PIAFAI
 piaffe PIAF
@@ -56789,7 +56789,7 @@ pigeonnerai PIJONERAI
 pigeonnier PIJONI
 pigerai PIJERAI
 pigmentai PIGMANTAI
-pigmentaire PIGMANTER
+pigmentaire PIGMANTAIR
 pigmentais PIGMANTAI
 pigmentation PIGMANTASION
 pigmente PIGMANT
@@ -56807,7 +56807,7 @@ pignocherai PIGNOCHERAI
 pignorative PINIORATIV
 pilaf PILAF
 pilai PILAI
-pilaire PILER
+pilaire PILAIR
 pilais PILAI
 pilchard PILCHAR
 pilerai PILERAI
@@ -56841,7 +56841,7 @@ piloter PILOT
 piloterai PILOTERAI
 pilotin PILOTIN
 pils PIL
-pilulaire PILULER
+pilulaire PILULAIR
 pilulier PILULI
 pilum PILUM
 pimentai PIMANTAI
@@ -57020,7 +57020,7 @@ pittoresquement PITORESKEMAN
 pittosporum PITOSPORUM
 Pittsburg PITSBUR
 Pittsburgh PITSBUR
-pituitaire PITUITER
+pituitaire PITUITAIR
 pituite PITUIT
 pityriasis PITIRIASI
 pive PIV
@@ -57042,7 +57042,7 @@ placarder PLAKARD
 placarderai PLAKARDERAI
 placebo PLASEBO
 placement PLASEMAN
-placentaire PLASANTER
+placentaire PLASANTAIR
 placentation PLASANTASION
 placer PLAS
 placerai PLASERAI
@@ -57063,7 +57063,7 @@ plafonneur PLAFONER
 plafonnier PLAFONI
 plagale PLAGAL
 plagiai PLAJIAI
-plagiaire PLAJIER
+plagiaire PLAJIAIR
 plagiais PLAJIAI
 plagiat PLAJIA
 plagie PLAJI
@@ -57103,7 +57103,7 @@ plaisanterie PLAISANTERI
 plaisantin PLAISANTIN
 planage PLANAJ
 planai PLANAI
-planaire PLANER
+planaire PLANAIR
 planais PLANAI
 planchai PLANCHAI
 planchais PLANCHAI
@@ -57122,7 +57122,7 @@ planctonique PLANKTONIK
 plane PLAN
 planeite PLANEIT
 planerai PLANERAI
-planetaire PLANETER
+planetaire PLANETAIR
 planetairement PLANETAIREMAN
 planetarisation PLANETARISASION
 planetarium PLANETARIUM
@@ -57151,7 +57151,7 @@ planquerai PLANKERAI
 plantage PLANTAJ
 plantai PLANTAI
 plantain PLANTIN
-plantaire PLANTER
+plantaire PLANTAIR
 plantais PLANTAI
 plantation PLANTASION
 planter PLANT
@@ -57241,7 +57241,7 @@ pleban PLEBAN
 plebe PLEB
 plebeienne PLEBAIN
 plebiscitai PLEBISITAI
-plebiscitaire PLEBISITER
+plebiscitaire PLEBISITAIR
 plebiscitais PLEBISITAI
 plebiscite PLEBISIT
 plebiscitee PLEBISIT
@@ -57411,8 +57411,8 @@ pluraliste PLURALIST
 pluralite PLURALIT
 plurent PLURAN
 pluriannuelle PLURIANUEL
-pluricellulaire PLURISELULER
-pluridisciplinaire PLURIDISIPLINER
+pluricellulaire PLURISELULAIR
+pluridisciplinaire PLURIDISIPLINAIR
 pluridisciplinarite PLURIDISIPLINARI
 plurielle PLURIEL
 plurilaterale PLURILATERAL
@@ -57471,7 +57471,7 @@ pochoir POCHOIR
 pochon POCHON
 pochouse POCHOUS
 podagre PODAGR
-podaire PODER
+podaire PODAIR
 podestat PODESTA
 podium PODIUM
 podologie PODOLOJI
@@ -57569,7 +57569,7 @@ poitevine POITEVIN
 Poitiers POITIER
 Poitou POITOU
 poitrail POITRAIL
-poitrinaire POITRINER
+poitrinaire POITRINAIR
 poitrine POITRIN
 poitriniere POITRINIER
 poivrade POIVRAD
@@ -57705,7 +57705,7 @@ polynevrite POLINEVRIT
 polynomial POLINOMIAL
 polynomiale POLINOMIAL
 polynomiaux POLINOMIO
-polynucleaire POLINUKLER
+polynucleaire POLINUKLEAIR
 polyoside POLIOSID
 polypeptide POLIPEPTID
 polypetale POLIPETAL
@@ -57861,7 +57861,7 @@ poplitee POPLIT
 populace POPULAS
 populaciere POPULASIER
 populage POPULAJ
-populaire POPULER
+populaire POPULAIR
 populairement POPULAIREMAN
 popularisai POPULARISAI
 popularisais POPULARISAI
@@ -57919,7 +57919,7 @@ porterai PORTERAI
 porterie PORTERI
 porteuse PORTES
 portiere PORTIER
-portionnaire PORSIONER
+portionnaire PORSIONAIR
 portique PORTIK
 portland PORTLAN
 portlandien PORTLANDIN
@@ -57989,7 +57989,7 @@ posterieurement POSTERIEREMAN
 posteriori POSTERIORI
 posteriorite POSTERIORIT
 posterite POSTERIT
-postglaciaire POSGLASIER
+postglaciaire POSGLASIAIR
 posthite POSTIT
 posthypophyse POSTIPOFIS
 postichai POSTICHAI
@@ -58014,7 +58014,7 @@ postposer POSTPOS
 postposerai POSTPOSERAI
 postposition POSTPOSISION
 postromantique POSTROMANTIK
-postscolaire POSTSKOLER
+postscolaire POSTSKOLAIR
 PostScript POSTSKRIP
 postsonorisation POSTSONORISASION
 postsynchronisai POSTSINKRONISAI
@@ -58186,7 +58186,7 @@ presidium PRESIDIUM
 pragmatisme PRAGMATISM
 pragmatiste PRAGMATIST
 Prague PRAG
-praire PRER
+praire PRAIR
 prairial PRAIRIAL
 pralin PRALIN
 pralinage PRALINAJ
@@ -58271,7 +58271,7 @@ precipitation PRESIPITASION
 precipite PRESIPIT
 precipiterai PRESIPITERAI
 preciput PRESIPU
-preciputaire PRESIPUTER
+preciputaire PRESIPUTAIR
 precisai PRESISAI
 precisais PRESISAI
 precise PRESIS
@@ -58411,7 +58411,7 @@ preformation PREFORMASION
 preforme PREFORM
 preformer PREFORM
 preformerai PREFORMERAI
-preglaciaire PREGLASIER
+preglaciaire PREGLASIAIR
 pregnance PRENIANS
 pregnante PRENIANT
 prehellenique PRELENIK
@@ -58528,7 +58528,7 @@ presageai PRESAJAI
 presageais PRESAJAI
 presager PRESAJ
 presagerai PRESAJERAI
-presalaire PRESALER
+presalaire PRESALAIR
 presanctifiee PRESANKTIFI
 presbyte PRESBIT
 presbyterale PRESBITERAL
@@ -58610,7 +58610,7 @@ pressuriser PRESURIS
 pressuriserai PRESURISERAI
 prestance PRESTANS
 prestant PRESTAN
-prestataire PRESTATER
+prestataire PRESTATAIR
 preste PREST
 prestement PRESTEMAN
 prestesse PRESTES
@@ -58711,7 +58711,7 @@ primeuriste PRIMERIST
 primevere PRIMEVER
 primidi PRIMIDI
 primipare PRIMIPAR
-primipilaire PRIMIPILER
+primipilaire PRIMIPILAIR
 primipile PRIMIPIL
 primitive PRIMITIV
 primitivement PRIMITIVEMAN
@@ -58733,7 +58733,7 @@ printaniere PRINTANIER
 printanisation PRINTANISASION
 priodonte PRIODONT
 priori PRIORI
-prioritaire PRIORITER
+prioritaire PRIORITAIR
 prioritairement PRIORITAIREMAN
 pris PRI
 prisai PRISAI
@@ -58787,7 +58787,7 @@ proceduriere PROSEDURIER
 procesionne PROSESION
 processeur PROSESER
 processionnai PROSESIONAI
-processionnaire PROSESIONER
+processionnaire PROSESIONAIR
 processionnais PROSESIONAI
 processionne PROSESION
 processionnelle PROSESIONEL
@@ -58806,7 +58806,7 @@ proclame PROKLAM
 proclamerai PROKLAMERAI
 proclitique PROKLITIK
 proconsul PROKONSUL
-proconsulaire PROKONSULER
+proconsulaire PROKONSULAIR
 proconsulat PROKONSULA
 procrastination PROKRASTINASION
 procreai PROKREAI
@@ -59059,7 +59059,7 @@ proprete PROPRET
 propreteur PROPRETER
 proprette PROPRET
 propreture PROPRETUR
-proprietaire PROPRIETER
+proprietaire PROPRIETAIR
 propriete PROPRIET
 proprioceptive PROPRIOSEPTIV
 propulsai PROPULSAI
@@ -59159,7 +59159,7 @@ protestai PROTESTAI
 protestais PROTESTAI
 protestante PROTESTANT
 protestantisme PROTESTANTISM
-protestataire PROTESTATER
+protestataire PROTESTATAIR
 protestation PROTESTASION
 proteste PROTEST
 protester PROTEST
@@ -59172,7 +59172,7 @@ prothorax PROTORA
 prothrombine PROTRONBIN
 protidique PROTIDIK
 protococcus PROTOKOKU
-protocolaire PROTOKOLER
+protocolaire PROTOKOLAIR
 protogine PROTOJIN
 protogynie PROTOJINI
 protohistorique PROTOISTORIK
@@ -59182,7 +59182,7 @@ protoptere PROTOPTER
 prototypage PROTOTIPAJ
 prototype PROTOTIP
 protoxyde PROTOXID
-protozoaire PROTOZOER
+protozoaire PROTOZOAIR
 protractile PROTRAKTIL
 protuberance PROTUBERANS
 protuberante PROTUBERANT
@@ -59351,7 +59351,7 @@ pu PU
 puai PUAI
 puais PUAI
 puanteur PUANTER
-pubertaire PUBERTER
+pubertaire PUBERTAIR
 puberte PUBERT
 pubescence PUBESANS
 pubescente PUBESANT
@@ -59362,7 +59362,7 @@ publiais PUBLIAI
 public PUBLIK
 publicain PUBLIKIN
 publiciste PUBLISIST
-publicitaire PUBLISITER
+publicitaire PUBLISITAIR
 publie PUBLI
 publierai PUBLIERAI
 publipostage PUBLIPOSTAJ
@@ -59411,7 +59411,7 @@ puissamment PUISAMAN
 puissance PUISANS
 puissante PUISANT
 puits PUI
-pulicaire PULIKER
+pulicaire PULIKAIR
 pull PUL
 pullman PULMAN
 pullorose PULOROS
@@ -59421,8 +59421,8 @@ pullulation PULULASION
 pullule PULUL
 pullulement PULULEMAN
 pullulerai PULULERAI
-pulmonaire PULMONER
-pulpaire PULPER
+pulmonaire PULMONAIR
+pulpaire PULPAIR
 pulpeuse PULPES
 pulque PULK
 pulsai PULSAI
@@ -59466,7 +59466,7 @@ puntarelle PINTAREL
 pupazzi PUPAZI
 pupazzo PUPAZO
 pupe PUP
-pupillaire PUPILER
+pupillaire PUPILAIR
 pupillarite PUPILARIT
 pupinisation PUPINISASION
 pupitreuse PUPITRES
@@ -59590,7 +59590,7 @@ qu''y KI
 quadragesimale KADRAJESIMAL
 quadragesime KADRAJESIM
 quadrangle KADRANGL
-quadrangulaire KADRANGULER
+quadrangulaire KADRANGULAIR
 quadratin KADRATIN
 quadratique KADRATIK
 quadrette KADRET
@@ -59683,7 +59683,7 @@ quassia KASIA
 quassier KASI
 quassine KASIN
 quater KAT
-quaternaire KATERNER
+quaternaire KATERNAIR
 quaterne KATERN
 quatorzieme KATORZIEM
 quatorziemement KATORZIEMEMAN
@@ -59717,7 +59717,7 @@ querelleuse KERELES
 querulence KERULANS
 querulente KERULANT
 questionnai KESTIONAI
-questionnaire KESTIONER
+questionnaire KESTIONAIR
 questionnais KESTIONAI
 questionne KESTION
 questionnement KESTIONEMAN
@@ -59746,7 +59746,7 @@ quilleuse KIES
 quillier KILI
 quillon KILON
 Quimper KINP
-quinaire KINER
+quinaire KINAIR
 quinaude KINOD
 quincaillerie KINKAILERI
 quincailliere KINKAILIER
@@ -59754,7 +59754,7 @@ quine KIN
 quinee KIN
 quinoa KINOA
 quinoleine KINOLAIN
-quinquagenaire KINKAJENER
+quinquagenaire KINKAJENAIR
 quinquagesime KINKAJESIM
 quinquennale KINKENAL
 quinquennat KINKENA
@@ -59938,7 +59938,7 @@ rachitisme RACHITISM
 raciale RASIAL
 racinage RASINAJ
 racinai RASINAI
-racinaire RASINER
+racinaire RASINAIR
 racinais RASINAI
 racinal RASINAL
 raciner RASIN
@@ -59987,13 +59987,13 @@ rader RAD
 raderai RADERAI
 radeuse RADES
 radiai RADIAI
-radiaire RADIER
+radiaire RADIAIR
 radiais RADIAI
 radiale RADIAL
 radian RADIAN
 radiance RADIANS
 radiative RADIATIV
-radicalaire RADIKALER
+radicalaire RADIKALAIR
 radicale RADIKAL
 radicalement RADIKALEMAN
 radicalisai RADIKALISAI
@@ -60005,7 +60005,7 @@ radicaliserai RADIKALISERAI
 radicalisme RADIKALISM
 radicante RADIKANT
 radicelle RADISEL
-radiculaire RADIKULER
+radiculaire RADIKULAIR
 radie RADI
 radierai RADIERAI
 radiesthesiste RADIESTESIST
@@ -60224,7 +60224,7 @@ rainurais RAINURAI
 rainurer RAINUR
 rainurerai RAINURERAI
 raiponce RAIPONS
-raire RER
+raire RAIR
 raisine RAISIN
 raisonnable RAISONABL
 raisonnablement RAISONABLEMAN
@@ -60677,7 +60677,7 @@ rationaliserai RASIONALISERAI
 rationaliste RASIONALIST
 rationalite RASIONALIT
 rationnai RASIONAI
-rationnaire RASIONER
+rationnaire RASIONAIR
 rationnais RASIONAI
 rationne RASION
 rationnelle RASIONEL
@@ -60821,7 +60821,7 @@ reaccoutumerai REAKOUTUMERAI
 reacquerant REAKERAN
 reacquerir REAKERIR
 reacquise REAKIS
-reactionnaire REAKSIONER
+reactionnaire REAKSIONAIR
 reactionnelle REAKSIONEL
 reactivai REAKTIVAI
 reactivais REAKTIVAI
@@ -61135,7 +61135,7 @@ receperai RESEPERAI
 receptacle RESEPTAKL
 reception RESEPSION
 receptionnai RESEPSIONAI
-receptionnaire RESEPSIONER
+receptionnaire RESEPSIONAIR
 receptionnais RESEPSIONAI
 receptionne RESEPSION
 receptionner RESEPSION
@@ -61232,7 +61232,7 @@ recidivisme RESIDIVISM
 recidiviste RESIDIVIST
 recifale RESIFAL
 Recife RESIF
-recipiendaire RESIPINDER
+recipiendaire RESIPINDAIR
 recipient RESIPIN
 reciprocite RESIPROSIT
 reciproquai RESIPROKAI
@@ -61269,7 +61269,7 @@ reclouer REKLOU
 reclouerai REKLOUERAI
 reclure REKLUR
 recluse REKLUS
-reclusionnaire REKLUSIONER
+reclusionnaire REKLUSIONAIR
 recognitif REKONITIF
 recognition REKONISION
 recoiffai REKOIFAI
@@ -61486,7 +61486,7 @@ recruterai REKRUTERAI
 recruteur REKRUTER
 recta REKTA
 rectale REKTAL
-rectangulaire REKTANGULER
+rectangulaire REKTANGULAIR
 rectifiable REKTIFIABL
 rectifiai REKTIFIAI
 rectifiais REKTIFIAI
@@ -61496,7 +61496,7 @@ rectificatrice REKTIFIKATRIS
 rectifie REKTIFI
 rectifierai REKTIFIERAI
 rectifieuse REKTIFIES
-rectilineaire REKTILINER
+rectilineaire REKTILINEAIR
 rection REKSION
 rectite REKTIT
 rectorale REKTORAL
@@ -61558,7 +61558,7 @@ redecouvre REDEKOUVR
 redecouvrir REDEKOUVRIR
 redecouvrirai REDEKOUVRIRAI
 redecouvris REDEKOUVRI
-redefaire REDEFER
+redefaire REDEFAIR
 redefais REDEFAI
 redefaisais REDEFAISAI
 redeferai REDEFERAI
@@ -61798,7 +61798,7 @@ reference REFERANS
 referencement REFERANSEMAN
 referencer REFERANS
 referencerai REFERANSERAI
-referendaire REFERANDER
+referendaire REFERANDAIR
 referendum REFERANDUM
 referent REFERAN
 referer REFER
@@ -61964,7 +61964,7 @@ regenter REJANT
 regenterai REJANTERAI
 reggae REGA
 regicide REJISID
-regimentaire REJIMANTER
+regimentaire REJIMANTAIR
 reginglard REJINGLAR
 regionale REJIONAL
 regionalisai REJIONALISAI
@@ -61988,7 +61988,7 @@ reglage REGLAJ
 reglai REGLAI
 reglais REGLAI
 reglementai REGLEMANTAI
-reglementaire REGLEMANTER
+reglementaire REGLEMANTAIR
 reglementairement REGLEMANTAIREMAN
 reglementais REGLEMANTAI
 reglementation REGLEMANTASION
@@ -62319,9 +62319,9 @@ relierai RELIERAI
 relieuse RELIES
 religieuse RELIJIES
 religieusement RELIJIESEMAN
-religionnaire RELIJIONER
+religionnaire RELIJIONAIR
 religiosite RELIJIOSIT
-reliquaire RELIKER
+reliquaire RELIKAIR
 reliquat RELIKA
 Rellich RELICH
 reloge RELOJ
@@ -62839,7 +62839,7 @@ renonçais RENONSAI
 renonce RENONS
 renoncement RENONSEMAN
 renoncerai RENONSERAI
-renonciataire RENONSIATER
+renonciataire RENONSIATAIR
 renonciation RENONSIASION
 renonciatrice RENONSIATRIS
 renouai RENOI
@@ -62894,7 +62894,7 @@ rentoiler RANTOIL
 rentoilerai RANTOILERAI
 rentoileuse RANTOILES
 rentrai RANTRAI
-rentraire RANTRER
+rentraire RANTRAIR
 rentrais RANTRAI
 rentrayer RANTRAI
 rentre RANTR
@@ -62978,7 +62978,7 @@ repaie REPAI
 repaierai REPAIRAI
 repairai REPAIRAI
 repairais REPAIRAI
-repairer REPER
+repairer REPAIR
 repairerai REPAIRERAI
 repandais REPANDAI
 repandis REPANDI
@@ -63313,7 +63313,7 @@ resequerai RESEKERAI
 reserpine RESERPIN
 reservai RESERVAI
 reservais RESERVAI
-reservataire RESERVATER
+reservataire RESERVATAIR
 reserver RESERV
 reserverai RESERVERAI
 reservoir RESERVOIR
@@ -63322,11 +63322,11 @@ residais RESIDAI
 reside RESID
 residente RESIDANT
 residerai RESIDERAI
-residuaire RESIDUER
+residuaire RESIDUAIR
 residuelle RESIDUEL
 resignai RESINIAI
 resignais RESINIAI
-resignataire RESINIATER
+resignataire RESINIATAIR
 resignation RESINIASION
 resigne RESIN
 resignerai RESINIERAI
@@ -63604,7 +63604,7 @@ retapisserai RETAPISERAI
 retard RETAR
 retardai RETARDAI
 retardais RETARDAI
-retardataire RETARDATER
+retardataire RETARDATAIR
 retardatrice RETARDATRIS
 retarde RETARD
 retardement RETARDEMAN
@@ -63638,10 +63638,10 @@ retersais RETERSAI
 reterse RETERS
 reterser RETERS
 reterserai RETERSERAI
-retiaire RETIER
+retiaire RETIAIR
 reticente RETISANT
 reticulai RETIKULAI
-reticulaire RETIKULER
+reticulaire RETIKULAIR
 reticulais RETIKULAI
 reticulation RETIKULASION
 reticuler RETIKUL
@@ -63942,7 +63942,7 @@ revolte REVOLT
 revolterai REVOLTERAI
 revolue REVOLU
 revolutionnai REVOLUSIONAI
-revolutionnaire REVOLUSIONER
+revolutionnaire REVOLUSIONAIR
 revolutionnairement REVOLUSIONAIREMA
 revolutionnais REVOLUSIONAI
 revolutionnarisme REVOLUSIONARISM
@@ -64227,7 +64227,7 @@ ripostais RIPOSTAI
 riposter RIPOST
 riposterai RIPOSTERAI
 ripper RIP
-ripuaire RIPUER
+ripuaire RIPUAIR
 rirai RIRAI
 risban RISBAN
 risberme RISBERM
@@ -64284,7 +64284,7 @@ rivette RIVET
 rivetterai RIVETERAI
 riveuse RIVES
 rivoir RIVOIR
-rivulaire RIVULER
+rivulaire RIVULAIR
 rivure RIVUR
 rixdale RIXDAL
 rizerie RIZERI
@@ -64754,7 +64754,7 @@ ruderale RUDERAL
 ruderation RUDERASION
 rudesse RUDES
 rudiment RUDIMAN
-rudimentaire RUDIMANTER
+rudimentaire RUDIMANTAIR
 rudoie RUDOI
 rudoiement RUDOIMAN
 rudoierai RUDOIERAI
@@ -64983,7 +64983,7 @@ sacralisation SAKRALISASION
 sacralise SAKRALIS
 sacraliser SAKRALIS
 sacraliserai SAKRALISERAI
-sacramentaire SAKRAMANTER
+sacramentaire SAKRAMANTAIR
 sacramental SAKRAMANTAL
 sacramentelle SAKRAMANTEL
 sacrebleu SAKREBL
@@ -65108,7 +65108,7 @@ salerai SALERAI
 salesienne SALESIN
 salete SALET
 saleuse SALES
-salicaire SALIKER
+salicaire SALIKAIR
 salicine SALISIN
 salicional SALISIONAL
 salicole SALIKOL
@@ -65137,7 +65137,7 @@ salissais SALISAI
 salisson SALISON
 salissure SALISUR
 salivai SALIVAI
-salivaire SALIVER
+salivaire SALIVAIR
 salivais SALIVAI
 salivation SALIVASION
 saliver SALIV
@@ -65186,7 +65186,7 @@ salue SALU
 saluer SALU
 saluerai SALUERAI
 salure SALUR
-salutaire SALUTER
+salutaire SALUTAIR
 salutairement SALUTAIREMAN
 salutation SALUTASION
 salutiste SALUTIST
@@ -65221,7 +65221,7 @@ sanctionnais SANKSIONAI
 sanctionne SANKSION
 sanctionner SANKSION
 sanctionnerai SANKSIONERAI
-sanctuaire SANKTUER
+sanctuaire SANKTUAIR
 sanctuarisai SANKTUARISAI
 sanctuarisais SANKTUARISAI
 sanctuarise SANKTUARIS
@@ -65246,7 +65246,7 @@ sanglotement SANGLOTEMAN
 sangloter SANGLOT
 sangloterai SANGLOTERAI
 sangria SANGRIA
-sanguinaire SANGINER
+sanguinaire SANGINAIR
 sanguinolente SANGINOLANT
 sanhedrin SANEDRIN
 sanicle SANIKL
@@ -65296,7 +65296,7 @@ sapine SAPIN
 sapinette SAPINET
 sapiniere SAPINIER
 saponacee SAPONAS
-saponaire SAPONER
+saponaire SAPONAIR
 saponifiable SAPONIFIABL
 saponifiai SAPONIFIAI
 saponifiais SAPONIFIAI
@@ -65403,7 +65403,7 @@ satirise SATIRIS
 satiriser SATIRIS
 satiriserai SATIRISERAI
 satisfaction SATISFAKSION
-satisfaire SATISFER
+satisfaire SATISFAIR
 satisfais SATISFAI
 satisfaisais SATISFAISAI
 satisfecit SATISFESI
@@ -65730,7 +65730,7 @@ sclerosais SKLEROSAI
 scleroser SKLEROS
 scleroserai SKLEROSERAI
 sclerotique SKLEROTIK
-scolaire SKOLER
+scolaire SKOLAIR
 scolairement SKOLAIREMAN
 scolarisai SKOLARISAI
 scolarisais SKOLARISAI
@@ -65795,9 +65795,9 @@ scribouilleuse SKRIBOUIES
 scripte SKRIPT
 scripteur SKRIPTER
 scriptum SKRIPTUM
-scripturaire SKRIPTURER
+scripturaire SKRIPTURAIR
 scripturale SKRIPTURAL
-scrofulaire SKROFULER
+scrofulaire SKROFULAIR
 scrofule SKROFUL
 scrofuleuse SKROFULES
 scrogneugneu SKRONAN
@@ -65821,7 +65821,7 @@ sculpteur SKULTER
 sculpturale SKULTURAL
 sculpture SKULTUR
 scuta SKUTA
-scutellaire SKUTELER
+scutellaire SKUTELAIR
 scutum SKUTUM
 scythe SIT
 scythique SITIK
@@ -65850,7 +65850,7 @@ secherai SECHERAI
 secherie SECHERI
 secheuse SECHES
 secondai SEKONDAI
-secondaire SEKONDER
+secondaire SEKONDAIR
 secondairement SEKONDAIREMAN
 secondais SEKONDAI
 secondarite SEKONDARIT
@@ -65876,7 +65876,7 @@ secourus SEKOURU
 secousse SEKOUS
 secretage SEKRETAJ
 secretai SEKRETAI
-secretaire SEKRETER
+secretaire SEKRETAIR
 secretairerie SEKRETAIRERI
 secretais SEKRETAI
 secretariat SEKRETARIA
@@ -65888,7 +65888,7 @@ secreteuse SEKRETES
 secretine SEKRETIN
 secretion SEKRESION
 secretoire SEKRETOIR
-sectaire SEKTER
+sectaire SEKTAIR
 sectarisme SEKTARISM
 sectatrice SEKTATRIS
 secteur SEKTER
@@ -65906,7 +65906,7 @@ sectorisation SEKTORISASION
 sectorise SEKTORIS
 sectoriser SEKTORIS
 sectoriserai SEKTORISERAI
-seculaire SEKULER
+seculaire SEKULAIR
 seculairement SEKULAIREMAN
 secularisai SEKULARISAI
 secularisais SEKULARISAI
@@ -65922,9 +65922,9 @@ securisation SEKURISASION
 securise SEKURIS
 securiser SEKURIS
 securiserai SEKURISERAI
-securitaire SEKURITER
+securitaire SEKURITAIR
 sedative SEDATIV
-sedentaire SEDANTER
+sedentaire SEDANTAIR
 sedentarisai SEDANTARISAI
 sedentarisais SEDANTARISAI
 sedentarisation SEDANTARISASION
@@ -65934,7 +65934,7 @@ sedentariserai SEDANTARISERAI
 sedentarite SEDANTARIT
 sediment SEDIMAN
 sedimentai SEDIMANTAI
-sedimentaire SEDIMANTER
+sedimentaire SEDIMANTAIR
 sedimentais SEDIMANTAI
 sedimentation SEDIMANTASION
 sedimente SEDIMANT
@@ -66141,7 +66141,7 @@ septante SEPTANT
 septembrisades SEPTANBRISAD
 septembriseur SEPTANBRISER
 septemvir SEPTEMVIR
-septenaire SEPTENER
+septenaire SEPTENAIR
 septennale SEPTENAL
 septennalite SEPTENALIT
 septennat SEPTENA
@@ -66155,7 +66155,7 @@ septime SEPTIM
 septimo SEPTIMO
 septique SEPTIK
 septmoncel SEPTMONSEL
-septuagenaire SEPTUAJENER
+septuagenaire SEPTUAJENAIR
 septuagesime SEPTUAJESIM
 septuor SEPTUOR
 septuplai SEPTUPLAI
@@ -66232,7 +66232,7 @@ seringuerai SERINGERAI
 serique SERIK
 sermon SERMON
 sermonnai SERMONAI
-sermonnaire SERMONER
+sermonnaire SERMONAIR
 sermonnais SERMONAI
 sermonne SERMON
 sermonner SERMON
@@ -66246,7 +66246,7 @@ serotonine SEROTONIN
 serovaccination SEROVAKSINASION
 serpent SERPAN
 serpentai SERPANTAI
-serpentaire SERPANTER
+serpentaire SERPANTAIR
 serpentais SERPANTAI
 serpente SERPANT
 serpenteau SERPANTO
@@ -66421,7 +66421,7 @@ sibilante SIBILANT
 Sibylle SIBIL
 sibylline SIBILIN
 sic SIK
-sicaire SIKER
+sicaire SIKAIR
 siccative SIKATIV
 siccite SIKSIT
 Sicile SISIL
@@ -66473,7 +66473,7 @@ sifflotement SIFLOTEMAN
 siffloter SIFLOT
 siffloterai SIFLOTERAI
 sifilet SIFIL
-sigillaire SIJILER
+sigillaire SIJILAIR
 sigillee SIJIL
 sigillographie SIJILOGRAFI
 sigillographique SIJILOGRAFIK
@@ -66564,7 +66564,7 @@ simaruba SIMARUBA
 simbleau SINBLO
 simienne SIMIN
 simiesque SIMIESK
-similaire SIMILER
+similaire SIMILAIR
 similarite SIMILARIT
 simile SIMIL
 simili SIMILI
@@ -66800,7 +66800,7 @@ socialiserai SOSIALISERAI
 socialisme SOSIALISM
 socialiste SOSIALIST
 sociatrie SOSIATRI
-societaire SOSIETER
+societaire SOSIETAIR
 societariat SOSIETARIA
 socinianisme SOSINIANISM
 socio SOSIO
@@ -66853,7 +66853,7 @@ soiree SOIR
 sois SOI
 soixantaine SOISANTAIN
 soixantieme SOISANTIEM
-solaire SOLER
+solaire SOLAIR
 Solange SOLANJ
 solarigraphe SOLARIGRAF
 Solaris SOLARI
@@ -66871,7 +66871,7 @@ soldatesque SOLDATESK
 solderai SOLDERAI
 soldeuse SOLDES
 sole SOL
-soleaire SOLER
+soleaire SOLEAIR
 solen SOLAN
 solennelle SOLENEL
 solennellement SOLENELEMAN
@@ -67215,7 +67215,7 @@ soumettre SOUMETR
 soumis SOUMI
 soumission SOUMISION
 soumissionnai SOUMISIONAI
-soumissionnaire SOUMISIONER
+soumissionnaire SOUMISIONAIR
 soumissionnais SOUMISIONAI
 soumissionne SOUMISION
 soumissionner SOUMISION
@@ -67401,7 +67401,7 @@ specifierai SPESIFIERAI
 specifiquement SPESIFIKEMAN
 speciosite SPESIOSIT
 spectacle SPEKTAKL
-spectaculaire SPEKTAKULER
+spectaculaire SPEKTAKULAIR
 spectaculairement SPEKTAKULAIREMAN
 spectatrice SPEKTATRIS
 spectrale SPEKTRAL
@@ -67411,7 +67411,7 @@ spectroscope SPEKTROSKOP
 spectroscopie SPEKTROSKOPI
 spectroscopique SPEKTROSKOPIK
 speculai SPEKULAI
-speculaire SPEKULER
+speculaire SPEKULAIR
 speculais SPEKULAI
 speculation SPEKULASION
 speculative SPEKULATIV
@@ -67600,7 +67600,7 @@ staffer STAF
 stafferai STAFERAI
 staffeur STAFER
 stagflation STAGFLASION
-stagiaire STAJIER
+stagiaire STAJIAIR
 stagnai STANIAI
 stagnais STANIAI
 stagnation STANIASION
@@ -67657,7 +67657,7 @@ stathouder STATOUD
 stathouderat STATOUDERA
 statice STATIS
 stationnai STASIONAI
-stationnaire STASIONER
+stationnaire STASIONAIR
 stationnais STASIONAI
 stationnarite STASIONARIT
 stationne STASION
@@ -67675,7 +67675,7 @@ statoreacteur STATOREAKTER
 statthalter STATALT
 statu STATU
 statuai STATUAI
-statuaire STATUER
+statuaire STATUAIR
 statuais STATUAI
 statue STATU
 statuerai STATUERAI
@@ -67686,7 +67686,7 @@ statufie STATUFI
 statufier STATUFI
 statufierai STATUFIERAI
 stature STATUR
-statutaire STATUTER
+statutaire STATUTAIR
 statutairement STATUTAIREMAN
 stawug STAWUG
 stayer STAI
@@ -67707,7 +67707,7 @@ steinbock STINBOK
 Steinhaus STAINO
 Stella STELA
 stellage STELAJ
-stellaire STELER
+stellaire STELAIR
 stem STEM
 stemm STEM
 stenciliste STANSILIST
@@ -67745,7 +67745,7 @@ steppique STEPIK
 steradian STERADIAN
 sterai STERAI
 sterais STERAI
-stercoraire STERKORER
+stercoraire STERKORAIR
 stercorale STERKORAL
 stere STER
 stereo STEREO
@@ -67827,7 +67827,7 @@ stimuline STIMULIN
 stimulus STIMULU
 stipe STIP
 stipendiai STIPANDIAI
-stipendiaire STIPANDIER
+stipendiaire STIPANDIAIR
 stipendiais STIPANDIAI
 stipendie STIPANDI
 stipendier STIPANDI
@@ -67835,7 +67835,7 @@ stipendierai STIPANDIERAI
 stipitee STIPIT
 stiple STIPL
 stipulai STIPULAI
-stipulaire STIPULER
+stipulaire STIPULAIR
 stipulais STIPULAI
 stipulation STIPULASION
 stipule STIPUL
@@ -68071,7 +68071,7 @@ subdivisais SUBDIVISAI
 subdivise SUBDIVIS
 subdiviserai SUBDIVISERAI
 subdivision SUBDIVISION
-subdivisionnaire SUBDIVISIONER
+subdivisionnaire SUBDIVISIONAIR
 subduction SUBDUKSION
 subequatoriale SUBEKATORIAL
 suber SUB
@@ -68102,11 +68102,11 @@ sublimation SUBLIMASION
 sublimement SUBLIMEMAN
 sublimer SUBLIM
 sublimerai SUBLIMERAI
-subliminaire SUBLIMINER
+subliminaire SUBLIMINAIR
 subliminale SUBLIMINAL
 sublimite SUBLIMIT
 sublinguale SUBLINGAL
-sublunaire SUBLUNER
+sublunaire SUBLUNAIR
 submerge SUBMERJ
 submergeai SUBMERJAI
 submergeais SUBMERJAI
@@ -68188,7 +68188,7 @@ subtilite SUBTILIT
 subtropicale SUBTROPIKAL
 subulee SUBUL
 suburbaine SUBURBAIN
-suburbicaire SUBURBIKER
+suburbicaire SUBURBIKAIR
 subventionnai SUBVANSIONAI
 subventionnais SUBVANSIONAI
 subventionne SUBVANSION
@@ -68301,7 +68301,7 @@ suggestionner SUJESTION
 suggestionnerai SUJESTIONERAI
 suggestive SUJESTIV
 suicidai SUISIDAI
-suicidaire SUISIDER
+suicidaire SUISIDAIR
 suicidais SUISIDAI
 suicider SUISID
 suiciderai SUISIDERAI
@@ -68466,7 +68466,7 @@ supplee SUPL
 suppleerai SUPLERAI
 supplement SUPLEMAN
 supplementai SUPLEMANTAI
-supplementaire SUPLEMANTER
+supplementaire SUPLEMANTAIR
 supplementairement SUPLEMANTAIREMAN
 supplementais SUPLEMANTAI
 supplemente SUPLEMANT
@@ -68522,7 +68522,7 @@ supputerai SUPUTERAI
 supraconduction SUPRAKONDUKSION
 supraconductivite SUPRAKONDUKTIVIT
 supraconductrice SUPRAKONDUKTRIS
-supraliminaire SUPRALIMINER
+supraliminaire SUPRALIMINAIR
 supranationale SUPRANASIONAL
 suprasegmentale SUPRASEGMANTAL
 suprasensible SUPRASANSIBL
@@ -68644,7 +68644,7 @@ surfacer SURFAS
 surfacerai SURFASERAI
 surfacique SURFASIK
 surfai SURFAI
-surfaire SURFER
+surfaire SURFAIR
 surfais SURFAI
 surfaisais SURFAISAI
 surfait SURFAI
@@ -68723,7 +68723,7 @@ surrection SUREKSION
 surregenerateur SUREJENERATER
 surrenale SURENAL
 surseoirai SURSOIRAI
-sursitaire SURSITER
+sursitaire SURSITAIR
 sursois SURSOI
 sursoyais SURSOIAI
 surtondre SURTONDR
@@ -68928,7 +68928,7 @@ syndicaliserai SINDIKALISERAI
 syndicalisme SINDIKALISM
 syndicaliste SINDIKALIST
 syndicat SINDIKA
-syndicataire SINDIKATER
+syndicataire SINDIKATAIR
 syndiquai SINDIKAI
 syndiquais SINDIKAI
 syndique SINDIK
@@ -69011,7 +69011,7 @@ tabassais TABASAI
 tabasse TABAS
 tabasserai TABASERAI
 tabatiere TABATIER
-tabellaire TABELER
+tabellaire TABELAIR
 tabellion TABELION
 tabes TAB
 tabetique TABETIK
@@ -69034,7 +69034,7 @@ taboue TABOU
 tabouer TABOU
 tabouiser TABOUIS
 tabulai TABULAI
-tabulaire TABULER
+tabulaire TABULAIR
 tabulais TABULAI
 tabulation TABULASION
 tabulatrice TABULATRIS
@@ -69160,7 +69160,7 @@ tambouille TANBOUIL
 tambourin TANBOURIN
 tambourinage TANBOURINAJ
 tambourinai TANBOURINAI
-tambourinaire TANBOURINER
+tambourinaire TANBOURINAIR
 tambourinais TANBOURINAI
 tambourine TANBOURIN
 tambourinement TANBOURINEMAN
@@ -69356,7 +69356,7 @@ targuie TARGI
 taricheute TARICHET
 tariere TARIER
 tarifai TARIFAI
-tarifaire TARIFER
+tarifaire TARIFAIR
 tarifais TARIFAI
 tarife TARIF
 tarifer TARIF
@@ -69531,10 +69531,10 @@ tectonique TEKTONIK
 tectrice TEKTRIS
 teen TAN
 Teflon TEFLON
-tegenaire TEJENER
+tegenaire TEJENAIR
 Tegucigalpa TEGUSIGALPA
 tegument TEGUMAN
-tegumentaire TEGUMANTER
+tegumentaire TEGUMANTAIR
 Teheran TERAN
 teignais TAINIAI
 teigneuse TAINES
@@ -69705,7 +69705,7 @@ tellurure TELURUR
 telolecithe TELOLESIT
 telophase TELOFAS
 telson TELSON
-temeraire TEMERER
+temeraire TEMERAIR
 temerairement TEMERAIREMAN
 temerite TEMERIT
 temoignage TEMOINIAJ
@@ -69729,7 +69729,7 @@ tempeterai TANPETERAI
 tempetueuse TANPETUES
 templier TANPLI
 tempo TANPO
-temporaire TANPORER
+temporaire TANPORAIR
 temporairement TANPORAIREMAN
 temporale TANPORAL
 temporalite TANPORALIT
@@ -69803,7 +69803,7 @@ tenrec TANREK
 tensioactive TANSIOAKTIV
 tensiometre TANSIOMETR
 tenson TANSON
-tentaculaire TANTAKULER
+tentaculaire TANTAKULAIR
 tentacule TANTAKUL
 tentai TANTAI
 tentais TANTAI
@@ -69862,7 +69862,7 @@ terminologue TERMINOLOG
 terminus TERMINU
 termite TERMIT
 termitiere TERMITIER
-ternaire TERNER
+ternaire TERNAIR
 terne TERN
 ternir TERNIR
 ternirai TERNIRAI
@@ -69933,7 +69933,7 @@ tersais TERSAI
 terse TERS
 terser TERS
 terserai TERSERAI
-tertiaire TERTIER
+tertiaire TERTIAIR
 tertiairisation TERTIAIRISASION
 tertiarisation TERTIARISASION
 tertio TERTIO
@@ -69949,12 +69949,12 @@ testage TESTAJ
 testai TESTAI
 testais TESTAI
 testament TESTAMAN
-testamentaire TESTAMANTER
+testamentaire TESTAMANTAIR
 testatrice TESTATRIS
 teste TEST
 testerai TESTERAI
 testeur TESTER
-testiculaire TESTIKULER
+testiculaire TESTIKULAIR
 testicule TESTIKUL
 testimoniale TESTIMONIAL
 testologie TESTOLOJI
@@ -70133,7 +70133,7 @@ thermomagnetique TERMOMANIETIK
 thermometre TERMOMETR
 thermometrie TERMOMETRI
 thermometrique TERMOMETRIK
-thermonucleaire TERMONUKLER
+thermonucleaire TERMONUKLEAIR
 thermoplastique TERMOPLASTIK
 thermopompe TERMOPONP
 thermopropulsee TERMOPROPULS
@@ -70177,7 +70177,7 @@ Thomas TOMA
 thomisme TOMISM
 thomiste TOMIST
 Thompson TONPSON
-thonaire TONER
+thonaire TONAIR
 thonier TONI
 thoracentese TORASANTES
 thoracique TORASIK
@@ -70202,7 +70202,7 @@ thulium TULIUM
 Thunderbird TINDERBIR
 thune TIN
 Thurgovie TURGOVI
-thuriferaire TURIFERER
+thuriferaire TURIFERAIR
 thylacine TILASIN
 thymie TIMI
 thymine TIMIN
@@ -70352,7 +70352,7 @@ tisserande TISERAND
 tisserin TISERIN
 tisseuse TISES
 tissu TISU
-tissulaire TISULER
+tissulaire TISULAIR
 tissure TISUR
 titanesque TITANESK
 titanique TITANIK
@@ -70375,7 +70375,7 @@ titubation TITUBASION
 titube TITUB
 tituber TITUB
 tituberai TITUBERAI
-titulaire TITULER
+titulaire TITULAIR
 titularisai TITULARISAI
 titularisais TITULARISAI
 titularisation TITULARISASION
@@ -70610,7 +70610,7 @@ tortille TORTIL
 tortillement TORTILEMAN
 tortillerai TORTILERAI
 tortillon TORTILON
-tortionnaire TORSIONER
+tortionnaire TORSIONAIR
 tortis TORTI
 tortorai TORTORAI
 tortorais TORTORAI
@@ -70638,7 +70638,7 @@ totalise TOTALIS
 totaliser TOTALIS
 totaliserai TOTALISERAI
 totaliseur TOTALISER
-totalitaire TOTALITER
+totalitaire TOTALITAIR
 totalitarisme TOTALITARISM
 totalite TOTALIT
 totemique TOTEMIK
@@ -70696,7 +70696,7 @@ tourberai TOURBERAI
 tourbeuse TOURBES
 tourbiere TOURBIER
 tourbillonnai TOURBILONAI
-tourbillonnaire TOURBILONER
+tourbillonnaire TOURBILONAIR
 tourbillonnais TOURBILONAI
 tourbillonne TOURBILON
 tourbillonnement TOURBILONEMAN
@@ -70867,7 +70867,7 @@ tractation TRAKTASION
 tracte TRAKT
 tracter TRAKT
 tracterai TRAKTERAI
-tractionnaire TRAKSIONER
+tractionnaire TRAKSIONAIR
 tractive TRAKTIV
 tractoriste TRAKTORIST
 tractrice TRAKTRIS
@@ -70878,7 +70878,7 @@ traditeur TRADITER
 tradition TRADISION
 traditionalisme TRADISIONALISM
 traditionaliste TRADISIONALIST
-traditionnaire TRADISIONER
+traditionnaire TRADISIONAIR
 traditionnelle TRADISIONEL
 traditionnellement TRADISIONELEMAN
 traduction TRADUKSION
@@ -71086,7 +71086,7 @@ transistorise TRANSISTORIS
 transistoriser TRANSISTORIS
 transistoriserai TRANSISTORISERAI
 transitai TRANSITAI
-transitaire TRANSITER
+transitaire TRANSITAIR
 transitais TRANSITAI
 transite TRANSIT
 transiter TRANSIT
@@ -71173,7 +71173,7 @@ transplante TRANSPLANT
 transplanter TRANSPLANT
 transplanterai TRANSPLANTERAI
 transplantoir TRANSPLANTOIR
-transpolaire TRANSPOLER
+transpolaire TRANSPOLAIR
 transport TRANSPOR
 transportable TRANSPORTABL
 transportai TRANSPORTAI
@@ -71368,7 +71368,7 @@ tremulerai TREMULERAI
 trench TRANCH
 trentain TRANTIN
 trentaine TRANTAIN
-trentenaire TRANTENER
+trentenaire TRANTENAIR
 trentieme TRANTIEM
 trepanai TREPANAI
 trepanais TREPANAI
@@ -71436,13 +71436,13 @@ triacide TRIASID
 triade TRIAD
 triage TRIAJ
 triai TRIAI
-triaire TRIER
+triaire TRIAIR
 triais TRIAI
 trial TRIAL
 trialcool TRIALKOL
 triandrie TRIANDRI
 triangulai TRIANGULAI
-triangulaire TRIANGULER
+triangulaire TRIANGULAIR
 triangulais TRIANGULAI
 triangulation TRIANGULASION
 triangule TRIANGUL
@@ -71474,7 +71474,7 @@ tribunat TRIBUNA
 tribune TRIBUN
 tribunitienne TRIBUNISIN
 tribut TRIBU
-tributaire TRIBUTER
+tributaire TRIBUTAIR
 tric TRIK
 tricennale TRISENAL
 tricephale TRISEFAL
@@ -71530,7 +71530,7 @@ trifouillais TRIFOUIAI
 trifouille TRIFOUIL
 trifouiller TRIFOUIL
 trifouillerai TRIFOUIERAI
-trigemellaire TRIJEMELER
+trigemellaire TRIJEMELAIR
 trigeminee TRIJEMIN
 trigle TRIGL
 triglyphe TRIGLIF
@@ -71549,7 +71549,7 @@ trille TRIL
 triller TRIL
 trillerai TRILERAI
 trilobee TRILOB
-triloculaire TRILOKULER
+triloculaire TRILOKULAIR
 trimai TRIMAI
 trimais TRIMAI
 trimaran TRIMARAN
@@ -71589,7 +71589,7 @@ tringlais TRINGLAI
 tringler TRINGL
 tringlerai TRINGLERAI
 tringlot TRINGLO
-trinitaire TRINITER
+trinitaire TRINITAIR
 trinitrobenzene TRINITROBANZAN
 trinitrotoluene TRINITROTOLUAN
 trinome TRINOM
@@ -71766,7 +71766,7 @@ tronçonnement TRONSONEMAN
 tronçonner TRONSON
 tronçonnerai TRONSONERAI
 tronçonneuse TRONSONES
-tronculaire TRONKULER
+tronculaire TRONKULAIR
 troner TRON
 tronerai TRONERAI
 tronquai TRONKAI
@@ -71928,7 +71928,7 @@ tuais TUAI
 tub TUB
 tubage TUBAJ
 tubai TUBAI
-tubaire TUBER
+tubaire TUBAIR
 tubais TUBAI
 tubarde TUBARD
 tuber TUB
@@ -71965,7 +71965,7 @@ tubicole TUBIKOL
 tubifex TUBIF
 tubipore TUBIPOR
 tubiste TUBIST
-tubulaire TUBULER
+tubulaire TUBULAIR
 tubulee TUBUL
 tubuleuse TUBULES
 tubuliflore TUBULIFLOR
@@ -72002,7 +72002,7 @@ tumescence TUMESANS
 tumescente TUMESANT
 tumeur TUMER
 tumorale TUMORAL
-tumulaire TUMULER
+tumulaire TUMULAIR
 tumultueuse TUMULTUES
 tumultueusement TUMULTUESEMAN
 tune TIN
@@ -72086,7 +72086,7 @@ tussah TUSA
 tussilage TUSIAJ
 tussor TUSOR
 tussore TUSOR
-tutelaire TUTELER
+tutelaire TUTELAIR
 tuteurage TUTERAJ
 tuteurai TUTERAI
 tuteurais TUTERAI
@@ -72189,10 +72189,10 @@ ulcererai ULSERERAI
 ulcereuse ULSERES
 ulceroide ULSEROID
 ulema ULEMA
-uliginaire ULIJINER
+uliginaire ULIJINAIR
 Ulm ULM
-ulmaire ULMER
-ulnaire ULNER
+ulmaire ULMAIR
+ulnaire ULNAIR
 Ulrich ULRICH
 ulterieure ULTERIER
 ulterieurement ULTERIEREMAN
@@ -72240,7 +72240,7 @@ uniate UNIAT
 uniaxe UNIAX
 unicaule UNIKOL
 UNICEF UNIS
-unicellulaire UNISELULER
+unicellulaire UNISELULAIR
 Unicode UNIKOD
 unicolore UNIKOLOR
 unicorne UNIKORN
@@ -72256,7 +72256,7 @@ unificatrice UNIFIKATRIS
 unifie UNIFI
 unifiee UNIFI
 unifierai UNIFIERAI
-unifilaire UNIFILER
+unifilaire UNIFILAIR
 uniflore UNIFLOR
 unifoliee UNIFOLI
 uniformement UNIFORMEMAN
@@ -72271,10 +72271,10 @@ uniformite UNIFORMIT
 unijambiste UNIJANBIST
 unilaterale UNILATERAL
 unilateralement UNILATERALEMAN
-unilineaire UNILINER
+unilineaire UNILINEAIR
 unilingue UNILING
 unilobee UNILOB
-uniloculaire UNILOKULER
+uniloculaire UNILOKULAIR
 uniment UNIMAN
 uninominale UNINOMINAL
 unipare UNIPAR
@@ -72286,7 +72286,7 @@ unisexe UNISEX
 unisexualite UNISEXUALIT
 unisexuee UNISEXU
 unissais UNISAI
-unitaire UNITER
+unitaire UNITAIR
 unitairement UNITAIREMAN
 unitarienne UNITARIN
 unitarisme UNITARISM
@@ -72306,7 +72306,7 @@ universalite UNIVERSALIT
 universaux UNIVERSO
 universelle UNIVERSEL
 universellement UNIVERSELEMAN
-universitaire UNIVERSITER
+universitaire UNIVERSITAIR
 universite UNIVERSIT
 univitelline UNIVITELIN
 univocite UNIVOSIT
@@ -72373,7 +72373,7 @@ urgeront URJERON
 Uri URI
 uricemie URISEMI
 urinai URINAI
-urinaire URINER
+urinaire URINAIR
 urinais URINAI
 urinal URINAL
 urine URIN
@@ -72401,7 +72401,7 @@ ursi URSI
 URSS UR
 Ursule URSUL
 ursuline URSULIN
-urticaire URTIKER
+urticaire URTIKAIR
 urticante URTIKANT
 urtication URTIKASION
 urubu URUBU
@@ -72435,9 +72435,9 @@ ustensile USTANSIL
 usucapion USUKAPION
 usuelle USUEL
 usuellement USUELEMAN
-usufructuaire USUFRUKTUER
+usufructuaire USUFRUKTUAIR
 usufruitiere USUFRUITIER
-usuraire USURER
+usuraire USURAIR
 usurairement USURAIREMAN
 usure USUR
 usuriere USURIER
@@ -72468,7 +72468,7 @@ utilitariste UTILITARIST
 utilite UTILIT
 UTM UTM
 utopique UTOPIK
-utriculaire UTRIKULER
+utriculaire UTRIKULAIR
 utricule UTRIKUL
 utriculeuse UTRIKULES
 uva UVA
@@ -72476,11 +72476,11 @@ uvale UVAL
 uvee UV
 uveite UVEIT
 uvula UVULA
-uvulaire UVULER
+uvulaire UVULAIR
 uvule UVUL
 uxorilocale UXORILOKAL
 va VA
-vaccaire VAKER
+vaccaire VAKAIR
 vaccinable VAKSINABL
 vaccinai VAKSINAI
 vaccinais VAKSINAI
@@ -72505,7 +72505,7 @@ vacille VASIL
 vacillement VASILEMAN
 vacillerai VASILERAI
 vacive VASIV
-vacuolaire VAKUOLER
+vacuolaire VAKUOLAIR
 vacuole VAKUOL
 vacuolisai VAKUOLISAI
 vacuolisais VAKUOLISAI
@@ -72538,8 +72538,8 @@ vaguemestre VAGEMESTR
 vaguerai VAGERAI
 vaigrage VAIGRAJ
 vaigre VAIGR
-vair VER
-vairee VER
+vair VAIR
+vairee VAIR
 vairon VAIRON
 vaironnai VAIRONAI
 vaironnais VAIRONAI
@@ -72568,7 +72568,7 @@ valete VALET
 valeter VALET
 valeterai VALETERAI
 valette VALET
-valetudinaire VALETUDINER
+valetudinaire VALETUDINAIR
 valgus VALGU
 validai VALIDAI
 validais VALIDAI
@@ -72602,7 +72602,7 @@ valsais VALSAI
 valse VALS
 valserai VALSERAI
 valus VALU
-valvaire VALVER
+valvaire VALVAIR
 valvee VALV
 vamp VANP
 vampai VANPAI
@@ -72773,7 +72773,7 @@ vegetai VEJETAI
 vegetais VEJETAI
 vegete VEJET
 vehiculai VEIKULAI
-vehiculaire VEIKULER
+vehiculaire VEIKULAIR
 vehiculais VEIKULAI
 vehiculerai VEIKULERAI
 veillai VAIAI
@@ -72786,7 +72786,7 @@ veinerai VAINERAI
 veinette VAINET
 velage VELAJ
 velai VELAI
-velaire VELER
+velaire VELAIR
 velais VELAI
 velar VELAR
 velarisai VELARISAI
@@ -72830,7 +72830,7 @@ vendangeais VANDANJAI
 vendangeoir VANDANJOIR
 vendangerai VANDANJERAI
 vendangerot VANDANJERO
-vendemiaire VANDEMIER
+vendemiaire VANDEMIAIR
 vendis VANDI
 vendrai VANDRAI
 vends VAN
@@ -72879,7 +72879,7 @@ ventousais VANTOUSAI
 ventouser VANTOUS
 ventouserai VANTOUSERAI
 ventree VANTR
-ventriculaire VANTRIKULER
+ventriculaire VANTRIKULAIR
 ventriere VANTRIER
 ventrue VANTRU
 venturi VANTURI
@@ -72972,7 +72972,7 @@ vermet VERM
 vermicelle VERMISEL
 vermicide VERMISID
 vermiculai VERMIKULAI
-vermiculaire VERMIKULER
+vermiculaire VERMIKULAIR
 vermiculais VERMIKULAI
 vermicule VERMIKUL
 vermiculer VERMIKUL
@@ -73005,7 +73005,7 @@ vermoulue VERMOULU
 vermoulure VERMOULUR
 vermout VERMOU
 vermouth VERMOU
-vernaculaire VERNAKULER
+vernaculaire VERNAKULAIR
 vernale VERNAL
 vernalisation VERNALISASION
 vernation VERNASION
@@ -73061,7 +73061,7 @@ vesicale VESIKAL
 vesicante VESIKANT
 vesication VESIKASION
 vesicatoire VESIKATOIR
-vesiculaire VESIKULER
+vesiculaire VESIKULAIR
 vesiculeuse VESIKULES
 vespertilion VESPERTILION
 vessai VESAI
@@ -73071,7 +73071,7 @@ vesser VES
 vesserai VESERAI
 vessigon VESIGON
 vestale VESTAL
-vestibulaire VESTIBULER
+vestibulaire VESTIBULAIR
 vestigiale VESTIJIAL
 vetais VETAI
 veteran VETERAN
@@ -73087,7 +73087,7 @@ vetis VETI
 vetiver VETIV
 veto VETO
 veture VETUR
-veuglaire VEGLER
+veuglaire VEGLAIR
 veuillez VEI
 veuillons VEILON
 veule VEL
@@ -73098,7 +73098,7 @@ vexais VEXAI
 vexation VEXASION
 vexatrice VEXATRIS
 vexerai VEXERAI
-vexillaire VEXILER
+vexillaire VEXILAIR
 vexille VEXIL
 Vexin VEXIN
 Vey VAI
@@ -73147,7 +73147,7 @@ vicierai VISIERAI
 vicinalite VISINALIT
 vicomtale VIKONTAL
 vicomtesse VIKONTES
-victimaire VIKTIMER
+victimaire VIKTIMAIR
 Victoria VIKTORIA
 Victorien VIKTORIN
 Victorine VIKTORIN
@@ -73220,7 +73220,7 @@ vinaigrais VINAIGRAI
 vinaigrer VINAIGR
 vinaigrerai VINAIGRERAI
 vinaigrerie VINAIGRERI
-vinaire VINER
+vinaire VINAIR
 vinais VINAI
 vindicative VINDIKATIV
 vine VIN
@@ -73309,7 +73309,7 @@ Vise VIS
 viser VIS
 viserai VISERAI
 visionnai VISIONAI
-visionnaire VISIONER
+visionnaire VISIONAIR
 visionnais VISIONAI
 visionne VISION
 visionnement VISIONEMAN
@@ -73364,7 +73364,7 @@ vitrioler VITRIOL
 vitriolerai VITRIOLERAI
 vitrioleuse VITRIOLES
 vitro VITRO
-vitulaire VITULER
+vitulaire VITULAIR
 vituperai VITUPERAI
 vituperais VITUPERAI
 vituperation VITUPERASION
@@ -73475,9 +73475,9 @@ volubilement VOLUBILEMAN
 volubilis VOLUBILI
 volucelle VOLUSEL
 Volucompteur VOLUKONTER
-voluptuaire VOLUPTUER
+voluptuaire VOLUPTUAIR
 volute VOLUT
-volvaire VOLVER
+volvaire VOLVAIR
 volve VOLV
 volvox VOLVO
 volvulus VOLVULU
@@ -73561,7 +73561,7 @@ vulgariserai VULGARISERAI
 vulgarisme VULGARISM
 vulgate VULGAT
 vulgo VULGO
-vulneraire VULNERER
+vulneraire VULNERAIR
 vulnerante VULNERANT
 vulpin VULPIN
 wading OIDING
@@ -73696,7 +73696,7 @@ Yves IV
 zabre ZABR
 Zagreb ZAGREB
 zain ZIN
-Zaire ZER
+Zaire ZAIR
 zairoise ZAIROIS
 zakouski ZAKOUSKI
 Zambie ZANBI
