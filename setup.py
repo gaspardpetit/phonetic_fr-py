@@ -7,7 +7,7 @@ setup(
     packages=find_packages(),
     entry_points={
         'console_scripts': [
-            'phonetic_fr = src.__main__:main',
+            'phonetic_fr = phonetic_distance.__main__:main',
         ],
     },
 )
