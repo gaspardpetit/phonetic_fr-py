@@ -5,7 +5,7 @@ sys.path.append(os.path.join(os.path.dirname(__file__), '../src'))
 
 import unittest
 from unittest import TestCase
-from phonetic import phonetic
+from phonetic_fr import phonetic
 
 class TestPhonetique(unittest.TestCase):
     @staticmethod
@@ -34,8 +34,3 @@ class TestPhonetique(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-
-
-class Test(TestCase):
-    def test_phonetique(self):
-        self.fail()
