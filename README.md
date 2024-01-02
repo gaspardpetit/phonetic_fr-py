@@ -99,3 +99,7 @@ Phonetic-FR is released under the MIT license. Feel free to use, modify, and dis
 
 - [Original PHP implementation](https://github.com/EdouardBERGE/phonetic) by Édouard BERGÉ (December 2007, v1.2).
 - Ported to Python by Gaspard Petit.
+
+## Changelog
+
+Changes over the original port are being tracked in the [Changelog](CHANGELOG.md)
