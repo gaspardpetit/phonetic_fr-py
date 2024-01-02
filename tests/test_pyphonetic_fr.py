@@ -1,17 +1,18 @@
+"""Unit tests for phonetic_fr"""
+import unittest
 import os
 import sys
 
 sys.path.append(os.path.join(os.path.dirname(__file__), '../src'))
-
-import unittest
-from unittest import TestCase
-from phonetic_fr import phonetic
+from phonetic_fr import phonetic # pylint: disable=import-error,wrong-import-position
 
 class TestPhonetique(unittest.TestCase):
+    """Unit tests for phonetic_fr"""
     @staticmethod
     def read_test_cases(filename):
+        """Extract test cases from a file"""
         test_cases = []
-        with open(filename, 'r') as file:
+        with open(filename, 'r', encoding="utf-8") as file:
             for line in file:
                 if line.strip():  # Skip blank lines
                     words = line.strip().split()
@@ -21,7 +22,7 @@ class TestPhonetique(unittest.TestCase):
         return test_cases
 
     def test_phonetique_from_file(self):
-        print(os.getcwd())
+        """Unit tests for phonetic_fr"""
         test_cases = self.read_test_cases('tests/test_cases.txt')
 
         for input_string, expected_output in test_cases:

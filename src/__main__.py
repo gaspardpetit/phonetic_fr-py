@@ -1,8 +1,10 @@
+"""Command line tool to convert French words to a phonetic represnetation"""
 import sys
 import argparse
 from .phonetic_fr import phonetic, __version__
 
 def phonetic_with_whitespace(input_str):
+    """replaces each words from a string by its equivalent phonetic representation"""
     current_word = ""
     result = ""
     for char in input_str:
@@ -19,10 +21,15 @@ def phonetic_with_whitespace(input_str):
     return result
 
 def main():
-    parser = argparse.ArgumentParser(description='French Soundex Phonetics Tool - Convert French words to phonetic representation while preserving whitespace.',
-                                     epilog='Input words can be provided through stdin. Example: echo "word1  word2" | python -m phonetic_fr.phonetic_fr')
-    parser.add_argument('-v', '--version', action='version', version=f'%(prog)s {__version__}', help='Show the version number')
-    args = parser.parse_args()
+    """Entrypoint"""
+    parser = argparse.ArgumentParser(
+        description='French Soundex Phonetics Tool - Convert French words ' +
+        'to phonetic representation while preserving whitespace.',
+        epilog='Input words can be provided through stdin. '+
+        'Example: echo "word1  word2" | python -m phonetic_fr.phonetic_fr')
+    parser.add_argument(
+        '-v', '--version', action='version', version=f'%(prog)s {__version__}', 
+        help='Show the version number')
 
     lines = sys.stdin.readlines()
 
