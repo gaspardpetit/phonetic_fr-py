@@ -4,7 +4,7 @@ import os
 import sys
 from collections import OrderedDict
 
-sys.path.append(os.path.join(os.path.dirname(__file__), '../src'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '../'))
 # pylint: disable=import-error,wrong-import-position
 from phonetic_fr import phonetic
 
