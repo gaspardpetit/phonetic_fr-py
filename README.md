@@ -1,4 +1,6 @@
 [![Pylint](https://github.com/gaspardpetit/phonetic_fr-py/actions/workflows/pylint.yml/badge.svg)](https://github.com/gaspardpetit/phonetic_fr-py/actions/workflows/pylint.yml)[![Python package](https://github.com/gaspardpetit/phonetic_fr-py/actions/workflows/python-package.yml/badge.svg)](https://github.com/gaspardpetit/phonetic_fr-py/actions/workflows/python-package.yml)
+[![Python versions](https://img.shields.io/pypi/pyversions/phonetic_fr.svg)](https://pypi.org/project/phonetic_fr/)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 # Phonetic-FR
 A Soundex-Like Phonetic Algorithm in Python for the French Language
