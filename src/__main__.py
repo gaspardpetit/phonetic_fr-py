@@ -1,24 +1,7 @@
 """Command line tool to convert French words to a phonetic represnetation"""
 import sys
 import argparse
-from .phonetic_fr import phonetic, __version__
-
-def phonetic_with_whitespace(input_str):
-    """replaces each words from a string by its equivalent phonetic representation"""
-    current_word = ""
-    result = ""
-    for char in input_str:
-        if char.isspace():
-            if current_word:
-                result += phonetic(current_word) + char
-                current_word = ""
-            else:
-                result += char
-        else:
-            current_word += char
-    if current_word:
-        result += phonetic(current_word)
-    return result
+from .phonetic_fr import phonetic_text, __version__
 
 def main():
     """Entrypoint"""
@@ -39,7 +22,7 @@ def main():
         sys.exit(1)
 
     for line in lines:
-        result_line = phonetic_with_whitespace(line)
+        result_line = phonetic_text(line)
         print(result_line.strip())
 
 

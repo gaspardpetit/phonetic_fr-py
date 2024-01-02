@@ -17,33 +17,57 @@ echo "Le ver vert glisse vers le verre" | phonetic-fr
 ```
 Prints:
 ```{bash}
-LE VER VER GLIS VER LE VER
+L VER VER GLIS VER L VER
 ```
 
 ## Usage in Python
 ```{py}
 from phonetic_fr import phonetic
 
-french_word = "Python"
-soundex_code = phonetic(french_word)
-print(f"The Phonetic code for '{input_word}' is: {soundex_code}")
+# Obtain phonetic representation of a word
+example = "python"
+result = phonetic(example)
+print(f"{example} -> {result}")
 ```
 
 Prints
 ```
-The Phonetic code for 'Python' is: PITON
+python -> PITON
 ```
 
 Phonetic results can be used to compare similar sounding words:
 
 ```{py}
 from phonetic_fr import phonetic
-print(phonetic("Gilles") == phonetic("Jill"))
+
+# Compare two names with sounding alike
+are_alike = phonetic("Gilles") == phonetic("Jill")
+print(f"Gilles sounds like Jill: {are_alike}")
 ```
 
 Prints
 ```
-True
+Gilles sounds like Jill: True
+```
+
+```{py}
+from Levenshtein import distance
+from phonetic_fr import phonetic
+
+# Improve Levenshtein's distance
+word_a = "drapeau"
+word_b = "crapaud"
+raw_distance = distance(word_a, word_b)
+print(f"Levenshtein distance of '{word_a}' and '{word_b}': {raw_distance}")
+phonetic_distance = distance(phonetic(word_a), phonetic(word_b))
+print(f"Phonetic Levenshtein distance of '{word_a}' and '{word_b}': {phonetic_distance}")
+```
+
+Prints
+```
+original = "Le ver vert glisse vers le verre"
+transformed = phonetic_text("Le ver vert glisse vers le verre")
+print(f"{original}\n{transformed}")
 ```
 
 ## Description
