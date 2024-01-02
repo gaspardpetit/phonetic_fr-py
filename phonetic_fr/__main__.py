@@ -1,7 +1,7 @@
 """Command line tool to convert French words to a phonetic represnetation"""
 import sys
 import argparse
-from .phonetic_fr import phonetic_text, __version__
+from .__init__ import phonetic_text, __version__
 
 def main():
     """Entrypoint"""
