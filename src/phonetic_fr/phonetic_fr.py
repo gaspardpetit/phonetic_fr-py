@@ -80,6 +80,7 @@ def phonetic(french_word):
         "FEU": "FE",
         "FE": "FE",
         "FER": "FER",
+        "VER": "VER",
         "FIEF": "FIEF",
         "FJORD": "FJORD",
         "GOAL": "GOL",

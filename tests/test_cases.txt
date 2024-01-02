@@ -72885,6 +72885,7 @@ ventrue VANTRU
 venturi VANTURI
 venusienne VENUSIN
 venuste VENUST
+ver VER
 veracite VERASIT
 veraison VERAISON
 veranda VERANDA

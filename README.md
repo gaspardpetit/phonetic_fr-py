@@ -17,7 +17,7 @@ echo "Le ver vert glisse vers le verre" | phonetic-fr
 ```
 Prints:
 ```{bash}
-LE VE VER GLIS VER LE VER
+LE VER VER GLIS VER LE VER
 ```
 
 ## Usage in Python
