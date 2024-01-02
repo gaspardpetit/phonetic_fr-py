@@ -1,0 +1,2 @@
+# These requirements are only necessary to run samples
+Levenshtein

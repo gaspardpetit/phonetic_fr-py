@@ -19,7 +19,7 @@ MIN_TO_MAJ = {'é': 'É', 'è': 'È', 'ë': 'Ë', 'ê': 'Ê', 'á': 'Á', 'â': 
             'ú': 'Ú', 'ù': 'Ù', 'û': 'Û', 'ü': 'Ü', 'ç': 'Ç', 'ñ': 'Ñ', 'ß': 'S'}
 
 # pylint: disable=too-many-return-statements,too-many-branches,too-many-statements
-def phonetic(word):
+def phonetic(french_word):
     """
     Converts a French word into its phonetic representation.
 
@@ -35,41 +35,41 @@ def phonetic(word):
     """
 
     # on garde uniquement les lettres de A à Z
-    word = ''.join(char for char in word if char.isalpha())
+    french_word = ''.join(char for char in french_word if char.isalpha())
 
     # on passe tout le reste en majuscules
-    word = word.upper()
+    french_word = french_word.upper()
 
     # on sauve le code (utilisé pour les mots très courts)
-    saved_word = word
+    saved_word = french_word
     # minuscules accentuées ou composées en majuscules simples
     saved_word = saved_word.translate(str.maketrans(MIN_TO_MAJ))
     # majuscules accentuées ou composées en majuscules simples
     saved_word = saved_word.translate(str.maketrans(ACCENTS))
 
     # pré traitement: OO... -> OU
-    word, _ = re.subn(r'O[O]+', 'OU', word)
+    french_word = re.sub(r'O[O]+', 'OU', french_word)
     # pré traitement: SAOU -> SOU
-    word, _ = re.subn(r'SAOU', 'SOU', word)
+    french_word = re.sub(r'SAOU', 'SOU', french_word)
     # pré traitement: OES -> OS
-    word, _ = re.subn(r'OES', 'OS', word)
+    french_word = re.sub(r'OES', 'OS', french_word)
     # pré traitement: CCH -> K
-    word, _ = re.subn(r'CCH', 'K', word)
+    french_word = re.sub(r'CCH', 'K', french_word)
     # pré traitement: CCI CCY CCE
-    word, _ = re.subn(r'CC([IYE])', r'KS\1', word)
+    french_word = re.sub(r'CC([IYE])', r'KS\1', french_word)
 
     # minuscules accentuées ou composées en majuscules simples
-    word = word.translate(str.maketrans(MIN_TO_MAJ))
+    french_word = french_word.translate(str.maketrans(MIN_TO_MAJ))
     # majuscules accentuées ou composées en majuscules simples
-    word = word.translate(str.maketrans(ACCENTS))
+    french_word = french_word.translate(str.maketrans(ACCENTS))
 
     # supression des répétitions
     conv_mapping = {
         "DILLEM": "DIEM"
     }
     for conv_in, conv_out in conv_mapping.items():
-        word = word.replace(conv_in, conv_out)
-    word, _ = re.subn(r'(.)\1', r'\1', word)
+        french_word = french_word.replace(conv_in, conv_out)
+    french_word = re.sub(r'(.)\1', r'\1', french_word)
 
     # quelques cas particuliers
     special_cases = {
@@ -93,52 +93,52 @@ def phonetic(word):
         "RAZ": "RA",
     }
 
-    if word in special_cases:
-        return special_cases[word]
+    if french_word in special_cases:
+        return special_cases[french_word]
 
     # pré-traitements
     # Terminations OING -> OIN
-    word, _ = re.subn(r'OIN[GT]$', 'OIN', word)
+    french_word = re.sub(r'OIN[GT]$', 'OIN', french_word)
     # Remove infinitive and plural participle endings
-    word, _ = re.subn(r'E[RS]$', 'E', word)
+    french_word = re.sub(r'E[RS]$', 'E', french_word)
     # pré traitement OEU -> EU
-    word, _ = re.subn(r'(C|CH)OEU', 'KE', word)
+    french_word = re.sub(r'(C|CH)OEU', 'KE', french_word)
     # pré traitement OEU -> EU
-    word, _ = re.subn(r'MOEU', 'ME', word)
+    french_word = re.sub(r'MOEU', 'ME', french_word)
     # pré traitement OEU OEI -> E
-    word, _ = re.subn(r'OE([UI]+)([BCDFGHJKLMNPQRSTVWXZ])', r'E\1\2', word)
+    french_word = re.sub(r'OE([UI]+)([BCDFGHJKLMNPQRSTVWXZ])', r'E\1\2', french_word)
     # pré traitement GEN -> JAN
-    word, _ = re.subn(r'^GEN[TS]$', 'JAN', word)
+    french_word = re.sub(r'^GEN[TS]$', 'JAN', french_word)
     # pré traitement accueil
-    word, _ = re.subn(r'CUEI', 'KEI', word)
+    french_word = re.sub(r'CUEI', 'KEI', french_word)
     # pré traitement AE -> E
-    word, _ = re.subn(r'([^AEIOUYC])AE([BCDFGHJKLMNPQRSTVWXZ])', r'\1E\2', word)
+    french_word = re.sub(r'([^AEIOUYC])AE([BCDFGHJKLMNPQRSTVWXZ])', r'\1E\2', french_word)
     # pré traitement AE -> E
-    word, _ = re.subn(r'AE([QS])', r'E\1', word)
+    french_word = re.sub(r'AE([QS])', r'E\1', french_word)
     # pré traitement AIE(consonne) -> AI
-    word, _ = re.subn(r'AIE([BCDFGJKLMNPQRSTVWXZ])', r'AI\1', word)
+    french_word = re.sub(r'AIE([BCDFGJKLMNPQRSTVWXZ])', r'AI\1', french_word)
     # pré traitement NIEM -> NIM
-    word, _ = re.subn(r'ANIEM', 'ANIM', word)
+    french_word = re.sub(r'ANIEM', 'ANIM', french_word)
     # P terminal muet
-    word, _ = re.subn(r'(DRA|TRO|IRO)P$', r'\1', word)
+    french_word = re.sub(r'(DRA|TRO|IRO)P$', r'\1', french_word)
     # B terminal muet
-    word, _ = re.subn(r'(LOM)B$', r'\1', word)
+    french_word = re.sub(r'(LOM)B$', r'\1', french_word)
     # C terminal muet
-    word, _ = re.subn(r'(RON|POR)C$', r'\1', word)
+    french_word = re.sub(r'(RON|POR)C$', r'\1', french_word)
     # C terminal muet
-    word, _ = re.subn(r'PECT$', 'PET', word)
+    french_word = re.sub(r'PECT$', 'PET', french_word)
     # L terminal muet
-    word, _ = re.subn(r'ECUL$', 'CU', word)
+    french_word = re.sub(r'ECUL$', 'CU', french_word)
     # P or PS terminal muet
-    word, _ = re.subn(r'(CHA|CA|E)M(P|PS)$', r'\1N', word)
+    french_word = re.sub(r'(CHA|CA|E)M(P|PS)$', r'\1N', french_word)
     # G terminal muet
-    word, _ = re.subn(r'(TAN|RAN)G$', r'\1', word)
+    french_word = re.sub(r'(TAN|RAN)G$', r'\1', french_word)
 
     # sons YEUX
-    word, _ = re.subn(r'([^VO])ILAG', r'\1IAJ', word)
-    word, _ = re.subn(r'([^TRH])UIL(AR|E)(.+)', r'\1UI\2\3', word)
-    word, _ = re.subn(r'([G])UIL([AEO])', r'\1UI\2', word)
-    word, _ = re.subn(r'([NSPM])AIL([AEO])', r'\1AI\2', word)
+    french_word = re.sub(r'([^VO])ILAG', r'\1IAJ', french_word)
+    french_word = re.sub(r'([^TRH])UIL(AR|E)(.+)', r'\1UI\2\3', french_word)
+    french_word = re.sub(r'([G])UIL([AEO])', r'\1UI\2', french_word)
+    french_word = re.sub(r'([NSPM])AIL([AEO])', r'\1AI\2', french_word)
 
     conv_mapping = {
         "DILAI": "DIAI",
@@ -160,47 +160,47 @@ def phonetic(word):
     }
 
     for conv_in, conv_out in conv_mapping.items():
-        word = word.replace(conv_in, conv_out)
+        french_word = french_word.replace(conv_in, conv_out)
 
     # IEM -> IAM
-    word, _ = re.subn(r'([^AEIOUY])(SC|S)IEM([EA])', r'\1\2IAM\3', word)
+    french_word = re.sub(r'([^AEIOUY])(SC|S)IEM([EA])', r'\1\2IAM\3', french_word)
     # IEM -> IAM
-    word, _ = re.subn(r'^(SC|S)IEM([EA])', r'\1IAM\2', word)
+    french_word = re.sub(r'^(SC|S)IEM([EA])', r'\1IAM\2', french_word)
 
     # MP MB -> NP NB
     conv_m_in = ['OMB', 'AMB', 'OMP', 'AMP', 'IMB', 'EMP', 'GEMB', 'EMB', 'UMBL', 'CIEN']
     conv_m_ou = ['ONB', 'ANB', 'ONP', 'ANP', 'INB', 'ANP', 'JANB', 'ANB', 'INBL', 'SIAN']
 
     for conv_in, conv_out in zip(conv_m_in, conv_m_ou):
-        word = word.replace(conv_in, conv_out)
+        french_word = french_word.replace(conv_in, conv_out)
 
     # Sons en K
     # cas particulier: écho
-    word, _ = re.subn(r'^ECHO$', 'EKO', word)
+    french_word = re.sub(r'^ECHO$', 'EKO', french_word)
     # cas particulier: écœuré
-    word, _ = re.subn(r'^ECEUR', 'EKEUR', word)
+    french_word = re.sub(r'^ECEUR', 'EKEUR', french_word)
 
     # Choléra Chœur mais pas chocolat!
     # En début de mot
-    word, _ = re.subn(r'^CH(OG+|OL+|OR+|EU+|ARIS|M+|IRO|ONDR)', r'K\1', word)
+    french_word = re.sub(r'^CH(OG+|OL+|OR+|EU+|ARIS|M+|IRO|ONDR)', r'K\1', french_word)
     # Ou devant une consonne
-    word, _ = re.subn(r'(YN|RI)CH(OG+|OL+|OC+|OP+|OM+|ARIS|M+|IRO|ONDR)', r'\1K\2', word)
-    word, _ = re.subn(r'CHS', 'CH', word)
-    word, _ = re.subn(r'CH(AIQ)', r'K\1', word)
-    word, _ = re.subn(r'^ECHO([^UIPY])', r'EKO\1', word)
-    word, _ = re.subn(r'ISCH(I|E)', r'ISK\1', word)
-    word, _ = re.subn(r'^ICHT', 'IKT', word)
-    word, _ = re.subn(r'ORCHID', 'ORKID', word)
-    word, _ = re.subn(r'ONCHIO', 'ONKIO', word)
+    french_word = re.sub(r'(YN|RI)CH(OG+|OL+|OC+|OP+|OM+|ARIS|M+|IRO|ONDR)', r'\1K\2', french_word)
+    french_word = re.sub(r'CHS', 'CH', french_word)
+    french_word = re.sub(r'CH(AIQ)', r'K\1', french_word)
+    french_word = re.sub(r'^ECHO([^UIPY])', r'EKO\1', french_word)
+    french_word = re.sub(r'ISCH(I|E)', r'ISK\1', french_word)
+    french_word = re.sub(r'^ICHT', 'IKT', french_word)
+    french_word = re.sub(r'ORCHID', 'ORKID', french_word)
+    french_word = re.sub(r'ONCHIO', 'ONKIO', french_word)
     # retouche ACHIA -> AKIA
-    word, _ = re.subn(r'ACHIA', 'AKIA', word)
+    french_word = re.sub(r'ACHIA', 'AKIA', french_word)
     # ANICH -> ANIK  1/2
-    word, _ = re.subn(r'([^C])ANICH', r'\1ANIK', word)
+    french_word = re.sub(r'([^C])ANICH', r'\1ANIK', french_word)
     # cas particulier  2/2
-    word, _ = re.subn(r'OMANIK', 'OMANICH', word)
-    word, _ = re.subn(r'ACHY([^D])', r'AKI\1', word)
+    french_word = re.sub(r'OMANIK', 'OMANICH', french_word)
+    french_word = re.sub(r'ACHY([^D])', r'AKI\1', french_word)
     # voyelle, C, consonne sauf H
-    word, _ = re.subn(r'([AEIOU])C([BDFGJKLMNPQRTVWXZ])', r'\1K\2', word)
+    french_word = re.sub(r'([AEIOU])C([BDFGJKLMNPQRTVWXZ])', r'\1K\2', french_word)
 
     conv_pr_in = ['EUCHA', 'YCHIA', 'YCHA', 'YCHO', 'YCHED', 'ACHEO', 'RCHEO', 'RCHES',
                 'ECHN', 'OCHTO', 'CHORA', 'CHONDR', 'CHORE', 'MACHM', 'BRONCHO', 'LICHOS', 'LICHOC']
@@ -208,14 +208,14 @@ def phonetic(word):
                  'EKN', 'OKTO', 'KORA', 'KONDR', 'KORE', 'MAKM', 'BRONKO', 'LIKOS', 'LIKOC']
 
     for conv_in, conv_out in zip(conv_pr_in, conv_pr_out):
-        word = word.replace(conv_in, conv_out)
+        french_word = french_word.replace(conv_in, conv_out)
 
     # Weuh (perfectible)
     conv_pr_in = ['WA', 'WO', 'WI', 'WHI', 'WHY', 'WHA', 'WHO']
     conv_pr_out = ['OI', 'O', 'OUI', 'OUI', 'OUI', 'OUA', 'OU']
 
     for conv_in, conv_out in zip(conv_pr_in, conv_pr_out):
-        word = word.replace(conv_in, conv_out)
+        french_word = french_word.replace(conv_in, conv_out)
 
     # Gueu, Gneu, Jeu et quelques autres
     conv_pr_in = ['GNES', 'GNET', 'GNER', 'GNE', 'GI', 'GNI', 'GNA', 'GNOU', 'GNUR', 'GY', 'OUGAIN',
@@ -233,12 +233,12 @@ def phonetic(word):
                  'KTR', 'KT', 'F', 'T', 'OU', 'L', 'RL', 'KLO', 'KR', 'PSIA']
 
     for conv_in, conv_out in zip(conv_pr_in, conv_pr_out):
-        word = word.replace(conv_in, conv_out)
+        french_word = french_word.replace(conv_in, conv_out)
 
-    word, _ = re.subn(r'GU([^RLMBSTPZN])', r'G\1', word)  # Gueu!
-    word, _ = re.subn(r'GNO([MLTNRKG])', r'NIO\1', word)  # GNO ! Tout sauf S pour gnos
-    word, _ = re.subn(r'GNO([MLTNRKG])', r'NIO\1',
-                 word)  # bis -> gnognotte! Si quelqu'un sait le faire en une seule regexp...
+    french_word = re.sub(r'GU([^RLMBSTPZN])', r'G\1', french_word)  # Gueu!
+    french_word = re.sub(r'GNO([MLTNRKG])', r'NIO\1', french_word)  # GNO ! Tout sauf S pour gnos
+    french_word = re.sub(r'GNO([MLTNRKG])', r'NIO\1',
+                 french_word)  # bis -> gnognotte! Si quelqu'un sait le faire en une seule regexp...
 
     # TI -> SI v2.0
     conv_pr_in = ['BUTIE', 'BUTIA', 'BATIA', 'ANTIEL', 'RETION', 'ENTIEL', 'ENTIAL', 'ENTIO',
@@ -249,27 +249,27 @@ def phonetic(word):
                    'BLUSION', 'LESION', 'LASION', 'SASIET']
 
     for conv_in, conv_out in zip(conv_pr_in, conv_pr_out):
-        word = word.replace(conv_in, conv_out)
+        french_word = french_word.replace(conv_in, conv_out)
 
     # sauf antialcoolique, antialbumine, antialarmer, ...
-    word, _ = re.subn(r'(.+)ANTI(AL|O)', r'\1ANSI\2', word)
+    french_word = re.sub(r'(.+)ANTI(AL|O)', r'\1ANSI\2', french_word)
     # sauf inutilité, inutilement, diminutive, ...
-    word, _ = re.subn(r'(.+)INUTI([^V])', r'\1INUSI\2', word)
+    french_word = re.sub(r'(.+)INUTI([^V])', r'\1INUSI\2', french_word)
     # sauf soutien, ...
-    word, _ = re.subn(r'([^O])UTIEN', r'\1USIEN', word)
+    french_word = re.sub(r'([^O])UTIEN', r'\1USIEN', french_word)
 
     # sauf xxxxxcratique, ...
-    word, _ = re.subn(r'([^DE])RATI[E]$', r'\1RASI', word)
+    french_word = re.sub(r'([^DE])RATI[E]$', r'\1RASI', french_word)
 
     # TIEN TION -> SIEN SION v3.1
-    word, _ = re.subn(r'([^SNEU]|KU|KO|RU|LU|BU|TU|AU)T(IEN|ION)', r'\1S\2', word)
+    french_word = re.sub(r'([^SNEU]|KU|KO|RU|LU|BU|TU|AU)T(IEN|ION)', r'\1S\2', french_word)
 
     # H muet
-    word, _ = re.subn(r'([^CS])H', r'\1', word)
-    word = word.replace("ESH", "ES")
-    word = word.replace("NSH", "NS")
+    french_word = re.sub(r'([^CS])H', r'\1', french_word)
+    french_word = french_word.replace("ESH", "ES")
+    french_word = french_word.replace("NSH", "NS")
     # ou pas!
-    word = word.replace("SH", "CH")
+    french_word = french_word.replace("SH", "CH")
 
     # NASALES
     conv_nas_in = ['OMT', 'IMB', 'IMP', 'UMD', 'TIENT', 'RIENT', 'DIENT', 'IEN', 'YMU', 'YMO',
@@ -277,184 +277,179 @@ def phonetic(word):
     con_nas_out = ['ONT', 'INB', 'INP', 'OND', 'TIANT', 'RIANT', 'DIANT', 'IN', 'IMU', 'IMO',
                   'IMA', 'IME', 'IMI', 'IMN', 'IN', 'AO', 'FIN', 'DIN', 'SIN', 'AIN', 'INS']
     for conv_in, conv_out in zip(conv_nas_in, con_nas_out):
-        word = word.replace(conv_in, conv_out)
+        french_word = french_word.replace(conv_in, conv_out)
 
     # AIN -> IN v2.0
-    word, _ = re.subn(r'AIN$', 'IN', word)
-    word, _ = re.subn(r'AIN([BTDK])', r'IN\1', word)
+    french_word = re.sub(r'AIN$', 'IN', french_word)
+    french_word = re.sub(r'AIN([BTDK])', r'IN\1', french_word)
 
     # UN -> IN
-    word, _ = re.subn(r'([^O])UND', r'\1IND', word)
-    word, _ = re.subn(r'([JTVLFMRPSBD])UN([^IAE])', r'\1IN\2', word)
-    word, _ = re.subn(r'([JTVLFMRPSBD])UN$', r'\1IN', word)
-    word, _ = re.subn(r'RFUM$', 'RFIN', word)
-    word, _ = re.subn(r'LUMB', 'LINB', word)
+    french_word = re.sub(r'([^O])UND', r'\1IND', french_word)
+    french_word = re.sub(r'([JTVLFMRPSBD])UN([^IAE])', r'\1IN\2', french_word)
+    french_word = re.sub(r'([JTVLFMRPSBD])UN$', r'\1IN', french_word)
+    french_word = re.sub(r'RFUM$', 'RFIN', french_word)
+    french_word = re.sub(r'LUMB', 'LINB', french_word)
 
     # EN -> AN
-    word, _ = re.subn(r'([^BCDFGHJKLMNPQRSTVWXZ])EN', r'\1AN', word)
-    word, _ = re.subn(r'([VTLJMRPDSBFKNG])EN([BRCTDKZSVN])', r'\1AN\2', word)
-    word, _ = re.subn(r'([VTLJMRPDSBFKNG])EN([BRCTDKZSVN])', r'\1AN\2', word)
-    word, _ = re.subn(r'^EN([BCDFGHJKLNPQRSTVXZ]|CH|IV|ORG|OB|UI|UA|UY)', r'AN\1', word)
-    word, _ = re.subn(r'(^[JRVTH])EN([DRTFGSVJMP])', r'\1AN\2', word)
-    word, _ = re.subn(r'SEN([ST])', r'SAN\1', word)
-    word, _ = re.subn(r'^DESENIV', 'DESANIV', word)
-    word, _ = re.subn(r'([^M])EN(UI)', r'\1AN\2', word)
-    word, _ = re.subn(r'(.+[JTVLFMRPSBD])EN([JLFDSTG])', r'\1AN\2', word)
+    french_word = re.sub(r'([^BCDFGHJKLMNPQRSTVWXZ])EN', r'\1AN', french_word)
+    french_word = re.sub(r'([VTLJMRPDSBFKNG])EN([BRCTDKZSVN])', r'\1AN\2', french_word)
+    french_word = re.sub(r'([VTLJMRPDSBFKNG])EN([BRCTDKZSVN])', r'\1AN\2', french_word)
+    french_word = re.sub(r'^EN([BCDFGHJKLNPQRSTVXZ]|CH|IV|ORG|OB|UI|UA|UY)', r'AN\1', french_word)
+    french_word = re.sub(r'(^[JRVTH])EN([DRTFGSVJMP])', r'\1AN\2', french_word)
+    french_word = re.sub(r'SEN([ST])', r'SAN\1', french_word)
+    french_word = re.sub(r'^DESENIV', 'DESANIV', french_word)
+    french_word = re.sub(r'([^M])EN(UI)', r'\1AN\2', french_word)
+    french_word = re.sub(r'(.+[JTVLFMRPSBD])EN([JLFDSTG])', r'\1AN\2', french_word)
 
     # EI -> AI
-    word, _ = re.subn(r'([VSBSTNRLPM])E[IY]([ACDFRJLGZ])', r'\1AI\2', word)
-
-    # AIR -> ER
-    word, _ = re.subn(r'AIR$', 'ER', word)
-    word, _ = re.subn(r'AIRE$', 'ER', word)
-    word, _ = re.subn(r'AIRD$', 'ER', word)
+    french_word = re.sub(r'([VSBSTNRLPM])E[IY]([ACDFRJLGZ])', r'\1AI\2', french_word)
 
     # Histoire d'Ô
     conv_nas_in = ['EAU', 'EU', 'Y', 'EOI', 'JEA', 'OIEM', 'OUANJ', 'OUA', 'OUENJ']
     con_nas_out = ['O', 'E', 'I', 'OI', 'JA', 'OIM', 'OUENJ', 'OI', 'OUANJ']
     for conv_in, conv_out in zip(conv_nas_in, con_nas_out):
-        word = word.replace(conv_in, conv_out)
+        french_word = french_word.replace(conv_in, conv_out)
 
     # AU without a following E
-    word, _ = re.subn(r'AU([^E])', r'O\1', word)
+    french_word = re.sub(r'AU([^E])', r'O\1', french_word)
 
     # Les retouches!
     # Retouche BENJ -> BINJ
-    word, _ = re.subn(r'^BENJ', 'BINJ', word)
+    french_word = re.sub(r'^BENJ', 'BINJ', french_word)
     # Retouche RTIEL -> RSIEL
-    word, _ = re.subn(r'RTIEL', 'RSIEL', word)
+    french_word = re.sub(r'RTIEL', 'RSIEL', french_word)
     # Retouche PINK -> PONK
-    word, _ = re.subn(r'PINK', 'PONK', word)
+    french_word = re.sub(r'PINK', 'PONK', french_word)
     # Retouche KIND -> KOND
-    word, _ = re.subn(r'KIND', 'KOND', word)
+    french_word = re.sub(r'KIND', 'KOND', french_word)
     # Retouche KUMN KUMP
-    word, _ = re.subn(r'KUM(N|P)', r'KON\1', word)
+    french_word = re.sub(r'KUM(N|P)', r'KON\1', french_word)
     # Retouche LKOU -> LKO
-    word, _ = re.subn(r'LKOU', 'LKO', word)
+    french_word = re.sub(r'LKOU', 'LKO', french_word)
     # Retouche EDBE pied-bœuf
-    word, _ = re.subn(r'EDBE', 'EBE', word)
+    french_word = re.sub(r'EDBE', 'EBE', french_word)
     # Retouche SCH -> CH
-    word, _ = re.subn(r'ARCM', 'ARKM', word)
+    french_word = re.sub(r'ARCM', 'ARKM', french_word)
     # Retouche SCH -> CH
-    word, _ = re.subn(r'SCH', 'CH', word)
+    french_word = re.sub(r'SCH', 'CH', french_word)
     # Retouche début OINI -> ONI
-    word, _ = re.subn(r'^OINI', 'ONI', word)
+    french_word = re.sub(r'^OINI', 'ONI', french_word)
     # Retouche APT -> AT
-    word, _ = re.subn(r'([^NDCGRHKO])APT', r'\1AT', word)
+    french_word = re.sub(r'([^NDCGRHKO])APT', r'\1AT', french_word)
     # Retouche LPT -> LT
-    word, _ = re.subn(r'([L]|KON)PT', r'\1T', word)
+    french_word = re.sub(r'([L]|KON)PT', r'\1T', french_word)
     # Retouche OTB -> OB (hautbois)
-    word, _ = re.subn(r'OTB', 'OB', word)
+    french_word = re.sub(r'OTB', 'OB', french_word)
     # Retouche IXA -> ISA
-    word, _ = re.subn(r'IXA', 'ISA', word)
+    french_word = re.sub(r'IXA', 'ISA', french_word)
     # Retouche TG -> G
-    word, _ = re.subn(r'TG', 'G', word)
+    french_word = re.sub(r'TG', 'G', french_word)
     # Retouche début TZ -> TS
-    word, _ = re.subn(r'^TZ', 'TS', word)
+    french_word = re.sub(r'^TZ', 'TS', french_word)
     # Retouche PTIE -> TIE
-    word, _ = re.subn(r'PTIE', 'TIE', word)
+    french_word = re.sub(r'PTIE', 'TIE', french_word)
     # Retouche GT -> T
-    word, _ = re.subn(r'GT', 'T', word)
+    french_word = re.sub(r'GT', 'T', french_word)
     # Retouche tranquillement
-    word = word.replace("ANKIEM", "ANKILEM")
+    french_word = french_word.replace("ANKIEM", "ANKILEM")
     # Retouche KEMAN -> KAMAN
-    word, _ = re.subn(r'(LO|RE)KEMAN', r'\1KAMAN', word)
+    french_word = re.sub(r'(LO|RE)KEMAN', r'\1KAMAN', french_word)
     # Retouche TB -> B  TM -> M
-    word, _ = re.subn(r'NT(B|M)', r'N\1', word)
+    french_word = re.sub(r'NT(B|M)', r'N\1', french_word)
     # Retouche GS -> SU
-    word, _ = re.subn(r'GSU', 'SU', word)
+    french_word = re.sub(r'GSU', 'SU', french_word)
     # Retouche ESD -> ED
-    word, _ = re.subn(r'ESD', 'ED', word)
+    french_word = re.sub(r'ESD', 'ED', french_word)
     # Retouche LESQUEL -> LEKEL
-    word, _ = re.subn(r'LESKEL', 'LEKEL', word)
+    french_word = re.sub(r'LESKEL', 'LEKEL', french_word)
     # Retouche CK -> K
-    word, _ = re.subn(r'CK', 'K', word)
+    french_word = re.sub(r'CK', 'K', french_word)
 
     # Terminaisons
     # Terminaisons USIL -> USI
-    word, _ = re.subn(r'USIL$', 'USI', word)
+    french_word = re.sub(r'USIL$', 'USI', french_word)
     # Terminaisons TS DS LS X T D S...  v2.0
-    word, _ = re.subn(r'X$|[TD]S$|[DS]$', '', word)
+    french_word = re.sub(r'X$|[TD]S$|[DS]$', '', french_word)
     # Sauf KT LT terminal
-    word, _ = re.subn(r'([^KL]+)T$', r'\1', word)
+    french_word = re.sub(r'([^KL]+)T$', r'\1', french_word)
     # H pseudo muet en début de mot
-    word, _ = re.subn(r'^[H]', '', word)
+    french_word = re.sub(r'^[H]', '', french_word)
 
     # On sauve le code (utilisé pour les mots très courts)
-    saved_word2 = word
+    saved_word2 = french_word
 
     # Terminaisons TIL -> TI
-    word, _ = re.subn(r'TIL$', 'TI', word)
+    french_word = re.sub(r'TIL$', 'TI', french_word)
     # Terminaisons LC -> LK
-    word, _ = re.subn(r'LC$', 'LK', word)
+    french_word = re.sub(r'LC$', 'LK', french_word)
     # Terminaisons LE LES -> L
-    word, _ = re.subn(r'L[E]?[S]?$', 'L', word)
+    french_word = re.sub(r'L[E]?[S]?$', 'L', french_word)
     # Terminaisons NE NES -> N
-    word, _ = re.subn(r'(.+)N[E]?[S]?$', r'\1N', word)
+    french_word = re.sub(r'(.+)N[E]?[S]?$', r'\1N', french_word)
     # Terminaisons EZ -> E
-    word, _ = re.subn(r'EZ$', 'E', word)
+    french_word = re.sub(r'EZ$', 'E', french_word)
     # Terminaisons OIG -> OI
-    word, _ = re.subn(r'OIG$', 'OI', word)
+    french_word = re.sub(r'OIG$', 'OI', french_word)
     # Terminaisons OUP -> OU
-    word, _ = re.subn(r'OUP$', 'OU', word)
+    french_word = re.sub(r'OUP$', 'OU', french_word)
     # Terminaisons OM -> ON sauf ROM
-    word, _ = re.subn(r'([^R])OM$', r'\1ON', word)
+    french_word = re.sub(r'([^R])OM$', r'\1ON', french_word)
     # Terminaisons LOP -> LO
-    word, _ = re.subn(r'LOP$', 'LO', word)
+    french_word = re.sub(r'LOP$', 'LO', french_word)
     # Terminaisons NTANP -> NTAN
-    word, _ = re.subn(r'NTANP$', 'NTAN', word)
+    french_word = re.sub(r'NTANP$', 'NTAN', french_word)
     # Terminaisons TUN -> TIN
-    word, _ = re.subn(r'TUN$', 'TIN', word)
+    french_word = re.sub(r'TUN$', 'TIN', french_word)
     # Terminaisons AU -> O
-    word, _ = re.subn(r'AU$', 'O', word)
+    french_word = re.sub(r'AU$', 'O', french_word)
     # Terminaisons EI -> AI
-    word, _ = re.subn(r'EI$', 'AI', word)
+    french_word = re.sub(r'EI$', 'AI', french_word)
     # Terminaisons RD RG -> R
-    word, _ = re.subn(r'R[DG]$', 'R', word)
+    french_word = re.sub(r'R[DG]$', 'R', french_word)
     # Terminaisons ANC -> AN
-    word, _ = re.subn(r'ANC$', 'AN', word)
+    french_word = re.sub(r'ANC$', 'AN', french_word)
     # Terminaisons C muet de CROC, ESCROC
-    word, _ = re.subn(r'KROC$', 'KRO', word)
+    french_word = re.sub(r'KROC$', 'KRO', french_word)
     # Terminaisons C muet de CAOUTCHOUC
-    word, _ = re.subn(r'HOUC$', 'HOU', word)
+    french_word = re.sub(r'HOUC$', 'HOU', french_word)
     # Terminaisons C muet de ESTOMAC (mais pas HAMAC)
-    word, _ = re.subn(r'OMAC$', 'OMA', word)
+    french_word = re.sub(r'OMAC$', 'OMA', french_word)
     # Terminaisons C et G muet de OUC ONC OUG
-    word, _ = re.subn(r'([J])O([NU])[CG]$', r'\1O\2', word)
+    french_word = re.sub(r'([J])O([NU])[CG]$', r'\1O\2', french_word)
     # Terminaisons G muet ANG ONG sauf GANG GONG TANG TONG
-    word, _ = re.subn(r'([^GTR])([AO])NG$', r'\1\2N', word)
+    french_word = re.sub(r'([^GTR])([AO])NG$', r'\1\2N', french_word)
     # Terminaisons UC -> UK
-    word, _ = re.subn(r'UC$', 'UK', word)
+    french_word = re.sub(r'UC$', 'UK', french_word)
     # Terminaisons AING -> IN
-    word, _ = re.subn(r'AING$', 'IN', word)
+    french_word = re.sub(r'AING$', 'IN', french_word)
     # Terminaisons C -> K
-    word, _ = re.subn(r'([EISOARN])C$', r'\1K', word)
+    french_word = re.sub(r'([EISOARN])C$', r'\1K', french_word)
     # Terminaisons E ou H sauf pour C et N
-    word, _ = re.subn(r'([ABD-MO-Z]+)[EH]+$', r'\1', word)
+    french_word = re.sub(r'([ABD-MO-Z]+)[EH]+$', r'\1', french_word)
     # Terminaisons EN -> AN (difficile à faire avant sans avoir des soucis)
-    word, _ = re.subn(r'EN$', 'AN', word)
+    french_word = re.sub(r'EN$', 'AN', french_word)
     # Terminaisons EN -> AN
-    word, _ = re.subn(r'(NJ)EN$', r'\1AN', word)
+    french_word = re.sub(r'(NJ)EN$', r'\1AN', french_word)
     # PAIE -> PAI
-    word, _ = re.subn(r'^PAIEM', 'PAIM', word)
+    french_word = re.sub(r'^PAIEM', 'PAIM', french_word)
     # F muet en fin de mot
-    word, _ = re.subn(r'([^NTB])EF$', r'\1', word)
+    french_word = re.sub(r'([^NTB])EF$', r'\1', french_word)
 
     # Suppression des répétitions (suite à certains remplacements)
-    word, _ = re.subn(r'(.)\1', r'\1', word)
+    french_word = re.sub(r'(.)\1', r'\1', french_word)
 
     # Cas particuliers, bah au final, je n'en ai qu'un ici
     conv_part_in = ['FUEL']
     conv_part_out = ['FIOUL']
     for conv_in, conv_out in zip(conv_part_in, conv_part_out):
-        word = word.replace(conv_in, conv_out)
+        french_word = french_word.replace(conv_in, conv_out)
 
     # Ce sera le seul code retourné à une seule lettre!
-    if word == 'O':
-        return word
+    if french_word == 'O':
+        return french_word
 
     # seconde chance sur les mots courts qui ont souffert de la simplification
-    if len(word) < 2:
+    if len(french_word) < 2:
         # Sigles ou abréviations
         if bool(re.match(
                 "[BCDFGHJKLMNPQRSTVWXYZ]"+
@@ -472,8 +467,8 @@ def phonetic(word):
         if len(saved_word2) > 1:
             return saved_word2
 
-    elif len(word) > 1:
-        return word[:16]  # Je limite à 16 caractères mais vous faites comme vous voulez!
+    elif len(french_word) > 1:
+        return french_word[:16]  # Je limite à 16 caractères mais vous faites comme vous voulez!
 
     return ''
 
