@@ -2,11 +2,13 @@
 [![Python versions](https://img.shields.io/pypi/pyversions/phonetic_fr.svg)](https://pypi.org/project/phonetic_fr/)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-# Phonetic-FR
+# Phonetic_FR
 A Soundex-Like Phonetic Algorithm in Python for the French Language
 
+For multilanguage phonetic comparison of words, see [https://github.com/gaspardpetit/phonetic_distance-py](https://github.com/gaspardpetit/phonetic_distance-py)
+
 ## Purpose
-Phonetic-FR implements a Soundex phonetic algorithm, used to compare words by their sound when pronounced in French. The algorithm is particularly useful for tasks such as matching similar-sounding words, especially in cases where the spelling might vary.
+Phonetic_FR implements a Soundex phonetic algorithm, used to compare words by their sound when pronounced in French. The algorithm is particularly useful for tasks such as matching similar-sounding words, especially in cases where the spelling might vary.
 
 ## How to install
 ```{bash}
@@ -15,7 +17,7 @@ pip install phonetic_fr
 
 ## Usage in shell
 ```{bash}
-echo "Le ver vert glisse vers le verre" | phonetic-fr
+echo "Le ver vert glisse vers le verre" | phonetic_fr
 ```
 Prints:
 ```{bash}
@@ -73,7 +75,7 @@ print(f"{original}\n{transformed}")
 ```
 
 ## Description
-Phonetic-FR is a phonetic algorithm for the French language, similar to the Soundex algorithm used for English. Here is a summary of its functionality:
+Phonetic_FR is a phonetic algorithm for the French language, similar to the Soundex algorithm used for English. Here is a summary of its functionality:
 
 - **Accent and Case Normalization**: The function starts by normalizing accented characters to their unaccented counterparts and converting lowercase letters to uppercase.
 
@@ -93,7 +95,7 @@ Phonetic-FR is a phonetic algorithm for the French language, similar to the Soun
 
 ## License
 
-Phonetic-FR is released under the MIT license. Feel free to use, modify, and distribute it according to the terms of the license.
+Phonetic_FR is released under the MIT license. Feel free to use, modify, and distribute it according to the terms of the license.
 
 ## Credits
 
