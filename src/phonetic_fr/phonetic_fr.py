@@ -34,17 +34,19 @@ def phonetic(french_word):
     'PITON'
     """
 
-    # minuscules accentuées ou composées en majuscules simples
-    french_word = french_word.translate(str.maketrans(MIN_TO_MAJ))
-    # majuscules accentuées ou composées en majuscules simples
-    french_word = french_word.translate(str.maketrans(ACCENTS))
-    # on passe tout le reste en majuscules
-    french_word = french_word.upper()
     # on garde uniquement les lettres de A à Z
     french_word = ''.join(char for char in french_word if char.isalpha())
 
+    # on passe tout le reste en majuscules
+    french_word = french_word.upper()
+
     # on sauve le code (utilisé pour les mots très courts)
     saved_word = french_word
+    # minuscules accentuées ou composées en majuscules simples
+    saved_word = saved_word.translate(str.maketrans(MIN_TO_MAJ))
+    # majuscules accentuées ou composées en majuscules simples
+    saved_word = saved_word.translate(str.maketrans(ACCENTS))
+
     # pré traitement: OO... -> OU
     french_word = re.sub(r'O[O]+', 'OU', french_word)
     # pré traitement: SAOU -> SOU
@@ -55,7 +57,18 @@ def phonetic(french_word):
     french_word = re.sub(r'CCH', 'K', french_word)
     # pré traitement: CCI CCY CCE
     french_word = re.sub(r'CC([IYE])', r'KS\1', french_word)
+
+    # minuscules accentuées ou composées en majuscules simples
+    french_word = french_word.translate(str.maketrans(MIN_TO_MAJ))
+    # majuscules accentuées ou composées en majuscules simples
+    french_word = french_word.translate(str.maketrans(ACCENTS))
+
     # supression des répétitions
+    conv_mapping = {
+        "DILLEM": "DIEM"
+    }
+    for conv_in, conv_out in conv_mapping.items():
+        french_word = french_word.replace(conv_in, conv_out)
     french_word = re.sub(r'(.)\1', r'\1', french_word)
 
     # quelques cas particuliers
@@ -126,13 +139,26 @@ def phonetic(french_word):
     french_word = re.sub(r'([G])UIL([AEO])', r'\1UI\2', french_word)
     french_word = re.sub(r'([NSPM])AIL([AEO])', r'\1AI\2', french_word)
 
-    conv_m_in = ["DILAI", "DILON", "DILER", "DILEM", "RILON", "TAILE", "GAILET",
-                    "AILAI", "AILAR", "OUILA", "EILAI", "EILAR", "EILER", "EILEM",
-                    "REILET", "EILET", "AILOL"]
-    conv_m_ou = ["DIAI", "DION", "DIER", "DIEM", "RION", "TAIE", "GAIET",
-                     "AIAI", "AIAR", "OUIA", "AIAI", "AIAR", "AIER", "AIEM",
-                     "RAIET", "EIET", "AIOL"]
-    for conv_in, conv_out in zip(conv_m_in, conv_m_ou):
+    conv_mapping = {
+        "DILAI": "DIAI",
+        "DILON": "DION",
+        "DILER": "DIER",
+        "RILON": "RION",
+        "TAILE": "TAIE",
+        "GAILET": "GAIET",
+        "AILAI": "AIAI",
+        "AILAR": "AIAR",
+        "OUILA": "OUIA",
+        "EILAI": "AIAI",
+        "EILAR": "AIAR",
+        "EILER": "AIER",
+        "EILEM": "AIEM",
+        "REILET": "RAIET",
+        "EILET": "EIET",
+        "AILOL": "AIOL"
+    }
+
+    for conv_in, conv_out in conv_mapping.items():
         french_word = french_word.replace(conv_in, conv_out)
 
     # IEM -> IAM
@@ -447,10 +473,10 @@ def phonetic(french_word):
 
 def main():
     """Sample usage"""
-    example = "Python"
+    example = "ténuité"
     result = phonetic(example)
     print(f"{example} -> {result}")
-    print(phonetic("Gilles") == phonetic("Jill"))
+    #print(phonetic("Gilles") == phonetic("Jill"))
 
 if __name__ == '__main__':
     main()

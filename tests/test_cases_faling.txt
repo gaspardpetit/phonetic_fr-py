@@ -1,0 +1,8 @@
+# These words are known to fail
+jogging JOJING
+désennuyer DESENUI
+angström ANGSTROM
+canoéiste KANEIST
+Eichstat EICHTA
+Gœring JERING
+ténuité TANUIT
