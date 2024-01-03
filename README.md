@@ -1,5 +1,6 @@
+[![PyPI version](https://badge.fury.io/py/phonetic-fr.svg)](https://pypi.python.org/pypi/phonetic-fr/)
 [![Pylint](https://github.com/gaspardpetit/phonetic_fr-py/actions/workflows/pylint.yml/badge.svg)](https://github.com/gaspardpetit/phonetic_fr-py/actions/workflows/pylint.yml)[![Python package](https://github.com/gaspardpetit/phonetic_fr-py/actions/workflows/python-package.yml/badge.svg)](https://github.com/gaspardpetit/phonetic_fr-py/actions/workflows/python-package.yml)
-[![Python versions](https://img.shields.io/pypi/pyversions/phonetic_fr.svg)](https://pypi.org/project/phonetic_fr/)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python versions](https://img.shields.io/pypi/pyversions/phonetic-fr.svg)](https://pypi.org/project/phonetic-fr/)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 # phonetic-fr
