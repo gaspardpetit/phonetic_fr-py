@@ -2,17 +2,17 @@
 [![Python versions](https://img.shields.io/pypi/pyversions/phonetic_fr.svg)](https://pypi.org/project/phonetic_fr/)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-# Phonetic_FR
+# phonetic-fr
 A Soundex-Like Phonetic Algorithm in Python for the French Language
 
 For multilanguage phonetic comparison of words, see [https://github.com/gaspardpetit/phonetic_distance-py](https://github.com/gaspardpetit/phonetic_distance-py)
 
 ## Purpose
-Phonetic_FR implements a Soundex phonetic algorithm, used to compare words by their sound when pronounced in French. The algorithm is particularly useful for tasks such as matching similar-sounding words, especially in cases where the spelling might vary.
+phonetic-fr implements a Soundex phonetic algorithm, used to compare words by their sound when pronounced in French. The algorithm is particularly useful for tasks such as matching similar-sounding words, especially in cases where the spelling might vary.
 
 ## How to install
 ```{bash}
-pip install phonetic_fr
+pip install phonetic-fr
 ```
 
 ## Usage in shell
@@ -69,13 +69,12 @@ print(f"Phonetic Levenshtein distance of '{word_a}' and '{word_b}': {phonetic_di
 
 Prints
 ```
-original = "Le ver vert glisse vers le verre"
-transformed = phonetic_text("Le ver vert glisse vers le verre")
-print(f"{original}\n{transformed}")
+Levenshtein distance of 'drapeau' and 'crapaud': 3
+Phonetic Levenshtein distance of 'drapeau' and 'crapaud': 1
 ```
 
 ## Description
-Phonetic_FR is a phonetic algorithm for the French language, similar to the Soundex algorithm used for English. Here is a summary of its functionality:
+phonetic-fr is a phonetic algorithm for the French language, similar to the Soundex algorithm used for English. Here is a summary of its functionality:
 
 - **Accent and Case Normalization**: The function starts by normalizing accented characters to their unaccented counterparts and converting lowercase letters to uppercase.
 
@@ -95,7 +94,7 @@ Phonetic_FR is a phonetic algorithm for the French language, similar to the Soun
 
 ## License
 
-Phonetic_FR is released under the MIT license. Feel free to use, modify, and distribute it according to the terms of the license.
+phonetic-fr is released under the MIT license. Feel free to use, modify, and distribute it according to the terms of the license.
 
 ## Credits
 
