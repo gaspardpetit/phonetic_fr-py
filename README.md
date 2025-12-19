@@ -91,7 +91,7 @@ phonetic-fr is a phonetic algorithm for the French language, similar to the Soun
 
 - **Terminations**: The function applies final rules to the end of the phonetic code, such as trimming certain letters from the end of the word.
 
-- **Output**: The function returns a phonetic code representing the input string, with a maximum length of 16 characters. If the resulting code is a single letter 'O', it is returned as is. For very short words that may have lost their distinctiveness during processing, the function may revert to earlier saved states of the input string to provide a more accurate phonetic code.
+- **Output**: The function returns a phonetic code representing the input string. If the resulting code is a single letter 'O', it is returned as is. For very short words that may have lost their distinctiveness during processing, the function may revert to earlier saved states of the input string to provide a more accurate phonetic code.
 
 ## License
 
