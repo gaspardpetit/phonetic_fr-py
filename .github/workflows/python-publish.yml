@@ -5,7 +5,7 @@ on:
     types: [published]
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   pypi-publish:
@@ -13,13 +13,66 @@ jobs:
     runs-on: ubuntu-latest
     environment: release
     permissions:
+      contents: write
       id-token: write
+    env:
+      RELEASE_BRANCH: ${{ github.event.release.target_commitish || github.event.repository.default_branch }}
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout target branch
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        ref: ${{ env.RELEASE_BRANCH }}
     - name: Set up Python
-      uses: actions/setup-python@v3
+      uses: actions/setup-python@v5
       with:
         python-version: '3.x'
+    - name: Determine release version
+      id: release_version
+      shell: bash
+      env:
+        RELEASE_TAG: ${{ github.event.release.tag_name }}
+      run: |
+        python <<'PY'
+        import os
+
+        tag = os.environ["RELEASE_TAG"].strip()
+        if not tag:
+            raise SystemExit("Release tag is required")
+        version = tag[1:] if tag.lower().startswith("v") else tag
+        if not version:
+            raise SystemExit(f"Unable to derive version from tag '{tag}'")
+        with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as fh:
+            fh.write(f"tag={tag}\n")
+            fh.write(f"version={version}\n")
+        PY
+    - name: Sync __version__ with release tag
+      shell: bash
+      env:
+        TARGET_VERSION: ${{ steps.release_version.outputs.version }}
+      run: |
+        file="phonetic_fr/__init__.py"
+        if grep -Eq "__version__\s*=\s*['\"]${TARGET_VERSION}['\"]" "$file"; then
+            echo "__version__ already ${TARGET_VERSION}"
+            exit 0
+        fi
+        perl -0pi -e "s/__version__\s*=\s*['\"][^'\"]*['\"]/__version__ = '${TARGET_VERSION}'/" "$file"
+    - name: Commit and push version bump
+      shell: bash
+      env:
+        RELEASE_TAG: ${{ steps.release_version.outputs.tag }}
+        TARGET_BRANCH: ${{ env.RELEASE_BRANCH }}
+      run: |
+        if git diff --quiet; then
+            echo "__version__ already matches ${RELEASE_TAG}"
+            exit 0
+        fi
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git config user.name "github-actions[bot]"
+        git commit -am "chore: release ${RELEASE_TAG}"
+        git push origin HEAD:"${TARGET_BRANCH}"
+        git tag -fa "${RELEASE_TAG}" -m "Release ${RELEASE_TAG}"
+        git push origin "${RELEASE_TAG}" --force
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
