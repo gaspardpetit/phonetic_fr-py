@@ -468,7 +468,7 @@ def phonetic(french_word):
             return saved_word2
 
     elif len(french_word) > 1:
-        return french_word[:16]  # Je limite à 16 caractères mais vous faites comme vous voulez!
+        return french_word
 
     return ''
 
