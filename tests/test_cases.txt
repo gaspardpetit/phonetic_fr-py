@@ -722,7 +722,7 @@ etage ETAJ
 etaler ETAL
 etalon ETALON
 eteindre ETINDR
-ether ET
+ether ETER
 etoile ETOIL
 ethylique ETILIK
 etincelle ETINSEL
@@ -1059,7 +1059,7 @@ camoufler KAMOUFL
 camouflage KAMOUFLAJ
 calvados KALVADO
 canadien KANADIN
-cancer KANS
+cancer KANSER
 canaille KANAI
 camphre KANFR
 caniveau KANIVO
@@ -1328,6 +1328,7 @@ gamine GAMIN
 gamma GAMA
 gammee GAM
 gamme GAM
+gamer GAMER
 gang GANG
 ganglion GANGLION
 gangster GANGST
@@ -1712,7 +1713,7 @@ haltere ALTER
 hameau AMO
 hamac AMAK
 hampe ANP
-hamburger ANBURJ
+hamburger ANBURG
 hanche ANCH
 handicap ANDIKAP
 hangar ANGAR
@@ -1799,7 +1800,7 @@ hispanique ISPANIK
 hisser IS
 histoire ISTOIR
 historique ISTORIK
-hiver IV
+hiver IVER
 hobby OBI
 hocher OCH
 hockey OKAI
@@ -2398,7 +2399,7 @@ larve LARV
 larynx LARIN
 lasagnes LASAN
 lasso LASO
-laser LAS
+laser LASER
 latex LAT
 latin LATIN
 latitude LATITUD
@@ -2416,7 +2417,7 @@ layette LAIET
 lazaret LAZAR
 lazariste LAZARIST
 leasing LEASING
-leader LEAD
+leader LEADER
 lecher LECH
 lecheur LECHER
 lecteur LEKTER
@@ -2798,7 +2799,7 @@ menthe MANT
 mentor MANTOR
 menuet MENU
 meplat MEPLA
-mer ME
+mer MER
 mercenaire MERSENAIR
 mercerie MERSERI
 merci MERSI
@@ -2877,6 +2878,7 @@ miniature MINIATUR
 minime MINIM
 minium MINIUM
 minou MINOU
+minster MINSTER
 minuscule MINUSKUL
 minuit MINUI
 minutie MINUSI
@@ -4023,7 +4025,7 @@ poiscaille POISKAIL
 poisson POISON
 poivre POIVR
 poix POI
-poker POK
+poker POKER
 polaire POLAIR
 pole POL
 polariser POLARIS
@@ -5400,7 +5402,7 @@ scalene SKALAN
 scampi SKANPI
 scandale SKANDAL
 scandinave SKANDINAV
-scanner SKAN
+scanner SKANER
 scapulaire SKAPULAIR
 scarole SKAROL
 scarifier SKARIFI
@@ -5748,7 +5750,7 @@ spectre SPEKTR
 speculer SPEKUL
 speech SPECH
 sphere SFER
-sphincter SFINKT
+sphincter SFINKTER
 sphinx SFIN
 spinal SPINAL
 spider SPID
@@ -5781,7 +5783,7 @@ stance STANS
 stand STAN
 standing STANDING
 star STAR
-starter START
+starter STARTER
 station STASION
 stase STAS
 statique STATIK
@@ -10999,6 +11001,7 @@ amenuisee AMENUIS
 amenuisement AMENUISEMAN
 amenuiser AMENUIS
 amenuiserai AMENUISERAI
+amer AMER
 amere AMER
 amerement AMEREMAN
 americaine AMERIKAIN
@@ -16386,7 +16389,7 @@ bookmaker BOUKMAK
 Boole BOUL
 booleenne BOULAN
 boom BOUM
-booster BOUST
+booster BOUSTER
 boot BOU
 bootlegger BOUTLEJ
 bop BOP
@@ -17534,7 +17537,8 @@ bulles BUL
 bulletin BULETIN
 bulleuse BULES
 buna BUNA
-bunker BINK
+bunker BINKER
+burger BURGER
 bupreste BUPREST
 buraliste BURALIST
 bure BUR
@@ -18874,7 +18878,7 @@ Cartan KARTAN
 cartayer KARTAI
 cartel KARTEL
 cartellisation KARTELISASION
-carter KART
+carter KARTER
 cartesianisme KARTESIANISM
 cartesienne KARTESIN
 Carthage KARTAJ
@@ -19704,6 +19708,7 @@ chaperonne CHAPERON
 chaperonner CHAPERON
 chaperonnerai CHAPERONERAI
 chapiteau CHAPITO
+chapiter CHAPITER
 chapitrai CHAPITRAI
 chapitrais CHAPITRAI
 chapitre CHAPITR
@@ -21092,6 +21097,7 @@ club KLUB
 clubiste KLUBIST
 clunisienne KLUNISIN
 cluse KLUS
+cluster KLUSTER
 clystere KLISTER
 cm CM
 cnemide KNEMID
@@ -22616,7 +22622,7 @@ contagionner KONTAJION
 contagionnerai KONTAJIONERAI
 contagiosite KONTAJIOSIT
 contai KONTAI
-container KONTAIN
+container KONTAINER
 containerisai KONTAINERISAI
 containerisais KONTAINERISAI
 containerise KONTAINERIS
@@ -24293,7 +24299,7 @@ cutanee KUTAN
 cuti KUTI
 cuticule KUTIKUL
 cutine KUTIN
-cutter KUT
+cutter KUTER
 cuvage KUVAJ
 cuvai KUVAI
 cuvais KUVAI
@@ -24597,7 +24603,7 @@ Dawkins DAWKIN
 Dayan DAIAN
 dazibao DAZIBAO
 DDRAM DRAM
-dealer DEAL
+dealer DEALER
 deambulai DEANBULAI
 deambulais DEANBULAI
 deambulation DEANBULASION
@@ -30583,6 +30589,7 @@ Dumas DUMA
 dument DUMAN
 Duminy DUMINI
 dumping DUMPING
+dumpster DUMPSTER
 dundee DIND
 dune DUN
 Dunedin DUNEDIN
@@ -33768,7 +33775,7 @@ enfarine ANFARIN
 enfarinee ANFARIN
 enfariner ANFARIN
 enfarinerai ANFARINERAI
-enfer ANF
+enfer ANFER
 enfermai ANFERMAI
 enfermais ANFERMAI
 enferme ANFERM
@@ -42093,7 +42100,7 @@ hachure ACHUR
 hachurer ACHUR
 hachurerai ACHURERAI
 hacienda ASIANDA
-hacker AK
+hacker AKER
 Hadamard ADAMAR
 hadith ADI
 hadji ADJI
@@ -46637,7 +46644,7 @@ jointoyai JOINTOIAI
 jointoyer JOINTOI
 jointoyeur JOINTOIER
 jointure JOINTUR
-joker JOK
+joker JOKER
 jolie JOLI
 joliesse JOLIES
 joliment JOLIMAN
@@ -59414,6 +59421,7 @@ puits PUI
 pulicaire PULIKAIR
 pull PUL
 pullman PULMAN
+pullover PULOVER
 pullorose PULOROS
 pullulai PULULAI
 pullulais PULULAI
@@ -64332,7 +64340,7 @@ rocher ROCH
 rochet ROCH
 rocheuse ROCHES
 rochier ROCHI
-rocker ROK
+rocker ROKER
 rocket ROK
 rockeuse ROKES
 rocou ROKOU
@@ -68804,7 +68812,7 @@ swahilie SOILI
 swap SOIP
 swastika SOISTIKA
 Swaziland SOIZILAN
-sweater SWEAT
+sweater SWEATER
 sweating SWEATING
 sweepstake SWEPSTAK
 swinguai SOUINGAI
