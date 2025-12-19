@@ -25,11 +25,11 @@ setup(
     long_description_content_type='text/markdown',
     entry_points={
         'console_scripts': [
-            'phonetic_fr = phonetic_distance.__main__:main',
+            'phonetic_fr = phonetic_fr.__main__:main',
         ],
     },
     install_requires=requirements,
-    python_requires=">=3.6",
+    python_requires=">=3.8",
     url="https://github.com/gaspardpetit/phonetic_fr-py",
     classifiers=[
         "Development Status :: 5 - Production/Stable",
@@ -41,5 +41,8 @@ setup(
         "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3.10",
         "Programming Language :: Python :: 3.11",
+        "Programming Language :: Python :: 3.12",
+        "Programming Language :: Python :: 3.13",
+        "Programming Language :: Python :: 3.14",
     ],
 )
