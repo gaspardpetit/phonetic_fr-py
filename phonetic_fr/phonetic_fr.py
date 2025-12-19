@@ -27,7 +27,7 @@ ER_R_EXCEPTIONS = {
     "SPHINCTER", "STARTER", "SWEATER", "ULCERE", "VER", "VERS",
 }
 
-# pylint: disable=too-many-return-statements,too-many-branches,too-many-statements
+# pylint: disable=too-many-return-statements,too-many-branches,too-many-statements,too-many-locals
 def phonetic(french_word):
     """
     Converts a French word into its phonetic representation.
@@ -515,7 +515,7 @@ def main():
 
     # Improve Levenshtein's distance
     # pylint: disable=import-outside-toplevel
-    from Levenshtein import distance
+    from Levenshtein import distance  # pylint: disable=import-error
     word_a = "drapeau"
     word_b = "crapaud"
     raw_distance = distance(word_a, word_b)
