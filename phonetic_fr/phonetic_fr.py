@@ -18,7 +18,16 @@ MIN_TO_MAJ = {'é': 'É', 'è': 'È', 'ë': 'Ë', 'ê': 'Ê', 'á': 'Á', 'â': 
             'ô': 'Ô', 'ö': 'Ö', 'ò': 'Ò', 'ó': 'Ó', 'õ': 'Õ', 'ø': 'Ø', 'œ': 'Œ',
             'ú': 'Ú', 'ù': 'Ù', 'û': 'Û', 'ü': 'Ü', 'ç': 'Ç', 'ñ': 'Ñ', 'ß': 'S'}
 
-# pylint: disable=too-many-return-statements,too-many-branches,too-many-statements
+# Noms en -ER dont le R final est prononcé (contrairement aux infinitifs)
+ER_R_EXCEPTIONS = {
+    "AMER", "BUNKER", "BOOSTER", "BURGER", "CANCER", "CARTER", "ENFER",
+    "CHAPITER", "CLUSTER", "CONTAINER", "CUTTER", "DEALER", "DUMPSTER",
+    "ETHER", "FER", "GAMER", "HACKER", "HIVER", "JOKER", "LASER", "LEADER",
+    "MER", "MINSTER", "PARTERRE", "POKER", "PULLOVER", "ROCKER", "SCANNER",
+    "SPHINCTER", "STARTER", "SWEATER", "ULCERE", "VER", "VERS",
+}
+
+# pylint: disable=too-many-return-statements,too-many-branches,too-many-statements,too-many-locals
 def phonetic(french_word):
     """
     Converts a French word into its phonetic representation.
@@ -46,6 +55,8 @@ def phonetic(french_word):
     saved_word = saved_word.translate(str.maketrans(MIN_TO_MAJ))
     # majuscules accentuées ou composées en majuscules simples
     saved_word = saved_word.translate(str.maketrans(ACCENTS))
+
+    keep_final_r = french_word in ER_R_EXCEPTIONS
 
     # pré traitement: OO... -> OU
     french_word = re.sub(r'O[O]+', 'OU', french_word)
@@ -100,7 +111,8 @@ def phonetic(french_word):
     # Terminations OING -> OIN
     french_word = re.sub(r'OIN[GT]$', 'OIN', french_word)
     # Remove infinitive and plural participle endings
-    french_word = re.sub(r'E[RS]$', 'E', french_word)
+    if not keep_final_r:
+        french_word = re.sub(r'E[RS]$', 'E', french_word)
     # pré traitement OEU -> EU
     french_word = re.sub(r'(C|CH)OEU', 'KE', french_word)
     # pré traitement OEU -> EU
@@ -503,7 +515,7 @@ def main():
 
     # Improve Levenshtein's distance
     # pylint: disable=import-outside-toplevel
-    from Levenshtein import distance
+    from Levenshtein import distance  # pylint: disable=import-error
     word_a = "drapeau"
     word_b = "crapaud"
     raw_distance = distance(word_a, word_b)

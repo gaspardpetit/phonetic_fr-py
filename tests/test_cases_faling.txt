@@ -1,8 +1,10 @@
 # These words are known to fail
-jogging JOJING
-désennuyer DESENUI
 angström ANGSTROM
+hamburger ANBURJ
+burger BURJER
 canoéiste KANEIST
+désennuyer DESENUI
 Eichstat EICHTA
 Gœring JERING
+jogging JOJING
 ténuité TANUIT
